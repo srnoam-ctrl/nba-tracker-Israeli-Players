@@ -22,24 +22,18 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
-
-      - name: Grant Execute Permission to Gradle
-        run: |
-          cd android
-          gradle wrapper --gradle-version 8.7
-          chmod +x gradlew
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
 
       - name: Build Android APK (Debug/Direct Install)
         run: |
           cd android
-          ./gradlew assembleDebug --stacktrace
+          gradle assembleDebug --stacktrace
 
       - name: Build Android App Bundle (AAB for Google Play)
         run: |
           cd android
-          ./gradlew bundleRelease --stacktrace
+          gradle bundleRelease --stacktrace
 
       - name: Upload APK for Direct Phone Installation
         uses: actions/upload-artifact@v4
