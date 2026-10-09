@@ -1,0 +1,3338 @@
+window.GAMES_DATA = {
+  "last_updated": "2026-10-08T18:23:23.894875+03:00",
+  "last_updated_display": "08/10/2026 18:23:23",
+  "pini_channel": {
+    "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
+    "series_name": "מעקבדיה",
+    "channel_url": "https://www.youtube.com/@PiniBarel",
+    "total_recent_videos": 15
+  },
+  "players": [
+    {
+      "id": "deni_avdija",
+      "name": "Deni Avdija",
+      "name_he": "דני אבדיה",
+      "team_slug": "por",
+      "team_name": "Portland Trail Blazers",
+      "team_name_he": "פורטלנד טרייל בלייזרס",
+      "jersey": "8",
+      "position": "Forward",
+      "position_he": "סמול פורוורד",
+      "espn_id": "4683021",
+      "x_pr_account": "TrailBlazersPR",
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683021.png",
+      "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+      "team_color": "#E03A3E",
+      "bio": "פורוורד פורטלנד טרייל בלייזרס. נבחר במקום ה-9 בדראפט 2020. הישראלי הבכיר בליגה ואולסטאר NBA.",
+      "status": {
+        "status": "Active",
+        "is_playing": "YES",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "last_updated": "2026-10-08T15:23:47.926646+00:00"
+      },
+      "total_games": 4,
+      "games": [
+        {
+          "id": "401914129",
+          "name": "Golden State Warriors at Portland Trail Blazers",
+          "short_name": "GS @ POR",
+          "utc_date": "2026-10-08T02:00Z",
+          "date_il": "2026-10-08",
+          "time_il": "05:00",
+          "display_datetime_il": "08/10/2026 05:00",
+          "day_name_en": "Thursday",
+          "day_name_he": "יום חמישי",
+          "is_home": true,
+          "opponent": {
+            "id": "9",
+            "name": "Golden State Warriors",
+            "abbrev": "GS",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+          },
+          "home_team": {
+            "id": "22",
+            "name": "Portland Trail Blazers",
+            "abbrev": "POR",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+          },
+          "away_team": {
+            "id": "9",
+            "name": "Golden State Warriors",
+            "abbrev": "GS",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+          },
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
+          "us_broadcast": "NBA TV",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
+            "broadcast_time": "05:30",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": true,
+            "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
+            "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
+            "published_date": "2026-10-08",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 13.4,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": true,
+              "minutes": "21",
+              "points": "23",
+              "rebounds": "2",
+              "assists": "2",
+              "steals": "0",
+              "blocks": "0",
+              "fg": "9-13",
+              "three_pt": "3-6",
+              "ft": "2-4",
+              "turnovers": "2",
+              "plus_minus": "-2",
+              "final_scores": {
+                "POR": "123",
+                "GS": "118"
+              }
+            }
+          }
+        },
+        {
+          "id": "401914130",
+          "name": "London Lions at Portland Trail Blazers",
+          "short_name": "LON @ POR",
+          "utc_date": "2026-10-12T20:00Z",
+          "date_il": "2026-10-12",
+          "time_il": "23:00",
+          "display_datetime_il": "12/10/2026 23:00",
+          "day_name_en": "Monday",
+          "day_name_he": "יום שני",
+          "is_home": true,
+          "opponent": {
+            "id": "134478",
+            "name": "London Lions",
+            "abbrev": "LON",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lon.png"
+          },
+          "home_team": {
+            "id": "22",
+            "name": "Portland Trail Blazers",
+            "abbrev": "POR",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+          },
+          "away_team": {
+            "id": "134478",
+            "name": "London Lions",
+            "abbrev": "LON",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lon.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Mon, October 12th at 4:00 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "NBA League Pass",
+          "tv_broadcast": {
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        },
+        {
+          "id": "401901826",
+          "name": "Portland Trail Blazers at Sacramento Kings",
+          "short_name": "POR @ SAC",
+          "utc_date": "2026-10-14T02:00Z",
+          "date_il": "2026-10-14",
+          "time_il": "05:00",
+          "display_datetime_il": "14/10/2026 05:00",
+          "day_name_en": "Wednesday",
+          "day_name_he": "יום רביעי",
+          "is_home": false,
+          "opponent": {
+            "id": "23",
+            "name": "Sacramento Kings",
+            "abbrev": "SAC",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+          },
+          "home_team": {
+            "id": "23",
+            "name": "Sacramento Kings",
+            "abbrev": "SAC",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+          },
+          "away_team": {
+            "id": "22",
+            "name": "Portland Trail Blazers",
+            "abbrev": "POR",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Tue, October 13th at 10:00 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "NBA League Pass",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: סקרמנטו - פורטלנד, משחק קדם עונה",
+            "broadcast_time": "05:00",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        },
+        {
+          "id": "401898409",
+          "name": "Portland Trail Blazers at Golden State Warriors",
+          "short_name": "POR @ GS",
+          "utc_date": "2026-10-17T02:00Z",
+          "date_il": "2026-10-17",
+          "time_il": "05:00",
+          "display_datetime_il": "17/10/2026 05:00",
+          "day_name_en": "Saturday",
+          "day_name_he": "יום שבת",
+          "is_home": false,
+          "opponent": {
+            "id": "9",
+            "name": "Golden State Warriors",
+            "abbrev": "GS",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+          },
+          "home_team": {
+            "id": "9",
+            "name": "Golden State Warriors",
+            "abbrev": "GS",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+          },
+          "away_team": {
+            "id": "22",
+            "name": "Portland Trail Blazers",
+            "abbrev": "POR",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Fri, October 16th at 10:00 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "NBA League Pass",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
+            "broadcast_time": "05:00",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        }
+      ],
+      "next_game": {
+        "id": "401914129",
+        "name": "Golden State Warriors at Portland Trail Blazers",
+        "short_name": "GS @ POR",
+        "utc_date": "2026-10-08T02:00Z",
+        "date_il": "2026-10-08",
+        "time_il": "05:00",
+        "display_datetime_il": "08/10/2026 05:00",
+        "day_name_en": "Thursday",
+        "day_name_he": "יום חמישי",
+        "is_home": true,
+        "opponent": {
+          "id": "9",
+          "name": "Golden State Warriors",
+          "abbrev": "GS",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+        },
+        "home_team": {
+          "id": "22",
+          "name": "Portland Trail Blazers",
+          "abbrev": "POR",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Golden State Warriors",
+          "abbrev": "GS",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+        },
+        "status": "Final",
+        "status_detail": "Final",
+        "is_completed": true,
+        "us_broadcast": "NBA TV",
+        "tv_broadcast": {
+          "channel_name": "5SPORT (ערוץ 5)",
+          "is_live": true,
+          "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
+          "broadcast_time": "05:30",
+          "status": "CONFIRMED_BROADCAST",
+          "badge": "שידור חי בערוץ הספורט"
+        },
+        "player_status": {
+          "is_playing": "YES",
+          "status": "Active",
+          "detail": "Healthy / No injuries reported",
+          "source": "ESPN / NBA Official Roster",
+          "badge_icon": "✅",
+          "badge_text": "כשיר ומשחק (Available)"
+        },
+        "deni_status": {
+          "is_playing": "YES",
+          "status": "Active",
+          "detail": "Healthy / No injuries reported",
+          "source": "ESPN / NBA Official Roster",
+          "badge_icon": "✅",
+          "badge_text": "כשיר ומשחק (Available)"
+        },
+        "pini_summary": {
+          "has_summary": true,
+          "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
+          "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
+          "published_date": "2026-10-08",
+          "channel_url": "https://www.youtube.com/@PiniBarel"
+        },
+        "player_boxscore": {
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 13.4,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "21",
+            "points": "23",
+            "rebounds": "2",
+            "assists": "2",
+            "steals": "0",
+            "blocks": "0",
+            "fg": "9-13",
+            "three_pt": "3-6",
+            "ft": "2-4",
+            "turnovers": "2",
+            "plus_minus": "-2",
+            "final_scores": {
+              "POR": "123",
+              "GS": "118"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "ben_saraf",
+      "name": "Ben Saraf",
+      "name_he": "בן שרף",
+      "team_slug": "bkn",
+      "team_name": "Brooklyn Nets",
+      "team_name_he": "ברוקלין נטס",
+      "jersey": "77",
+      "position": "Guard",
+      "position_he": "פוינט גארד / קומבו",
+      "espn_id": "5242502",
+      "x_pr_account": "BrooklynNets",
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5242502.png",
+      "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+      "team_color": "#000000",
+      "bio": "גארד ברוקלין נטס. נבחר במקום ה-26 בדראפט 2025 על ידי ברוקלין לאחר טורניר ענק ו-MVP אליפות אירופה לנוער.",
+      "status": {
+        "status": "Active",
+        "is_playing": "YES",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "last_updated": "2026-10-08T15:23:49.320487+00:00"
+      },
+      "total_games": 4,
+      "games": [
+        {
+          "id": "401901820",
+          "name": "Brooklyn Nets at Charlotte Hornets",
+          "short_name": "BKN @ CHA",
+          "utc_date": "2026-10-06T23:00Z",
+          "date_il": "2026-10-07",
+          "time_il": "02:00",
+          "display_datetime_il": "07/10/2026 02:00",
+          "day_name_en": "Wednesday",
+          "day_name_he": "יום רביעי",
+          "is_home": false,
+          "opponent": {
+            "id": "30",
+            "name": "Charlotte Hornets",
+            "abbrev": "CHA",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+          },
+          "home_team": {
+            "id": "30",
+            "name": "Charlotte Hornets",
+            "abbrev": "CHA",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+          },
+          "away_team": {
+            "id": "17",
+            "name": "Brooklyn Nets",
+            "abbrev": "BKN",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+          },
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
+          "us_broadcast": "NBA TV",
+          "tv_broadcast": {
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 40.4,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": true,
+              "minutes": "15",
+              "points": "8",
+              "rebounds": "2",
+              "assists": "2",
+              "steals": "0",
+              "blocks": "0",
+              "fg": "3-7",
+              "three_pt": "2-4",
+              "ft": "0-0",
+              "turnovers": "1",
+              "plus_minus": "+15",
+              "final_scores": {
+                "CHA": "90",
+                "BKN": "124"
+              }
+            }
+          }
+        },
+        {
+          "id": "401901823",
+          "name": "Philadelphia 76ers at Brooklyn Nets",
+          "short_name": "PHI @ BKN",
+          "utc_date": "2026-10-08T23:30Z",
+          "date_il": "2026-10-09",
+          "time_il": "02:30",
+          "display_datetime_il": "09/10/2026 02:30",
+          "day_name_en": "Friday",
+          "day_name_he": "יום שישי",
+          "is_home": true,
+          "opponent": {
+            "id": "20",
+            "name": "Philadelphia 76ers",
+            "abbrev": "PHI",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+          },
+          "home_team": {
+            "id": "17",
+            "name": "Brooklyn Nets",
+            "abbrev": "BKN",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+          },
+          "away_team": {
+            "id": "20",
+            "name": "Philadelphia 76ers",
+            "abbrev": "PHI",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Thu, October 8th at 7:30 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "NBA League Pass",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: ברוקלין - פילדלפיה, קדם עונה",
+            "broadcast_time": "02:30",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        },
+        {
+          "id": "401901824",
+          "name": "Brooklyn Nets at Washington Wizards",
+          "short_name": "BKN @ WSH",
+          "utc_date": "2026-10-12T23:00Z",
+          "date_il": "2026-10-13",
+          "time_il": "02:00",
+          "display_datetime_il": "13/10/2026 02:00",
+          "day_name_en": "Tuesday",
+          "day_name_he": "יום שלישי",
+          "is_home": false,
+          "opponent": {
+            "id": "27",
+            "name": "Washington Wizards",
+            "abbrev": "WSH",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png"
+          },
+          "home_team": {
+            "id": "27",
+            "name": "Washington Wizards",
+            "abbrev": "WSH",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png"
+          },
+          "away_team": {
+            "id": "17",
+            "name": "Brooklyn Nets",
+            "abbrev": "BKN",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Mon, October 12th at 7:00 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "MNMT",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: וושינגטון - ברוקלין, משחק קדם עונה",
+            "broadcast_time": "02:00",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        },
+        {
+          "id": "401898404",
+          "name": "Brooklyn Nets at Miami Heat",
+          "short_name": "BKN @ MIA",
+          "utc_date": "2026-10-14T23:30Z",
+          "date_il": "2026-10-15",
+          "time_il": "02:30",
+          "display_datetime_il": "15/10/2026 02:30",
+          "day_name_en": "Thursday",
+          "day_name_he": "יום חמישי",
+          "is_home": false,
+          "opponent": {
+            "id": "14",
+            "name": "Miami Heat",
+            "abbrev": "MIA",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+          },
+          "home_team": {
+            "id": "14",
+            "name": "Miami Heat",
+            "abbrev": "MIA",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+          },
+          "away_team": {
+            "id": "17",
+            "name": "Brooklyn Nets",
+            "abbrev": "BKN",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Wed, October 14th at 7:30 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "NBA League Pass",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: מיאמי - ברוקלין, משחק קדם עונה",
+            "broadcast_time": "02:30",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        }
+      ],
+      "next_game": {
+        "id": "401901820",
+        "name": "Brooklyn Nets at Charlotte Hornets",
+        "short_name": "BKN @ CHA",
+        "utc_date": "2026-10-06T23:00Z",
+        "date_il": "2026-10-07",
+        "time_il": "02:00",
+        "display_datetime_il": "07/10/2026 02:00",
+        "day_name_en": "Wednesday",
+        "day_name_he": "יום רביעי",
+        "is_home": false,
+        "opponent": {
+          "id": "30",
+          "name": "Charlotte Hornets",
+          "abbrev": "CHA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        "home_team": {
+          "id": "30",
+          "name": "Charlotte Hornets",
+          "abbrev": "CHA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        "away_team": {
+          "id": "17",
+          "name": "Brooklyn Nets",
+          "abbrev": "BKN",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        "status": "Final",
+        "status_detail": "Final",
+        "is_completed": true,
+        "us_broadcast": "NBA TV",
+        "tv_broadcast": {
+          "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+          "is_live": false,
+          "broadcast_title": "",
+          "broadcast_time": "",
+          "status": "NOT_SCHEDULED_YET",
+          "badge": "League Pass / טרם פורסם"
+        },
+        "player_status": {
+          "is_playing": "YES",
+          "status": "Active",
+          "detail": "Healthy / No injuries reported",
+          "source": "ESPN / NBA Official Roster",
+          "badge_icon": "✅",
+          "badge_text": "כשיר ומשחק (Available)"
+        },
+        "deni_status": {
+          "is_playing": "YES",
+          "status": "Active",
+          "detail": "Healthy / No injuries reported",
+          "source": "ESPN / NBA Official Roster",
+          "badge_icon": "✅",
+          "badge_text": "כשיר ומשחק (Available)"
+        },
+        "pini_summary": {
+          "has_summary": false,
+          "video_title": "",
+          "video_url": "",
+          "published_date": "",
+          "channel_url": "https://www.youtube.com/@PiniBarel"
+        },
+        "player_boxscore": {
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 40.4,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "15",
+            "points": "8",
+            "rebounds": "2",
+            "assists": "2",
+            "steals": "0",
+            "blocks": "0",
+            "fg": "3-7",
+            "three_pt": "2-4",
+            "ft": "0-0",
+            "turnovers": "1",
+            "plus_minus": "+15",
+            "final_scores": {
+              "CHA": "90",
+              "BKN": "124"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "danny_wolf",
+      "name": "Danny Wolf",
+      "name_he": "דני וולף",
+      "team_slug": "bkn",
+      "team_name": "Brooklyn Nets",
+      "team_name_he": "ברוקלין נטס",
+      "jersey": "2",
+      "position": "Forward/Center",
+      "position_he": "סנטר / פאוור פורוורד (7'0)",
+      "espn_id": "5107173",
+      "x_pr_account": "BrooklynNets",
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5107173.png",
+      "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+      "team_color": "#000000",
+      "bio": "סנטר אמריקאי-ישראלי (יל 7 פוט, ייל/מישיגן). נבחר במקום ה-27 בדראפט 2025. הוביל את נבחרת העתודה למדליית כסף היסטורית.",
+      "status": {
+        "status": "Active",
+        "is_playing": "YES",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "last_updated": "2026-10-08T15:23:50.551844+00:00"
+      },
+      "total_games": 4,
+      "games": [
+        {
+          "id": "401901820",
+          "name": "Brooklyn Nets at Charlotte Hornets",
+          "short_name": "BKN @ CHA",
+          "utc_date": "2026-10-06T23:00Z",
+          "date_il": "2026-10-07",
+          "time_il": "02:00",
+          "display_datetime_il": "07/10/2026 02:00",
+          "day_name_en": "Wednesday",
+          "day_name_he": "יום רביעי",
+          "is_home": false,
+          "opponent": {
+            "id": "30",
+            "name": "Charlotte Hornets",
+            "abbrev": "CHA",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+          },
+          "home_team": {
+            "id": "30",
+            "name": "Charlotte Hornets",
+            "abbrev": "CHA",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+          },
+          "away_team": {
+            "id": "17",
+            "name": "Brooklyn Nets",
+            "abbrev": "BKN",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+          },
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
+          "us_broadcast": "NBA TV",
+          "tv_broadcast": {
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 40.4,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": true,
+              "minutes": "15",
+              "points": "9",
+              "rebounds": "3",
+              "assists": "5",
+              "steals": "0",
+              "blocks": "0",
+              "fg": "3-4",
+              "three_pt": "1-1",
+              "ft": "2-4",
+              "turnovers": "1",
+              "plus_minus": "+18",
+              "final_scores": {
+                "CHA": "90",
+                "BKN": "124"
+              }
+            }
+          }
+        },
+        {
+          "id": "401901823",
+          "name": "Philadelphia 76ers at Brooklyn Nets",
+          "short_name": "PHI @ BKN",
+          "utc_date": "2026-10-08T23:30Z",
+          "date_il": "2026-10-09",
+          "time_il": "02:30",
+          "display_datetime_il": "09/10/2026 02:30",
+          "day_name_en": "Friday",
+          "day_name_he": "יום שישי",
+          "is_home": true,
+          "opponent": {
+            "id": "20",
+            "name": "Philadelphia 76ers",
+            "abbrev": "PHI",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+          },
+          "home_team": {
+            "id": "17",
+            "name": "Brooklyn Nets",
+            "abbrev": "BKN",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+          },
+          "away_team": {
+            "id": "20",
+            "name": "Philadelphia 76ers",
+            "abbrev": "PHI",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Thu, October 8th at 7:30 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "NBA League Pass",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: ברוקלין - פילדלפיה, קדם עונה",
+            "broadcast_time": "02:30",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        },
+        {
+          "id": "401901824",
+          "name": "Brooklyn Nets at Washington Wizards",
+          "short_name": "BKN @ WSH",
+          "utc_date": "2026-10-12T23:00Z",
+          "date_il": "2026-10-13",
+          "time_il": "02:00",
+          "display_datetime_il": "13/10/2026 02:00",
+          "day_name_en": "Tuesday",
+          "day_name_he": "יום שלישי",
+          "is_home": false,
+          "opponent": {
+            "id": "27",
+            "name": "Washington Wizards",
+            "abbrev": "WSH",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png"
+          },
+          "home_team": {
+            "id": "27",
+            "name": "Washington Wizards",
+            "abbrev": "WSH",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png"
+          },
+          "away_team": {
+            "id": "17",
+            "name": "Brooklyn Nets",
+            "abbrev": "BKN",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Mon, October 12th at 7:00 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "MNMT",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: וושינגטון - ברוקלין, משחק קדם עונה",
+            "broadcast_time": "02:00",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        },
+        {
+          "id": "401898404",
+          "name": "Brooklyn Nets at Miami Heat",
+          "short_name": "BKN @ MIA",
+          "utc_date": "2026-10-14T23:30Z",
+          "date_il": "2026-10-15",
+          "time_il": "02:30",
+          "display_datetime_il": "15/10/2026 02:30",
+          "day_name_en": "Thursday",
+          "day_name_he": "יום חמישי",
+          "is_home": false,
+          "opponent": {
+            "id": "14",
+            "name": "Miami Heat",
+            "abbrev": "MIA",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+          },
+          "home_team": {
+            "id": "14",
+            "name": "Miami Heat",
+            "abbrev": "MIA",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+          },
+          "away_team": {
+            "id": "17",
+            "name": "Brooklyn Nets",
+            "abbrev": "BKN",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Wed, October 14th at 7:30 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "NBA League Pass",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: מיאמי - ברוקלין, משחק קדם עונה",
+            "broadcast_time": "02:30",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        }
+      ],
+      "next_game": {
+        "id": "401901820",
+        "name": "Brooklyn Nets at Charlotte Hornets",
+        "short_name": "BKN @ CHA",
+        "utc_date": "2026-10-06T23:00Z",
+        "date_il": "2026-10-07",
+        "time_il": "02:00",
+        "display_datetime_il": "07/10/2026 02:00",
+        "day_name_en": "Wednesday",
+        "day_name_he": "יום רביעי",
+        "is_home": false,
+        "opponent": {
+          "id": "30",
+          "name": "Charlotte Hornets",
+          "abbrev": "CHA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        "home_team": {
+          "id": "30",
+          "name": "Charlotte Hornets",
+          "abbrev": "CHA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+        },
+        "away_team": {
+          "id": "17",
+          "name": "Brooklyn Nets",
+          "abbrev": "BKN",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+        },
+        "status": "Final",
+        "status_detail": "Final",
+        "is_completed": true,
+        "us_broadcast": "NBA TV",
+        "tv_broadcast": {
+          "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+          "is_live": false,
+          "broadcast_title": "",
+          "broadcast_time": "",
+          "status": "NOT_SCHEDULED_YET",
+          "badge": "League Pass / טרם פורסם"
+        },
+        "player_status": {
+          "is_playing": "YES",
+          "status": "Active",
+          "detail": "Healthy / No injuries reported",
+          "source": "ESPN / NBA Official Roster",
+          "badge_icon": "✅",
+          "badge_text": "כשיר ומשחק (Available)"
+        },
+        "deni_status": {
+          "is_playing": "YES",
+          "status": "Active",
+          "detail": "Healthy / No injuries reported",
+          "source": "ESPN / NBA Official Roster",
+          "badge_icon": "✅",
+          "badge_text": "כשיר ומשחק (Available)"
+        },
+        "pini_summary": {
+          "has_summary": false,
+          "video_title": "",
+          "video_url": "",
+          "published_date": "",
+          "channel_url": "https://www.youtube.com/@PiniBarel"
+        },
+        "player_boxscore": {
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 40.4,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "15",
+            "points": "9",
+            "rebounds": "3",
+            "assists": "5",
+            "steals": "0",
+            "blocks": "0",
+            "fg": "3-4",
+            "three_pt": "1-1",
+            "ft": "2-4",
+            "turnovers": "1",
+            "plus_minus": "+18",
+            "final_scores": {
+              "CHA": "90",
+              "BKN": "124"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "emanuel_sharp",
+      "name": "Emanuel Sharp",
+      "name_he": "עמנואל שארפ",
+      "team_slug": "sac",
+      "team_name": "Sacramento Kings",
+      "team_name_he": "סקרמנטו קינגס",
+      "jersey": "34",
+      "position": "Guard",
+      "position_he": "שוטינג גארד",
+      "espn_id": "5106058",
+      "x_pr_account": "SacramentoKings",
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5106058.png",
+      "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+      "team_color": "#5A2D81",
+      "bio": "גארד סקרמנטו קינגס. בנו של אגדת מכבי תל אביב דרק שארפ, יליד ישראל ובעל אזרחות ישראלית, נבחר בדראפט 2026.",
+      "status": {
+        "status": "Active",
+        "is_playing": "YES",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "last_updated": "2026-10-08T15:23:52.033589+00:00"
+      },
+      "total_games": 5,
+      "games": [
+        {
+          "id": "401898716",
+          "name": "Los Angeles Lakers at Sacramento Kings",
+          "short_name": "LAL @ SAC",
+          "utc_date": "2026-10-06T02:00Z",
+          "date_il": "2026-10-06",
+          "time_il": "05:00",
+          "display_datetime_il": "06/10/2026 05:00",
+          "day_name_en": "Tuesday",
+          "day_name_he": "יום שלישי",
+          "is_home": true,
+          "opponent": {
+            "id": "13",
+            "name": "Los Angeles Lakers",
+            "abbrev": "LAL",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+          },
+          "home_team": {
+            "id": "23",
+            "name": "Sacramento Kings",
+            "abbrev": "SAC",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+          },
+          "away_team": {
+            "id": "13",
+            "name": "Los Angeles Lakers",
+            "abbrev": "LAL",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+          },
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
+          "us_broadcast": "NBA TV",
+          "tv_broadcast": {
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 61.4,
+            "is_spoiler_period": false,
+            "stats": {
+              "has_played": true,
+              "minutes": "30",
+              "points": "7",
+              "rebounds": "1",
+              "assists": "2",
+              "steals": "2",
+              "blocks": "0",
+              "fg": "2-11",
+              "three_pt": "1-8",
+              "ft": "2-2",
+              "turnovers": "3",
+              "plus_minus": "-1",
+              "final_scores": {
+                "SAC": "103",
+                "LAL": "127"
+              }
+            }
+          }
+        },
+        {
+          "id": "401898717",
+          "name": "Sacramento Kings at Los Angeles Lakers",
+          "short_name": "SAC @ LAL",
+          "utc_date": "2026-10-09T02:30Z",
+          "date_il": "2026-10-09",
+          "time_il": "05:30",
+          "display_datetime_il": "09/10/2026 05:30",
+          "day_name_en": "Friday",
+          "day_name_he": "יום שישי",
+          "is_home": false,
+          "opponent": {
+            "id": "13",
+            "name": "Los Angeles Lakers",
+            "abbrev": "LAL",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+          },
+          "home_team": {
+            "id": "13",
+            "name": "Los Angeles Lakers",
+            "abbrev": "LAL",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+          },
+          "away_team": {
+            "id": "23",
+            "name": "Sacramento Kings",
+            "abbrev": "SAC",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Thu, October 8th at 10:30 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "ESPN2",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
+            "broadcast_time": "05:30",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        },
+        {
+          "id": "401898399",
+          "name": "Sacramento Kings at Golden State Warriors",
+          "short_name": "SAC @ GS",
+          "utc_date": "2026-10-11T00:30Z",
+          "date_il": "2026-10-11",
+          "time_il": "03:30",
+          "display_datetime_il": "11/10/2026 03:30",
+          "day_name_en": "Sunday",
+          "day_name_he": "יום ראשון",
+          "is_home": false,
+          "opponent": {
+            "id": "9",
+            "name": "Golden State Warriors",
+            "abbrev": "GS",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+          },
+          "home_team": {
+            "id": "9",
+            "name": "Golden State Warriors",
+            "abbrev": "GS",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+          },
+          "away_team": {
+            "id": "23",
+            "name": "Sacramento Kings",
+            "abbrev": "SAC",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Sat, October 10th at 8:30 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "NBA League Pass",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "WNBA: לאס וגאס - גולדן סטייט, חצי גמר - משחק 3",
+            "broadcast_time": "04:30",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        },
+        {
+          "id": "401901826",
+          "name": "Portland Trail Blazers at Sacramento Kings",
+          "short_name": "POR @ SAC",
+          "utc_date": "2026-10-14T02:00Z",
+          "date_il": "2026-10-14",
+          "time_il": "05:00",
+          "display_datetime_il": "14/10/2026 05:00",
+          "day_name_en": "Wednesday",
+          "day_name_he": "יום רביעי",
+          "is_home": true,
+          "opponent": {
+            "id": "22",
+            "name": "Portland Trail Blazers",
+            "abbrev": "POR",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+          },
+          "home_team": {
+            "id": "23",
+            "name": "Sacramento Kings",
+            "abbrev": "SAC",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+          },
+          "away_team": {
+            "id": "22",
+            "name": "Portland Trail Blazers",
+            "abbrev": "POR",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Tue, October 13th at 10:00 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "NBA League Pass",
+          "tv_broadcast": {
+            "channel_name": "5SPORT (ערוץ 5)",
+            "is_live": true,
+            "broadcast_title": "NBA: סקרמנטו - פורטלנד, משחק קדם עונה",
+            "broadcast_time": "05:00",
+            "status": "CONFIRMED_BROADCAST",
+            "badge": "שידור חי בערוץ הספורט"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        },
+        {
+          "id": "401898843",
+          "name": "Sacramento Kings at San Antonio Spurs",
+          "short_name": "SAC @ SA",
+          "utc_date": "2026-10-17T00:00Z",
+          "date_il": "2026-10-17",
+          "time_il": "03:00",
+          "display_datetime_il": "17/10/2026 03:00",
+          "day_name_en": "Saturday",
+          "day_name_he": "יום שבת",
+          "is_home": false,
+          "opponent": {
+            "id": "24",
+            "name": "San Antonio Spurs",
+            "abbrev": "SA",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png"
+          },
+          "home_team": {
+            "id": "24",
+            "name": "San Antonio Spurs",
+            "abbrev": "SA",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png"
+          },
+          "away_team": {
+            "id": "23",
+            "name": "Sacramento Kings",
+            "abbrev": "SAC",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+          },
+          "status": "Scheduled",
+          "status_detail": "Fri, October 16th at 8:00 PM EDT",
+          "is_completed": false,
+          "us_broadcast": "NBA League Pass",
+          "tv_broadcast": {
+            "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "PENDING_HORIZON",
+            "badge": "עתידי"
+          },
+          "player_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "deni_status": {
+            "is_playing": "YES",
+            "status": "Active",
+            "detail": "Healthy / No injuries reported",
+            "source": "ESPN / NBA Official Roster",
+            "badge_icon": "✅",
+            "badge_text": "כשיר ומשחק (Available)"
+          },
+          "pini_summary": {
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
+            "channel_url": "https://www.youtube.com/@PiniBarel"
+          },
+          "player_boxscore": {
+            "available": false,
+            "is_completed": false
+          }
+        }
+      ],
+      "next_game": {
+        "id": "401898716",
+        "name": "Los Angeles Lakers at Sacramento Kings",
+        "short_name": "LAL @ SAC",
+        "utc_date": "2026-10-06T02:00Z",
+        "date_il": "2026-10-06",
+        "time_il": "05:00",
+        "display_datetime_il": "06/10/2026 05:00",
+        "day_name_en": "Tuesday",
+        "day_name_he": "יום שלישי",
+        "is_home": true,
+        "opponent": {
+          "id": "13",
+          "name": "Los Angeles Lakers",
+          "abbrev": "LAL",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        "home_team": {
+          "id": "23",
+          "name": "Sacramento Kings",
+          "abbrev": "SAC",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        "away_team": {
+          "id": "13",
+          "name": "Los Angeles Lakers",
+          "abbrev": "LAL",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+        },
+        "status": "Final",
+        "status_detail": "Final",
+        "is_completed": true,
+        "us_broadcast": "NBA TV",
+        "tv_broadcast": {
+          "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+          "is_live": false,
+          "broadcast_title": "",
+          "broadcast_time": "",
+          "status": "NOT_SCHEDULED_YET",
+          "badge": "League Pass / טרם פורסם"
+        },
+        "player_status": {
+          "is_playing": "YES",
+          "status": "Active",
+          "detail": "Healthy / No injuries reported",
+          "source": "ESPN / NBA Official Roster",
+          "badge_icon": "✅",
+          "badge_text": "כשיר ומשחק (Available)"
+        },
+        "deni_status": {
+          "is_playing": "YES",
+          "status": "Active",
+          "detail": "Healthy / No injuries reported",
+          "source": "ESPN / NBA Official Roster",
+          "badge_icon": "✅",
+          "badge_text": "כשיר ומשחק (Available)"
+        },
+        "pini_summary": {
+          "has_summary": false,
+          "video_title": "",
+          "video_url": "",
+          "published_date": "",
+          "channel_url": "https://www.youtube.com/@PiniBarel"
+        },
+        "player_boxscore": {
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 61.4,
+          "is_spoiler_period": false,
+          "stats": {
+            "has_played": true,
+            "minutes": "30",
+            "points": "7",
+            "rebounds": "1",
+            "assists": "2",
+            "steals": "2",
+            "blocks": "0",
+            "fg": "2-11",
+            "three_pt": "1-8",
+            "ft": "2-2",
+            "turnovers": "3",
+            "plus_minus": "-1",
+            "final_scores": {
+              "SAC": "103",
+              "LAL": "127"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "all_games": [
+    {
+      "id": "401898716",
+      "name": "Los Angeles Lakers at Sacramento Kings",
+      "short_name": "LAL @ SAC",
+      "utc_date": "2026-10-06T02:00Z",
+      "date_il": "2026-10-06",
+      "time_il": "05:00",
+      "display_datetime_il": "06/10/2026 05:00",
+      "day_name_en": "Tuesday",
+      "day_name_he": "יום שלישי",
+      "is_home": true,
+      "opponent": {
+        "id": "13",
+        "name": "Los Angeles Lakers",
+        "abbrev": "LAL",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+      },
+      "home_team": {
+        "id": "23",
+        "name": "Sacramento Kings",
+        "abbrev": "SAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+      },
+      "away_team": {
+        "id": "13",
+        "name": "Los Angeles Lakers",
+        "abbrev": "LAL",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+      },
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
+      "us_broadcast": "NBA TV",
+      "tv_broadcast": {
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "emanuel_sharp",
+          "name": "Emanuel Sharp",
+          "name_he": "עמנואל שארפ",
+          "team_slug": "sac",
+          "team_name": "Sacramento Kings",
+          "team_name_he": "סקרמנטו קינגס",
+          "jersey": "34",
+          "position": "Guard",
+          "position_he": "שוטינג גארד",
+          "espn_id": "5106058",
+          "x_pr_account": "SacramentoKings",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5106058.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+          "team_color": "#5A2D81",
+          "bio": "גארד סקרמנטו קינגס. בנו של אגדת מכבי תל אביב דרק שארפ, יליד ישראל ובעל אזרחות ישראלית, נבחר בדראפט 2026."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "emanuel_sharp": {
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 61.4,
+          "is_spoiler_period": false,
+          "stats": {
+            "has_played": true,
+            "minutes": "30",
+            "points": "7",
+            "rebounds": "1",
+            "assists": "2",
+            "steals": "2",
+            "blocks": "0",
+            "fg": "2-11",
+            "three_pt": "1-8",
+            "ft": "2-2",
+            "turnovers": "3",
+            "plus_minus": "-1",
+            "final_scores": {
+              "SAC": "103",
+              "LAL": "127"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "401901820",
+      "name": "Brooklyn Nets at Charlotte Hornets",
+      "short_name": "BKN @ CHA",
+      "utc_date": "2026-10-06T23:00Z",
+      "date_il": "2026-10-07",
+      "time_il": "02:00",
+      "display_datetime_il": "07/10/2026 02:00",
+      "day_name_en": "Wednesday",
+      "day_name_he": "יום רביעי",
+      "is_home": false,
+      "opponent": {
+        "id": "30",
+        "name": "Charlotte Hornets",
+        "abbrev": "CHA",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+      },
+      "home_team": {
+        "id": "30",
+        "name": "Charlotte Hornets",
+        "abbrev": "CHA",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+      },
+      "away_team": {
+        "id": "17",
+        "name": "Brooklyn Nets",
+        "abbrev": "BKN",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+      },
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
+      "us_broadcast": "NBA TV",
+      "tv_broadcast": {
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "ben_saraf",
+          "name": "Ben Saraf",
+          "name_he": "בן שרף",
+          "team_slug": "bkn",
+          "team_name": "Brooklyn Nets",
+          "team_name_he": "ברוקלין נטס",
+          "jersey": "77",
+          "position": "Guard",
+          "position_he": "פוינט גארד / קומבו",
+          "espn_id": "5242502",
+          "x_pr_account": "BrooklynNets",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5242502.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+          "team_color": "#000000",
+          "bio": "גארד ברוקלין נטס. נבחר במקום ה-26 בדראפט 2025 על ידי ברוקלין לאחר טורניר ענק ו-MVP אליפות אירופה לנוער."
+        },
+        {
+          "id": "danny_wolf",
+          "name": "Danny Wolf",
+          "name_he": "דני וולף",
+          "team_slug": "bkn",
+          "team_name": "Brooklyn Nets",
+          "team_name_he": "ברוקלין נטס",
+          "jersey": "2",
+          "position": "Forward/Center",
+          "position_he": "סנטר / פאוור פורוורד (7'0)",
+          "espn_id": "5107173",
+          "x_pr_account": "BrooklynNets",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5107173.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+          "team_color": "#000000",
+          "bio": "סנטר אמריקאי-ישראלי (יל 7 פוט, ייל/מישיגן). נבחר במקום ה-27 בדראפט 2025. הוביל את נבחרת העתודה למדליית כסף היסטורית."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "ben_saraf": {
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 40.4,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "15",
+            "points": "8",
+            "rebounds": "2",
+            "assists": "2",
+            "steals": "0",
+            "blocks": "0",
+            "fg": "3-7",
+            "three_pt": "2-4",
+            "ft": "0-0",
+            "turnovers": "1",
+            "plus_minus": "+15",
+            "final_scores": {
+              "CHA": "90",
+              "BKN": "124"
+            }
+          }
+        },
+        "danny_wolf": {
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 40.4,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "15",
+            "points": "9",
+            "rebounds": "3",
+            "assists": "5",
+            "steals": "0",
+            "blocks": "0",
+            "fg": "3-4",
+            "three_pt": "1-1",
+            "ft": "2-4",
+            "turnovers": "1",
+            "plus_minus": "+18",
+            "final_scores": {
+              "CHA": "90",
+              "BKN": "124"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "401914129",
+      "name": "Golden State Warriors at Portland Trail Blazers",
+      "short_name": "GS @ POR",
+      "utc_date": "2026-10-08T02:00Z",
+      "date_il": "2026-10-08",
+      "time_il": "05:00",
+      "display_datetime_il": "08/10/2026 05:00",
+      "day_name_en": "Thursday",
+      "day_name_he": "יום חמישי",
+      "is_home": true,
+      "opponent": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbrev": "GS",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "home_team": {
+        "id": "22",
+        "name": "Portland Trail Blazers",
+        "abbrev": "POR",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+      },
+      "away_team": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbrev": "GS",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
+      "us_broadcast": "NBA TV",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
+        "broadcast_time": "05:30",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "deni_avdija",
+          "name": "Deni Avdija",
+          "name_he": "דני אבדיה",
+          "team_slug": "por",
+          "team_name": "Portland Trail Blazers",
+          "team_name_he": "פורטלנד טרייל בלייזרס",
+          "jersey": "8",
+          "position": "Forward",
+          "position_he": "סמול פורוורד",
+          "espn_id": "4683021",
+          "x_pr_account": "TrailBlazersPR",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683021.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+          "team_color": "#E03A3E",
+          "bio": "פורוורד פורטלנד טרייל בלייזרס. נבחר במקום ה-9 בדראפט 2020. הישראלי הבכיר בליגה ואולסטאר NBA."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": true,
+        "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
+        "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
+        "published_date": "2026-10-08",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "deni_avdija": {
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 13.4,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "21",
+            "points": "23",
+            "rebounds": "2",
+            "assists": "2",
+            "steals": "0",
+            "blocks": "0",
+            "fg": "9-13",
+            "three_pt": "3-6",
+            "ft": "2-4",
+            "turnovers": "2",
+            "plus_minus": "-2",
+            "final_scores": {
+              "POR": "123",
+              "GS": "118"
+            }
+          }
+        }
+      },
+      "player_boxscore": {
+        "available": true,
+        "is_completed": true,
+        "hours_ago": 13.4,
+        "is_spoiler_period": true,
+        "stats": {
+          "has_played": true,
+          "minutes": "21",
+          "points": "23",
+          "rebounds": "2",
+          "assists": "2",
+          "steals": "0",
+          "blocks": "0",
+          "fg": "9-13",
+          "three_pt": "3-6",
+          "ft": "2-4",
+          "turnovers": "2",
+          "plus_minus": "-2",
+          "final_scores": {
+            "POR": "123",
+            "GS": "118"
+          }
+        }
+      }
+    },
+    {
+      "id": "401901823",
+      "name": "Philadelphia 76ers at Brooklyn Nets",
+      "short_name": "PHI @ BKN",
+      "utc_date": "2026-10-08T23:30Z",
+      "date_il": "2026-10-09",
+      "time_il": "02:30",
+      "display_datetime_il": "09/10/2026 02:30",
+      "day_name_en": "Friday",
+      "day_name_he": "יום שישי",
+      "is_home": true,
+      "opponent": {
+        "id": "20",
+        "name": "Philadelphia 76ers",
+        "abbrev": "PHI",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+      },
+      "home_team": {
+        "id": "17",
+        "name": "Brooklyn Nets",
+        "abbrev": "BKN",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+      },
+      "away_team": {
+        "id": "20",
+        "name": "Philadelphia 76ers",
+        "abbrev": "PHI",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Thu, October 8th at 7:30 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "NBA League Pass",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "NBA: ברוקלין - פילדלפיה, קדם עונה",
+        "broadcast_time": "02:30",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "ben_saraf",
+          "name": "Ben Saraf",
+          "name_he": "בן שרף",
+          "team_slug": "bkn",
+          "team_name": "Brooklyn Nets",
+          "team_name_he": "ברוקלין נטס",
+          "jersey": "77",
+          "position": "Guard",
+          "position_he": "פוינט גארד / קומבו",
+          "espn_id": "5242502",
+          "x_pr_account": "BrooklynNets",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5242502.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+          "team_color": "#000000",
+          "bio": "גארד ברוקלין נטס. נבחר במקום ה-26 בדראפט 2025 על ידי ברוקלין לאחר טורניר ענק ו-MVP אליפות אירופה לנוער."
+        },
+        {
+          "id": "danny_wolf",
+          "name": "Danny Wolf",
+          "name_he": "דני וולף",
+          "team_slug": "bkn",
+          "team_name": "Brooklyn Nets",
+          "team_name_he": "ברוקלין נטס",
+          "jersey": "2",
+          "position": "Forward/Center",
+          "position_he": "סנטר / פאוור פורוורד (7'0)",
+          "espn_id": "5107173",
+          "x_pr_account": "BrooklynNets",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5107173.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+          "team_color": "#000000",
+          "bio": "סנטר אמריקאי-ישראלי (יל 7 פוט, ייל/מישיגן). נבחר במקום ה-27 בדראפט 2025. הוביל את נבחרת העתודה למדליית כסף היסטורית."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "ben_saraf": {
+          "available": false,
+          "is_completed": false
+        },
+        "danny_wolf": {
+          "available": false,
+          "is_completed": false
+        }
+      }
+    },
+    {
+      "id": "401898717",
+      "name": "Sacramento Kings at Los Angeles Lakers",
+      "short_name": "SAC @ LAL",
+      "utc_date": "2026-10-09T02:30Z",
+      "date_il": "2026-10-09",
+      "time_il": "05:30",
+      "display_datetime_il": "09/10/2026 05:30",
+      "day_name_en": "Friday",
+      "day_name_he": "יום שישי",
+      "is_home": false,
+      "opponent": {
+        "id": "13",
+        "name": "Los Angeles Lakers",
+        "abbrev": "LAL",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+      },
+      "home_team": {
+        "id": "13",
+        "name": "Los Angeles Lakers",
+        "abbrev": "LAL",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+      },
+      "away_team": {
+        "id": "23",
+        "name": "Sacramento Kings",
+        "abbrev": "SAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Thu, October 8th at 10:30 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "ESPN2",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
+        "broadcast_time": "05:30",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "emanuel_sharp",
+          "name": "Emanuel Sharp",
+          "name_he": "עמנואל שארפ",
+          "team_slug": "sac",
+          "team_name": "Sacramento Kings",
+          "team_name_he": "סקרמנטו קינגס",
+          "jersey": "34",
+          "position": "Guard",
+          "position_he": "שוטינג גארד",
+          "espn_id": "5106058",
+          "x_pr_account": "SacramentoKings",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5106058.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+          "team_color": "#5A2D81",
+          "bio": "גארד סקרמנטו קינגס. בנו של אגדת מכבי תל אביב דרק שארפ, יליד ישראל ובעל אזרחות ישראלית, נבחר בדראפט 2026."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "emanuel_sharp": {
+          "available": false,
+          "is_completed": false
+        }
+      }
+    },
+    {
+      "id": "401898399",
+      "name": "Sacramento Kings at Golden State Warriors",
+      "short_name": "SAC @ GS",
+      "utc_date": "2026-10-11T00:30Z",
+      "date_il": "2026-10-11",
+      "time_il": "03:30",
+      "display_datetime_il": "11/10/2026 03:30",
+      "day_name_en": "Sunday",
+      "day_name_he": "יום ראשון",
+      "is_home": false,
+      "opponent": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbrev": "GS",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "home_team": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbrev": "GS",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "away_team": {
+        "id": "23",
+        "name": "Sacramento Kings",
+        "abbrev": "SAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Sat, October 10th at 8:30 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "NBA League Pass",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "WNBA: לאס וגאס - גולדן סטייט, חצי גמר - משחק 3",
+        "broadcast_time": "04:30",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "emanuel_sharp",
+          "name": "Emanuel Sharp",
+          "name_he": "עמנואל שארפ",
+          "team_slug": "sac",
+          "team_name": "Sacramento Kings",
+          "team_name_he": "סקרמנטו קינגס",
+          "jersey": "34",
+          "position": "Guard",
+          "position_he": "שוטינג גארד",
+          "espn_id": "5106058",
+          "x_pr_account": "SacramentoKings",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5106058.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+          "team_color": "#5A2D81",
+          "bio": "גארד סקרמנטו קינגס. בנו של אגדת מכבי תל אביב דרק שארפ, יליד ישראל ובעל אזרחות ישראלית, נבחר בדראפט 2026."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "emanuel_sharp": {
+          "available": false,
+          "is_completed": false
+        }
+      }
+    },
+    {
+      "id": "401914130",
+      "name": "London Lions at Portland Trail Blazers",
+      "short_name": "LON @ POR",
+      "utc_date": "2026-10-12T20:00Z",
+      "date_il": "2026-10-12",
+      "time_il": "23:00",
+      "display_datetime_il": "12/10/2026 23:00",
+      "day_name_en": "Monday",
+      "day_name_he": "יום שני",
+      "is_home": true,
+      "opponent": {
+        "id": "134478",
+        "name": "London Lions",
+        "abbrev": "LON",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lon.png"
+      },
+      "home_team": {
+        "id": "22",
+        "name": "Portland Trail Blazers",
+        "abbrev": "POR",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+      },
+      "away_team": {
+        "id": "134478",
+        "name": "London Lions",
+        "abbrev": "LON",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lon.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Mon, October 12th at 4:00 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "NBA League Pass",
+      "tv_broadcast": {
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "deni_avdija",
+          "name": "Deni Avdija",
+          "name_he": "דני אבדיה",
+          "team_slug": "por",
+          "team_name": "Portland Trail Blazers",
+          "team_name_he": "פורטלנד טרייל בלייזרס",
+          "jersey": "8",
+          "position": "Forward",
+          "position_he": "סמול פורוורד",
+          "espn_id": "4683021",
+          "x_pr_account": "TrailBlazersPR",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683021.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+          "team_color": "#E03A3E",
+          "bio": "פורוורד פורטלנד טרייל בלייזרס. נבחר במקום ה-9 בדראפט 2020. הישראלי הבכיר בליגה ואולסטאר NBA."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "deni_avdija": {
+          "available": false,
+          "is_completed": false
+        }
+      },
+      "player_boxscore": {
+        "available": false,
+        "is_completed": false
+      }
+    },
+    {
+      "id": "401901824",
+      "name": "Brooklyn Nets at Washington Wizards",
+      "short_name": "BKN @ WSH",
+      "utc_date": "2026-10-12T23:00Z",
+      "date_il": "2026-10-13",
+      "time_il": "02:00",
+      "display_datetime_il": "13/10/2026 02:00",
+      "day_name_en": "Tuesday",
+      "day_name_he": "יום שלישי",
+      "is_home": false,
+      "opponent": {
+        "id": "27",
+        "name": "Washington Wizards",
+        "abbrev": "WSH",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png"
+      },
+      "home_team": {
+        "id": "27",
+        "name": "Washington Wizards",
+        "abbrev": "WSH",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png"
+      },
+      "away_team": {
+        "id": "17",
+        "name": "Brooklyn Nets",
+        "abbrev": "BKN",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Mon, October 12th at 7:00 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "MNMT",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "NBA: וושינגטון - ברוקלין, משחק קדם עונה",
+        "broadcast_time": "02:00",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "ben_saraf",
+          "name": "Ben Saraf",
+          "name_he": "בן שרף",
+          "team_slug": "bkn",
+          "team_name": "Brooklyn Nets",
+          "team_name_he": "ברוקלין נטס",
+          "jersey": "77",
+          "position": "Guard",
+          "position_he": "פוינט גארד / קומבו",
+          "espn_id": "5242502",
+          "x_pr_account": "BrooklynNets",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5242502.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+          "team_color": "#000000",
+          "bio": "גארד ברוקלין נטס. נבחר במקום ה-26 בדראפט 2025 על ידי ברוקלין לאחר טורניר ענק ו-MVP אליפות אירופה לנוער."
+        },
+        {
+          "id": "danny_wolf",
+          "name": "Danny Wolf",
+          "name_he": "דני וולף",
+          "team_slug": "bkn",
+          "team_name": "Brooklyn Nets",
+          "team_name_he": "ברוקלין נטס",
+          "jersey": "2",
+          "position": "Forward/Center",
+          "position_he": "סנטר / פאוור פורוורד (7'0)",
+          "espn_id": "5107173",
+          "x_pr_account": "BrooklynNets",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5107173.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+          "team_color": "#000000",
+          "bio": "סנטר אמריקאי-ישראלי (יל 7 פוט, ייל/מישיגן). נבחר במקום ה-27 בדראפט 2025. הוביל את נבחרת העתודה למדליית כסף היסטורית."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "ben_saraf": {
+          "available": false,
+          "is_completed": false
+        },
+        "danny_wolf": {
+          "available": false,
+          "is_completed": false
+        }
+      }
+    },
+    {
+      "id": "401901826",
+      "name": "Portland Trail Blazers at Sacramento Kings",
+      "short_name": "POR @ SAC",
+      "utc_date": "2026-10-14T02:00Z",
+      "date_il": "2026-10-14",
+      "time_il": "05:00",
+      "display_datetime_il": "14/10/2026 05:00",
+      "day_name_en": "Wednesday",
+      "day_name_he": "יום רביעי",
+      "is_home": false,
+      "opponent": {
+        "id": "23",
+        "name": "Sacramento Kings",
+        "abbrev": "SAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+      },
+      "home_team": {
+        "id": "23",
+        "name": "Sacramento Kings",
+        "abbrev": "SAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+      },
+      "away_team": {
+        "id": "22",
+        "name": "Portland Trail Blazers",
+        "abbrev": "POR",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Tue, October 13th at 10:00 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "NBA League Pass",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "NBA: סקרמנטו - פורטלנד, משחק קדם עונה",
+        "broadcast_time": "05:00",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "deni_avdija",
+          "name": "Deni Avdija",
+          "name_he": "דני אבדיה",
+          "team_slug": "por",
+          "team_name": "Portland Trail Blazers",
+          "team_name_he": "פורטלנד טרייל בלייזרס",
+          "jersey": "8",
+          "position": "Forward",
+          "position_he": "סמול פורוורד",
+          "espn_id": "4683021",
+          "x_pr_account": "TrailBlazersPR",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683021.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+          "team_color": "#E03A3E",
+          "bio": "פורוורד פורטלנד טרייל בלייזרס. נבחר במקום ה-9 בדראפט 2020. הישראלי הבכיר בליגה ואולסטאר NBA."
+        },
+        {
+          "id": "emanuel_sharp",
+          "name": "Emanuel Sharp",
+          "name_he": "עמנואל שארפ",
+          "team_slug": "sac",
+          "team_name": "Sacramento Kings",
+          "team_name_he": "סקרמנטו קינגס",
+          "jersey": "34",
+          "position": "Guard",
+          "position_he": "שוטינג גארד",
+          "espn_id": "5106058",
+          "x_pr_account": "SacramentoKings",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5106058.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+          "team_color": "#5A2D81",
+          "bio": "גארד סקרמנטו קינגס. בנו של אגדת מכבי תל אביב דרק שארפ, יליד ישראל ובעל אזרחות ישראלית, נבחר בדראפט 2026."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "deni_avdija": {
+          "available": false,
+          "is_completed": false
+        },
+        "emanuel_sharp": {
+          "available": false,
+          "is_completed": false
+        }
+      },
+      "player_boxscore": {
+        "available": false,
+        "is_completed": false
+      }
+    },
+    {
+      "id": "401898404",
+      "name": "Brooklyn Nets at Miami Heat",
+      "short_name": "BKN @ MIA",
+      "utc_date": "2026-10-14T23:30Z",
+      "date_il": "2026-10-15",
+      "time_il": "02:30",
+      "display_datetime_il": "15/10/2026 02:30",
+      "day_name_en": "Thursday",
+      "day_name_he": "יום חמישי",
+      "is_home": false,
+      "opponent": {
+        "id": "14",
+        "name": "Miami Heat",
+        "abbrev": "MIA",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+      },
+      "home_team": {
+        "id": "14",
+        "name": "Miami Heat",
+        "abbrev": "MIA",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+      },
+      "away_team": {
+        "id": "17",
+        "name": "Brooklyn Nets",
+        "abbrev": "BKN",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Wed, October 14th at 7:30 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "NBA League Pass",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "NBA: מיאמי - ברוקלין, משחק קדם עונה",
+        "broadcast_time": "02:30",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "ben_saraf",
+          "name": "Ben Saraf",
+          "name_he": "בן שרף",
+          "team_slug": "bkn",
+          "team_name": "Brooklyn Nets",
+          "team_name_he": "ברוקלין נטס",
+          "jersey": "77",
+          "position": "Guard",
+          "position_he": "פוינט גארד / קומבו",
+          "espn_id": "5242502",
+          "x_pr_account": "BrooklynNets",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5242502.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+          "team_color": "#000000",
+          "bio": "גארד ברוקלין נטס. נבחר במקום ה-26 בדראפט 2025 על ידי ברוקלין לאחר טורניר ענק ו-MVP אליפות אירופה לנוער."
+        },
+        {
+          "id": "danny_wolf",
+          "name": "Danny Wolf",
+          "name_he": "דני וולף",
+          "team_slug": "bkn",
+          "team_name": "Brooklyn Nets",
+          "team_name_he": "ברוקלין נטס",
+          "jersey": "2",
+          "position": "Forward/Center",
+          "position_he": "סנטר / פאוור פורוורד (7'0)",
+          "espn_id": "5107173",
+          "x_pr_account": "BrooklynNets",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5107173.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+          "team_color": "#000000",
+          "bio": "סנטר אמריקאי-ישראלי (יל 7 פוט, ייל/מישיגן). נבחר במקום ה-27 בדראפט 2025. הוביל את נבחרת העתודה למדליית כסף היסטורית."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "ben_saraf": {
+          "available": false,
+          "is_completed": false
+        },
+        "danny_wolf": {
+          "available": false,
+          "is_completed": false
+        }
+      }
+    },
+    {
+      "id": "401898843",
+      "name": "Sacramento Kings at San Antonio Spurs",
+      "short_name": "SAC @ SA",
+      "utc_date": "2026-10-17T00:00Z",
+      "date_il": "2026-10-17",
+      "time_il": "03:00",
+      "display_datetime_il": "17/10/2026 03:00",
+      "day_name_en": "Saturday",
+      "day_name_he": "יום שבת",
+      "is_home": false,
+      "opponent": {
+        "id": "24",
+        "name": "San Antonio Spurs",
+        "abbrev": "SA",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png"
+      },
+      "home_team": {
+        "id": "24",
+        "name": "San Antonio Spurs",
+        "abbrev": "SA",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png"
+      },
+      "away_team": {
+        "id": "23",
+        "name": "Sacramento Kings",
+        "abbrev": "SAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Fri, October 16th at 8:00 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "NBA League Pass",
+      "tv_broadcast": {
+        "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "PENDING_HORIZON",
+        "badge": "עתידי"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "emanuel_sharp",
+          "name": "Emanuel Sharp",
+          "name_he": "עמנואל שארפ",
+          "team_slug": "sac",
+          "team_name": "Sacramento Kings",
+          "team_name_he": "סקרמנטו קינגס",
+          "jersey": "34",
+          "position": "Guard",
+          "position_he": "שוטינג גארד",
+          "espn_id": "5106058",
+          "x_pr_account": "SacramentoKings",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5106058.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+          "team_color": "#5A2D81",
+          "bio": "גארד סקרמנטו קינגס. בנו של אגדת מכבי תל אביב דרק שארפ, יליד ישראל ובעל אזרחות ישראלית, נבחר בדראפט 2026."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "emanuel_sharp": {
+          "available": false,
+          "is_completed": false
+        }
+      }
+    },
+    {
+      "id": "401898409",
+      "name": "Portland Trail Blazers at Golden State Warriors",
+      "short_name": "POR @ GS",
+      "utc_date": "2026-10-17T02:00Z",
+      "date_il": "2026-10-17",
+      "time_il": "05:00",
+      "display_datetime_il": "17/10/2026 05:00",
+      "day_name_en": "Saturday",
+      "day_name_he": "יום שבת",
+      "is_home": false,
+      "opponent": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbrev": "GS",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "home_team": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbrev": "GS",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "away_team": {
+        "id": "22",
+        "name": "Portland Trail Blazers",
+        "abbrev": "POR",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Fri, October 16th at 10:00 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "NBA League Pass",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
+        "broadcast_time": "05:00",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "players": [
+        {
+          "id": "deni_avdija",
+          "name": "Deni Avdija",
+          "name_he": "דני אבדיה",
+          "team_slug": "por",
+          "team_name": "Portland Trail Blazers",
+          "team_name_he": "פורטלנד טרייל בלייזרס",
+          "jersey": "8",
+          "position": "Forward",
+          "position_he": "סמול פורוורד",
+          "espn_id": "4683021",
+          "x_pr_account": "TrailBlazersPR",
+          "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683021.png",
+          "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+          "team_color": "#E03A3E",
+          "bio": "פורוורד פורטלנד טרייל בלייזרס. נבחר במקום ה-9 בדראפט 2020. הישראלי הבכיר בליגה ואולסטאר NBA."
+        }
+      ],
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscores": {
+        "deni_avdija": {
+          "available": false,
+          "is_completed": false
+        }
+      },
+      "player_boxscore": {
+        "available": false,
+        "is_completed": false
+      }
+    }
+  ],
+  "deni_status": {
+    "status": "Active",
+    "is_playing": "YES",
+    "detail": "Healthy / No injuries reported",
+    "source": "ESPN / NBA Official Roster",
+    "last_updated": "2026-10-08T15:23:47.926646+00:00"
+  },
+  "total_games": 4,
+  "games": [
+    {
+      "id": "401914129",
+      "name": "Golden State Warriors at Portland Trail Blazers",
+      "short_name": "GS @ POR",
+      "utc_date": "2026-10-08T02:00Z",
+      "date_il": "2026-10-08",
+      "time_il": "05:00",
+      "display_datetime_il": "08/10/2026 05:00",
+      "day_name_en": "Thursday",
+      "day_name_he": "יום חמישי",
+      "is_home": true,
+      "opponent": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbrev": "GS",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "home_team": {
+        "id": "22",
+        "name": "Portland Trail Blazers",
+        "abbrev": "POR",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+      },
+      "away_team": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbrev": "GS",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
+      "us_broadcast": "NBA TV",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
+        "broadcast_time": "05:30",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "pini_summary": {
+        "has_summary": true,
+        "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
+        "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
+        "published_date": "2026-10-08",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscore": {
+        "available": true,
+        "is_completed": true,
+        "hours_ago": 13.4,
+        "is_spoiler_period": true,
+        "stats": {
+          "has_played": true,
+          "minutes": "21",
+          "points": "23",
+          "rebounds": "2",
+          "assists": "2",
+          "steals": "0",
+          "blocks": "0",
+          "fg": "9-13",
+          "three_pt": "3-6",
+          "ft": "2-4",
+          "turnovers": "2",
+          "plus_minus": "-2",
+          "final_scores": {
+            "POR": "123",
+            "GS": "118"
+          }
+        }
+      }
+    },
+    {
+      "id": "401914130",
+      "name": "London Lions at Portland Trail Blazers",
+      "short_name": "LON @ POR",
+      "utc_date": "2026-10-12T20:00Z",
+      "date_il": "2026-10-12",
+      "time_il": "23:00",
+      "display_datetime_il": "12/10/2026 23:00",
+      "day_name_en": "Monday",
+      "day_name_he": "יום שני",
+      "is_home": true,
+      "opponent": {
+        "id": "134478",
+        "name": "London Lions",
+        "abbrev": "LON",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lon.png"
+      },
+      "home_team": {
+        "id": "22",
+        "name": "Portland Trail Blazers",
+        "abbrev": "POR",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+      },
+      "away_team": {
+        "id": "134478",
+        "name": "London Lions",
+        "abbrev": "LON",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lon.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Mon, October 12th at 4:00 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "NBA League Pass",
+      "tv_broadcast": {
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscore": {
+        "available": false,
+        "is_completed": false
+      }
+    },
+    {
+      "id": "401901826",
+      "name": "Portland Trail Blazers at Sacramento Kings",
+      "short_name": "POR @ SAC",
+      "utc_date": "2026-10-14T02:00Z",
+      "date_il": "2026-10-14",
+      "time_il": "05:00",
+      "display_datetime_il": "14/10/2026 05:00",
+      "day_name_en": "Wednesday",
+      "day_name_he": "יום רביעי",
+      "is_home": false,
+      "opponent": {
+        "id": "23",
+        "name": "Sacramento Kings",
+        "abbrev": "SAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+      },
+      "home_team": {
+        "id": "23",
+        "name": "Sacramento Kings",
+        "abbrev": "SAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+      },
+      "away_team": {
+        "id": "22",
+        "name": "Portland Trail Blazers",
+        "abbrev": "POR",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Tue, October 13th at 10:00 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "NBA League Pass",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "NBA: סקרמנטו - פורטלנד, משחק קדם עונה",
+        "broadcast_time": "05:00",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscore": {
+        "available": false,
+        "is_completed": false
+      }
+    },
+    {
+      "id": "401898409",
+      "name": "Portland Trail Blazers at Golden State Warriors",
+      "short_name": "POR @ GS",
+      "utc_date": "2026-10-17T02:00Z",
+      "date_il": "2026-10-17",
+      "time_il": "05:00",
+      "display_datetime_il": "17/10/2026 05:00",
+      "day_name_en": "Saturday",
+      "day_name_he": "יום שבת",
+      "is_home": false,
+      "opponent": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbrev": "GS",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "home_team": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbrev": "GS",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+      },
+      "away_team": {
+        "id": "22",
+        "name": "Portland Trail Blazers",
+        "abbrev": "POR",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+      },
+      "status": "Scheduled",
+      "status_detail": "Fri, October 16th at 10:00 PM EDT",
+      "is_completed": false,
+      "us_broadcast": "NBA League Pass",
+      "tv_broadcast": {
+        "channel_name": "5SPORT (ערוץ 5)",
+        "is_live": true,
+        "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
+        "broadcast_time": "05:00",
+        "status": "CONFIRMED_BROADCAST",
+        "badge": "שידור חי בערוץ הספורט"
+      },
+      "player_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "deni_status": {
+        "is_playing": "YES",
+        "status": "Active",
+        "detail": "Healthy / No injuries reported",
+        "source": "ESPN / NBA Official Roster",
+        "badge_icon": "✅",
+        "badge_text": "כשיר ומשחק (Available)"
+      },
+      "pini_summary": {
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
+        "channel_url": "https://www.youtube.com/@PiniBarel"
+      },
+      "player_boxscore": {
+        "available": false,
+        "is_completed": false
+      }
+    }
+  ]
+};

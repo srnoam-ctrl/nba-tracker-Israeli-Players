@@ -1,0 +1,77 @@
+{
+  "players": [
+    {
+      "id": "deni_avdija",
+      "name": "Deni Avdija",
+      "name_he": "דני אבדיה",
+      "team_slug": "por",
+      "team_name": "Portland Trail Blazers",
+      "team_name_he": "פורטלנד טרייל בלייזרס",
+      "jersey": "8",
+      "position": "Forward",
+      "position_he": "סמול פורוורד",
+      "espn_id": "4683021",
+      "x_pr_account": "TrailBlazersPR",
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683021.png",
+      "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+      "team_color": "#E03A3E",
+      "bio": "פורוורד פורטלנד טרייל בלייזרס. נבחר במקום ה-9 בדראפט 2020. הישראלי הבכיר בליגה ואולסטאר NBA."
+    },
+    {
+      "id": "ben_saraf",
+      "name": "Ben Saraf",
+      "name_he": "בן שרף",
+      "team_slug": "bkn",
+      "team_name": "Brooklyn Nets",
+      "team_name_he": "ברוקלין נטס",
+      "jersey": "77",
+      "position": "Guard",
+      "position_he": "פוינט גארד / קומבו",
+      "espn_id": "5242502",
+      "x_pr_account": "BrooklynNets",
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5242502.png",
+      "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+      "team_color": "#000000",
+      "bio": "גארד ברוקלין נטס. נבחר במקום ה-26 בדראפט 2025 על ידי ברוקלין לאחר טורניר ענק ו-MVP אליפות אירופה לנוער."
+    },
+    {
+      "id": "danny_wolf",
+      "name": "Danny Wolf",
+      "name_he": "דני וולף",
+      "team_slug": "bkn",
+      "team_name": "Brooklyn Nets",
+      "team_name_he": "ברוקלין נטס",
+      "jersey": "2",
+      "position": "Forward/Center",
+      "position_he": "סנטר / פאוור פורוורד (7'0)",
+      "espn_id": "5107173",
+      "x_pr_account": "BrooklynNets",
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5107173.png",
+      "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+      "team_color": "#000000",
+      "bio": "סנטר אמריקאי-ישראלי (יל 7 פוט, ייל/מישיגן). נבחר במקום ה-27 בדראפט 2025. הוביל את נבחרת העתודה למדליית כסף היסטורית."
+    },
+    {
+      "id": "emanuel_sharp",
+      "name": "Emanuel Sharp",
+      "name_he": "עמנואל שארפ",
+      "team_slug": "sac",
+      "team_name": "Sacramento Kings",
+      "team_name_he": "סקרמנטו קינגס",
+      "jersey": "34",
+      "position": "Guard",
+      "position_he": "שוטינג גארד",
+      "espn_id": "5106058",
+      "x_pr_account": "SacramentoKings",
+      "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5106058.png",
+      "team_logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+      "team_color": "#5A2D81",
+      "bio": "גארד סקרמנטו קינגס. בנו של אגדת מכבי תל אביב דרק שארפ, יליד ישראל ובעל אזרחות ישראלית, נבחר בדראפט 2026."
+    }
+  ],
+  "tv_guide": {
+    "sport5_url": "https://www.sport5.co.il/Ajax/GetBroadcastSheetData.aspx",
+    "days_ahead": 10
+  },
+  "timezone": "Asia/Jerusalem"
+}

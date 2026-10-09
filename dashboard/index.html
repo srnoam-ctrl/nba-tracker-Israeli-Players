@@ -1,0 +1,1596 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מעקב ישראלים ב-NBA | ערוץ הספורט & לוח שידורים חי</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <script src="../data/games_data.js"></script>
+    <style>
+        :root {
+            --sport5-red: #D71920;
+            --sport5-blue: #0056B3;
+            --bg-dark: #0D1017;
+            --card-bg: #161A26;
+            --card-border: #262C3E;
+            --text-main: #FFFFFF;
+            --text-muted: #94A3B8;
+            --accent-green: #10B981;
+            --accent-yellow: #F59E0B;
+            --accent-red: #EF4444;
+            --accent-blue: #38BDF8;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Assistant', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            min-height: 100vh;
+            padding-bottom: 60px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Top Header */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 16px 0 24px;
+            border-bottom: 1px solid var(--card-border);
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .header-title-box {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+
+        .logo-badge {
+            background: linear-gradient(135deg, #1D4ED8, #0284C7);
+            width: 52px;
+            height: 52px;
+            border-radius: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 26px;
+            box-shadow: 0 4px 15px rgba(2, 132, 199, 0.4);
+        }
+
+        h1 {
+            font-size: 24px;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 14px;
+            margin-top: 3px;
+        }
+
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+
+        .btn-refresh {
+            background: #1E2435;
+            color: #FFF;
+            border: 1px solid var(--card-border);
+            padding: 10px 18px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s ease;
+        }
+
+        .btn-refresh:hover {
+            background: var(--sport5-red);
+            border-color: var(--sport5-red);
+        }
+
+        .pini-header-link {
+            background: rgba(220, 38, 38, 0.14);
+            color: #FCA5A5;
+            border: 1px solid rgba(220, 38, 38, 0.4);
+            padding: 9px 16px;
+            border-radius: 10px;
+            font-size: 13.5px;
+            font-weight: 700;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s ease;
+        }
+
+        .pini-header-link:hover {
+            background: #DC2626;
+            color: #FFF;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(220, 38, 38, 0.35);
+        }
+
+        .pini-summary-badge {
+            background: linear-gradient(135deg, rgba(220, 38, 38, 0.28), rgba(153, 27, 27, 0.18));
+            border: 1.5px solid rgba(239, 68, 68, 0.7);
+            border-radius: 12px;
+            padding: 10px 14px;
+            margin-top: 12px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            text-decoration: none;
+            color: #FFF;
+            transition: all 0.2s ease;
+        }
+
+        .pini-summary-badge:hover {
+            background: rgba(220, 38, 38, 0.45);
+            border-color: #EF4444;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 18px rgba(220, 38, 38, 0.35);
+        }
+
+        .yt-play-btn {
+            background: #EF4444;
+            color: #FFF;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 13px;
+            font-weight: 900;
+            flex-shrink: 0;
+            box-shadow: 0 2px 8px rgba(239, 68, 68, 0.5);
+        }
+
+        .pini-summary-text {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            text-align: right;
+        }
+
+        .pini-summary-label {
+            font-size: 11px;
+            font-weight: 800;
+            color: #FCA5A5;
+            letter-spacing: 0.3px;
+        }
+
+        .pini-summary-title {
+            font-size: 13px;
+            font-weight: 700;
+            color: #FFF;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            margin-top: 2px;
+        }
+
+        .pini-summary-pending {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 10px;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 8px;
+        }
+
+        .spin {
+            display: inline-block;
+            animation: rotating 1s linear infinite;
+        }
+
+        @keyframes rotating {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        /* Player Navigation & Swapper */
+        .player-nav-bar {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 30px;
+            overflow-x: auto;
+            padding-bottom: 8px;
+            scrollbar-width: thin;
+        }
+
+        .player-nav-pill {
+            background: var(--card-bg);
+            border: 1.5px solid var(--card-border);
+            border-radius: 14px;
+            padding: 8px 16px 8px 12px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+            user-select: none;
+            flex-shrink: 0;
+        }
+
+        .player-nav-pill:hover {
+            border-color: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .player-nav-pill.active {
+            background: linear-gradient(135deg, #1E293B, #0F172A);
+            border-color: #38BDF8;
+            box-shadow: 0 4px 15px rgba(56, 189, 248, 0.25);
+        }
+
+        .nav-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            object-fit: cover;
+            background: #2A3045;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .player-nav-pill.active .nav-avatar {
+            border-color: #38BDF8;
+        }
+
+        .nav-info {
+            display: flex;
+            flex-direction: column;
+            text-align: right;
+        }
+
+        .nav-name {
+            font-size: 14px;
+            font-weight: 700;
+        }
+
+        .nav-team {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .nav-status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            margin-right: auto;
+        }
+
+        .dot-green { background-color: var(--accent-green); box-shadow: 0 0 6px var(--accent-green); }
+        .dot-yellow { background-color: var(--accent-yellow); box-shadow: 0 0 6px var(--accent-yellow); }
+        .dot-red { background-color: var(--accent-red); box-shadow: 0 0 6px var(--accent-red); }
+
+        /* ALL PLAYERS HUB (Landing View) */
+        .hub-players-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+            gap: 18px;
+            margin-bottom: 35px;
+        }
+
+        .hub-player-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 18px;
+            padding: 18px;
+            cursor: pointer;
+            transition: all 0.25s ease;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .hub-player-card:hover {
+            transform: translateY(-4px);
+            border-color: var(--accent-blue);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+        }
+
+        .hub-card-header {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            margin-bottom: 14px;
+        }
+
+        .hub-player-img {
+            width: 64px;
+            height: 64px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 2px solid #334155;
+            background: #1E293B;
+        }
+
+        .hub-card-names h3 {
+            font-size: 17px;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .jersey-badge {
+            background: #334155;
+            color: #FFF;
+            font-size: 11px;
+            font-weight: 800;
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+
+        .hub-card-team {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
+        .hub-next-box {
+            background: #0F121C;
+            border-radius: 12px;
+            padding: 10px 14px;
+            margin-top: 10px;
+            font-size: 13px;
+        }
+
+        .hub-next-title {
+            color: var(--text-muted);
+            font-size: 11px;
+            margin-bottom: 4px;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        .hub-next-game {
+            font-weight: 700;
+            color: #FFF;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .hub-next-channel {
+            color: #38BDF8;
+            font-size: 12px;
+            margin-top: 3px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        /* SINGLE PLAYER PROFILE HERO (Dedicated View) */
+        .player-hero {
+            background: linear-gradient(135deg, #1A2133, #111522);
+            border: 1px solid var(--card-border);
+            border-radius: 20px;
+            padding: 24px 30px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 35px;
+            position: relative;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .player-hero-left {
+            display: flex;
+            align-items: center;
+            gap: 22px;
+        }
+
+        .player-hero-avatar {
+            width: 95px;
+            height: 95px;
+            border-radius: 50%;
+            background: #2A3045;
+            object-fit: cover;
+            border: 3px solid #38BDF8;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+
+        .player-hero-names h2 {
+            font-size: 24px;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .player-hero-sub {
+            color: var(--text-muted);
+            font-size: 15px;
+            margin-top: 4px;
+        }
+
+        .player-hero-bio {
+            font-size: 13.5px;
+            color: #CBD5E1;
+            margin-top: 8px;
+            max-width: 600px;
+            line-height: 1.4;
+        }
+
+        .injury-status-card {
+            background: rgba(0, 0, 0, 0.4);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 14px;
+            padding: 14px 22px;
+            text-align: right;
+            min-width: 250px;
+        }
+
+        .status-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+
+        .status-pill.playing {
+            background: rgba(16, 185, 129, 0.15);
+            color: var(--accent-green);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+        }
+
+        .status-pill.gtd {
+            background: rgba(245, 158, 11, 0.15);
+            color: var(--accent-yellow);
+            border: 1px solid rgba(245, 158, 11, 0.3);
+        }
+
+        .status-pill.out {
+            background: rgba(239, 68, 68, 0.15);
+            color: var(--accent-red);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+        }
+
+        .status-detail-text {
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .status-source-tag {
+            font-size: 11px;
+            color: #64748B;
+            margin-top: 4px;
+        }
+
+        /* Filter Controls */
+        .controls-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 22px;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .filter-tabs {
+            display: flex;
+            background: #111420;
+            padding: 4px;
+            border-radius: 12px;
+            border: 1px solid var(--card-border);
+            gap: 4px;
+        }
+
+        .filter-btn {
+            background: transparent;
+            color: var(--text-muted);
+            border: none;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .filter-btn.active {
+            background: #2563EB;
+            color: #FFF;
+        }
+
+        .games-count {
+            color: var(--text-muted);
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        /* Game Cards Grid */
+        .games-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 20px;
+        }
+
+        .game-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 18px;
+            padding: 22px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+            position: relative;
+        }
+
+        .game-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(56, 189, 248, 0.4);
+            box-shadow: 0 12px 30px rgba(0,0,0,0.4);
+        }
+
+        .game-card.televised {
+            border-color: rgba(215, 25, 32, 0.35);
+        }
+
+        .game-card.derby {
+            border-color: #F59E0B;
+            background: linear-gradient(180deg, rgba(245, 158, 11, 0.05), var(--card-bg));
+        }
+
+        .derby-tag {
+            background: linear-gradient(135deg, #F59E0B, #D97706);
+            color: #000;
+            font-size: 11px;
+            font-weight: 800;
+            padding: 3px 10px;
+            border-radius: 6px;
+            position: absolute;
+            top: 14px;
+            left: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        /* Matchup Section */
+        .matchup-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 18px;
+            margin-top: 6px;
+        }
+
+        .team-box {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 42%;
+            text-align: center;
+        }
+
+        .team-logo {
+            width: 58px;
+            height: 58px;
+            object-fit: contain;
+            margin-bottom: 8px;
+            filter: drop-shadow(0 4px 6px rgba(0,0,0,0.4));
+        }
+
+        .team-name {
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+
+        .vs-divider {
+            color: var(--text-muted);
+            font-size: 13px;
+            font-weight: 800;
+            background: #252A3B;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        /* Time & Date Box */
+        .game-time-box {
+            background: #0E121D;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 12px 14px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+
+        .time-ist {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .time-clock {
+            font-size: 20px;
+            font-weight: 800;
+            color: #FFF;
+        }
+
+        .time-date {
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .time-countdown {
+            font-size: 12px;
+            background: #1E2638;
+            padding: 4px 10px;
+            border-radius: 6px;
+            color: #38BDF8;
+            font-weight: 600;
+        }
+
+        /* Featured Players in Game */
+        .game-players-bar {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 14px;
+            flex-wrap: wrap;
+        }
+
+        .player-chip {
+            background: #1E2536;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 3px 10px 3px 6px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 12px;
+            font-weight: 700;
+            color: #E2E8F0;
+        }
+
+        .player-chip img {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        /* Channel Broadcast Pill */
+        .broadcast-section {
+            margin-top: auto;
+            border-top: 1px solid rgba(255, 255, 255, 0.06);
+            padding-top: 14px;
+        }
+
+        .channel-banner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px 14px;
+            border-radius: 10px;
+            background: #1B2130;
+        }
+
+        .channel-banner.live-broadcast {
+            background: linear-gradient(135deg, rgba(215, 25, 32, 0.22), rgba(215, 25, 32, 0.06));
+            border: 1px solid rgba(215, 25, 32, 0.45);
+        }
+
+        .channel-name {
+            font-weight: 700;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .live-tag {
+            background: var(--sport5-red);
+            color: #FFF;
+            font-size: 10px;
+            font-weight: 800;
+            padding: 2px 6px;
+            border-radius: 4px;
+            letter-spacing: 0.5px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.6; }
+            100% { opacity: 1; }
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            color: #64748B;
+            font-size: 13px;
+        }
+
+        /* Boxscore & 48h Spoiler Shield Styles */
+        .game-boxscore-wrapper {
+            margin-top: 14px;
+            border-radius: 14px;
+            background: #0E131E;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            overflow: hidden;
+            transition: all 0.25s ease;
+        }
+
+        .spoiler-shield-btn {
+            width: 100%;
+            background: linear-gradient(135deg, rgba(30, 41, 59, 0.85), rgba(15, 23, 42, 0.95));
+            border: 1.5px dashed rgba(56, 189, 248, 0.45);
+            border-radius: 13px;
+            padding: 13px 15px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            color: #F8FAFC;
+            transition: all 0.2s ease;
+            text-align: right;
+            box-sizing: border-box;
+        }
+
+        .spoiler-shield-btn:hover {
+            background: linear-gradient(135deg, rgba(56, 189, 248, 0.16), rgba(30, 41, 59, 0.98));
+            border-color: #38BDF8;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 18px rgba(56, 189, 248, 0.22);
+        }
+
+        .spoiler-lock-icon {
+            font-size: 22px;
+            background: rgba(56, 189, 248, 0.15);
+            border: 1px solid rgba(56, 189, 248, 0.35);
+            width: 42px;
+            height: 42px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .spoiler-text-title {
+            font-size: 13.5px;
+            font-weight: 800;
+            color: #38BDF8;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .spoiler-tag-badge {
+            font-size: 11px;
+            background: rgba(56, 189, 248, 0.2);
+            color: #7DD3FC;
+            padding: 2px 7px;
+            border-radius: 6px;
+            font-weight: 700;
+        }
+
+        .spoiler-text-desc {
+            font-size: 12px;
+            color: #94A3B8;
+            margin-top: 3px;
+            line-height: 1.3;
+        }
+
+        .spoiler-click-hint {
+            font-size: 12px;
+            font-weight: 800;
+            color: #38BDF8;
+            background: rgba(56, 189, 248, 0.12);
+            padding: 6px 10px;
+            border-radius: 8px;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        /* Revealed Boxscore Content */
+        .boxscore-content {
+            padding: 12px 14px;
+        }
+
+        .boxscore-header-bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 12px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .final-score-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 13px;
+            font-weight: 800;
+            color: #FFF;
+            background: rgba(16, 185, 129, 0.15);
+            border: 1px solid rgba(16, 185, 129, 0.35);
+            padding: 4px 10px;
+            border-radius: 8px;
+        }
+
+        .spoiler-rehide-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #94A3B8;
+            font-size: 11.5px;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            transition: all 0.2s ease;
+            padding: 4px 9px;
+            border-radius: 6px;
+        }
+
+        .spoiler-rehide-btn:hover {
+            color: #FFF;
+            background: rgba(239, 68, 68, 0.2);
+            border-color: rgba(239, 68, 68, 0.4);
+        }
+
+        .spoiler-expired-tag {
+            font-size: 11px;
+            color: #10B981;
+            background: rgba(16, 185, 129, 0.12);
+            padding: 3px 8px;
+            border-radius: 6px;
+            font-weight: 700;
+        }
+
+        .player-stat-block {
+            margin-bottom: 12px;
+        }
+
+        .player-stat-block:last-child {
+            margin-bottom: 0;
+        }
+
+        .stat-athlete-title {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 13px;
+            font-weight: 700;
+            color: #E2E8F0;
+            margin-bottom: 8px;
+        }
+
+        .stat-athlete-img {
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        .stat-minutes-tag {
+            font-size: 11.5px;
+            color: #94A3B8;
+            font-weight: 600;
+            margin-right: auto;
+            background: rgba(255, 255, 255, 0.04);
+            padding: 2px 7px;
+            border-radius: 6px;
+        }
+
+        .stat-pill-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 6px;
+        }
+
+        @media (max-width: 480px) {
+            .stat-pill-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        .stat-box {
+            background: #141926;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            padding: 6px 4px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .stat-box.highlight {
+            background: rgba(56, 189, 248, 0.14);
+            border-color: rgba(56, 189, 248, 0.4);
+        }
+
+        .stat-box-val {
+            font-size: 15px;
+            font-weight: 800;
+            color: #FFF;
+            line-height: 1.1;
+        }
+
+        .stat-box.highlight .stat-box-val {
+            color: #38BDF8;
+            font-size: 16px;
+        }
+
+        .stat-box-label {
+            font-size: 10.5px;
+            color: #94A3B8;
+            margin-top: 2px;
+        }
+
+        .stat-dnp-msg {
+            background: rgba(245, 158, 11, 0.12);
+            border: 1px solid rgba(245, 158, 11, 0.3);
+            color: #FBBF24;
+            border-radius: 8px;
+            padding: 8px 12px;
+            font-size: 12.5px;
+            font-weight: 600;
+            text-align: center;
+        }
+
+        .time-countdown.final-locked {
+            color: #F59E0B;
+            background: rgba(245, 158, 11, 0.14);
+            border: 1px solid rgba(245, 158, 11, 0.3);
+        }
+
+        .time-countdown.final-score {
+            color: #10B981;
+            background: rgba(16, 185, 129, 0.14);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            font-weight: 800;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <div class="header-title-box">
+                <div class="logo-badge">🇮🇱</div>
+                <div>
+                    <h1>מעקב ישראלים ב-NBA</h1>
+                    <div class="subtitle">דני אבדיה • בן שרף • דני וולף • עמנואל שארפ | ערוץ הספורט (5, 5+, 5LIVE, 5STARS)</div>
+                </div>
+            </div>
+            <div class="header-actions">
+                <a href="https://www.youtube.com/@PiniBarel" target="_blank" class="pini-header-link" title="ערוץ ספורט באיכות גבוהה (פיני בראל) - מעקבדיה">
+                    <span style="font-size: 16px;">▶️</span>
+                    <span>מעקבדיה ביוטיוב</span>
+                </a>
+                <div id="lastSyncTime" style="font-size: 13px; color: var(--text-muted);">טוען נתונים...</div>
+                <button class="btn-refresh" onclick="triggerRefresh()">
+                    <span>🔄</span> רענן
+                </button>
+            </div>
+        </header>
+
+        <!-- Player Swapper Bar -->
+        <nav class="player-nav-bar" id="playerNavBar">
+            <!-- Dynamically populated -->
+        </nav>
+
+        <!-- View 1: Single Player Profile Hero (Active when a player is selected) -->
+        <section class="player-hero" id="playerHeroSection" style="display: none;">
+            <div class="player-hero-left">
+                <img class="player-hero-avatar" id="heroAvatar" src="" alt="Player">
+                <div class="player-hero-names">
+                    <h2><span id="heroNameHe"></span> <span class="jersey-badge" id="heroJersey"></span></h2>
+                    <div class="player-hero-sub" id="heroTeamPos"></div>
+                    <div class="player-hero-bio" id="heroBio"></div>
+                </div>
+            </div>
+            <div class="injury-status-card">
+                <div class="status-pill playing" id="heroStatusPill">
+                    <span>✅</span> <span id="heroStatusText">כשיר</span>
+                </div>
+                <div class="status-detail-text" id="heroStatusDetail">בריא / ללא דיווחי פציעות</div>
+                <div class="status-source-tag" id="heroStatusSource">מקור: ESPN / NBA Official Roster</div>
+            </div>
+        </section>
+
+        <!-- View 2: All Players Hub Cards (Active when "All Players" is selected) -->
+        <section class="hub-players-grid" id="hubPlayersGrid">
+            <!-- Dynamically populated cards for all 4 players -->
+        </section>
+
+        <!-- Filter Controls -->
+        <div class="controls-bar">
+            <div class="filter-tabs">
+                <button class="filter-btn active" onclick="setFilter('all', this)">כל המשחקים</button>
+                <button class="filter-btn" onclick="setFilter('broadcast', this)">משחקים משודרים בלבד 📺</button>
+                <button class="filter-btn" onclick="setFilter('home', this)">משחקי בית</button>
+                <button class="filter-btn" onclick="setFilter('away', this)">משחקי חוץ</button>
+            </div>
+            <div class="games-count" id="gamesCount">טוען משחקים...</div>
+        </div>
+
+        <!-- Games Grid -->
+        <main class="games-grid" id="gamesGrid">
+            <!-- Dynamic game cards injected here -->
+        </main>
+
+        <footer class="footer">
+            מעקב שידורי ישראלים ב-NBA • מתעדכן אוטומטית מול לוח שידורי ערוץ הספורט ו-ESPN
+        </footer>
+    </div>
+
+    <script>
+        let appData = null;
+        let selectedPlayerId = 'all'; // 'all', 'deni_avdija', 'ben_saraf', 'danny_wolf', 'emanuel_sharp'
+        let currentFilter = 'all';
+
+        // Local storage tracking for manually revealed games
+        const revealedGameIds = new Set(JSON.parse(localStorage.getItem('nba_revealed_games') || '[]'));
+
+        function revealSpoiler(gameId) {
+            revealedGameIds.add(String(gameId));
+            try {
+                localStorage.setItem('nba_revealed_games', JSON.stringify([...revealedGameIds]));
+            } catch (e) {}
+            renderView();
+        }
+
+        function hideSpoiler(gameId) {
+            revealedGameIds.delete(String(gameId));
+            try {
+                localStorage.setItem('nba_revealed_games', JSON.stringify([...revealedGameIds]));
+            } catch (e) {}
+            renderView();
+        }
+
+        function applyData(data) {
+            if (!data) return;
+            appData = data;
+            document.getElementById('lastSyncTime').textContent = 'עודכן לאחרונה: ' + (data.last_updated_display || 'היום');
+            renderPlayerNavBar();
+            renderView();
+        }
+
+        async function loadData() {
+            if (window.GAMES_DATA) {
+                applyData(window.GAMES_DATA);
+                return;
+            }
+
+            try {
+                const res = await fetch('../data/games.json?t=' + Date.now());
+                if (!res.ok) throw new Error("Could not load data/games.json");
+                const data = await res.json();
+                applyData(data);
+            } catch (err) {
+                console.error(err);
+                document.getElementById('gamesCount').textContent = 'שגיאה בטעינת הנתונים. אנא הרץ את tracker.bat כדי לעדכן.';
+            }
+        }
+
+        async function triggerRefresh() {
+            const btn = document.querySelector('.btn-refresh');
+            const originalHTML = btn.innerHTML;
+            btn.disabled = true;
+            btn.innerHTML = '<span class="spin">🔄</span> מעדכן נתונים מול ערוץ הספורט ו-ESPN...';
+
+            const endpoints = ['/api/sync', 'http://127.0.0.1:5005/api/sync'];
+            let synced = false;
+
+            for (const ep of endpoints) {
+                try {
+                    const res = await fetch(ep, { cache: 'no-store' });
+                    if (res.ok) {
+                        const data = await res.json();
+                        applyData(data);
+                        synced = true;
+                        btn.innerHTML = '<span>✅</span> הנתונים סונכרנו בהצלחה!';
+                        setTimeout(() => {
+                            btn.disabled = false;
+                            btn.innerHTML = originalHTML;
+                        }, 2200);
+                        break;
+                    }
+                } catch (e) {}
+            }
+
+            if (!synced) {
+                await loadData();
+                btn.innerHTML = '<span>ℹ️</span> רענון קובץ מקומי';
+                setTimeout(() => {
+                    btn.disabled = false;
+                    btn.innerHTML = originalHTML;
+                }, 2500);
+            }
+        }
+
+        function renderPlayerNavBar() {
+            const navBar = document.getElementById('playerNavBar');
+            navBar.innerHTML = '';
+
+            // 1. "All Players" Pill
+            const allPill = document.createElement('div');
+            allPill.className = 'player-nav-pill' + (selectedPlayerId === 'all' ? ' active' : '');
+            allPill.onclick = () => selectPlayer('all');
+            allPill.innerHTML = `
+                <div style="font-size: 22px;">⭐</div>
+                <div class="nav-info">
+                    <span class="nav-name">כל הישראלים</span>
+                    <span class="nav-team">4 שחקנים בליגה</span>
+                </div>
+            `;
+            navBar.appendChild(allPill);
+
+            // 2. Individual Player Pills
+            (appData.players || []).forEach(p => {
+                const pill = document.createElement('div');
+                pill.className = 'player-nav-pill' + (selectedPlayerId === p.id ? ' active' : '');
+                pill.onclick = () => selectPlayer(p.id);
+
+                const isPlaying = p.status?.is_playing || 'YES';
+                const dotClass = isPlaying === 'YES' ? 'dot-green' : (isPlaying === 'GTD' ? 'dot-yellow' : 'dot-red');
+
+                pill.innerHTML = `
+                    <img class="nav-avatar" src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
+                    <div class="nav-info">
+                        <span class="nav-name">${p.name_he}</span>
+                        <span class="nav-team">${p.team_name_he} #${p.jersey}</span>
+                    </div>
+                    <span class="nav-status-dot ${dotClass}"></span>
+                `;
+                navBar.appendChild(pill);
+            });
+        }
+
+        function selectPlayer(playerId) {
+            selectedPlayerId = playerId;
+            renderPlayerNavBar();
+            renderView();
+        }
+
+        function renderView() {
+            if (!appData) return;
+
+            const heroSection = document.getElementById('playerHeroSection');
+            const hubGrid = document.getElementById('hubPlayersGrid');
+
+            if (selectedPlayerId === 'all') {
+                heroSection.style.display = 'none';
+                hubGrid.style.display = 'grid';
+                renderHubCards();
+                renderGamesList(appData.all_games || []);
+            } else {
+                heroSection.style.display = 'flex';
+                hubGrid.style.display = 'none';
+                const player = (appData.players || []).find(p => p.id === selectedPlayerId);
+                if (player) {
+                    renderPlayerHero(player);
+                    renderGamesList(player.games || []);
+                }
+            }
+        }
+
+        function renderHubCards() {
+            const hubGrid = document.getElementById('hubPlayersGrid');
+            hubGrid.innerHTML = '';
+
+            (appData.players || []).forEach(p => {
+                const card = document.createElement('div');
+                card.className = 'hub-player-card';
+                card.onclick = () => selectPlayer(p.id);
+
+                const nextG = p.next_game;
+                const nextMatchup = nextG ? `${nextG.is_home ? 'מארחת את' : 'בחוץ אצל'} ${nextG.opponent?.name}` : 'טרם נקבע';
+                const nextTime = nextG ? `${nextG.date_il} ${nextG.time_il}` : '';
+                const channel = nextG?.tv_broadcast?.channel_name || 'טרם פורסם שידור';
+                const isTelevised = nextG?.tv_broadcast?.status === 'CONFIRMED_BROADCAST';
+
+                const isPlaying = p.status?.is_playing || 'YES';
+                const statusBadge = isPlaying === 'YES' ? '🟢 כשיר' : (isPlaying === 'GTD' ? '🟡 בספק' : '🔴 פצוע');
+
+                card.innerHTML = `
+                    <div class="hub-card-header">
+                        <img class="hub-player-img" src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
+                        <div class="hub-card-names">
+                            <h3>${p.name_he} <span class="jersey-badge">#${p.jersey}</span></h3>
+                            <div class="hub-card-team">${p.team_name_he} • ${p.position_he}</div>
+                            <div style="font-size: 12px; margin-top: 4px;">סטטוס: <strong>${statusBadge}</strong></div>
+                        </div>
+                    </div>
+
+                    <div class="hub-next-box">
+                        <div class="hub-next-title">המשחק הבא:</div>
+                        <div class="hub-next-game">
+                            <span>${nextMatchup}</span>
+                            <span>${nextTime}</span>
+                        </div>
+                        <div class="hub-next-channel">
+                            <span>📺</span>
+                            <span>${channel}</span>
+                            ${isTelevised ? '<span class="live-tag">שידור ישיר</span>' : ''}
+                        </div>
+                    </div>
+                `;
+                hubGrid.appendChild(card);
+            });
+        }
+
+        function renderPlayerHero(p) {
+            document.getElementById('heroAvatar').src = p.headshot;
+            document.getElementById('heroNameHe').textContent = p.name_he;
+            document.getElementById('heroJersey').textContent = '#' + p.jersey;
+            document.getElementById('heroTeamPos').textContent = `${p.team_name_he} (${p.team_name}) • ${p.position_he}`;
+            document.getElementById('heroBio').textContent = p.bio || '';
+
+            const pill = document.getElementById('heroStatusPill');
+            const statusText = document.getElementById('heroStatusText');
+            const detailText = document.getElementById('heroStatusDetail');
+            const sourceText = document.getElementById('heroStatusSource');
+
+            const isPlaying = p.status?.is_playing || 'YES';
+            pill.className = 'status-pill';
+            if (isPlaying === 'YES') {
+                pill.classList.add('playing');
+                pill.innerHTML = '<span>✅</span> כשיר ומשחק (Available)';
+            } else if (isPlaying === 'GTD') {
+                pill.classList.add('gtd');
+                pill.innerHTML = '<span>🟡</span> בספק למשחק (' + (p.status?.status || 'GTD') + ')';
+            } else {
+                pill.classList.add('out');
+                pill.innerHTML = '<span>🔴</span> בחוץ / פצוע (' + (p.status?.status || 'Out') + ')';
+            }
+
+            detailText.textContent = p.status?.detail || 'בריא / ללא דיווחי פציעה';
+            sourceText.textContent = 'מקור: ' + (p.status?.source || 'Official');
+        }
+
+        function setFilter(filterType, btn) {
+            currentFilter = filterType;
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            renderView();
+        }
+
+        function getCountdown(utcDateStr) {
+            try {
+                const gameDate = new Date(utcDateStr);
+                const now = new Date();
+                const diffMs = gameDate - now;
+
+                if (diffMs <= 0) return 'הסתיים / משוחק כעת';
+                const days = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((diffMs / (1000 * 60 * 60)) % 24);
+                
+                if (days > 0) return `בעוד ${days} ימים, ${hours} שעות`;
+                return `בעוד ${hours} שעות בלבד!`;
+            } catch (e) {
+                return '';
+            }
+        }
+
+        function renderGamesList(games) {
+            const grid = document.getElementById('gamesGrid');
+            grid.innerHTML = '';
+
+            const filtered = games.filter(g => {
+                if (currentFilter === 'broadcast') {
+                    return g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST';
+                }
+                if (currentFilter === 'home') return g.is_home === true;
+                if (currentFilter === 'away') return g.is_home === false;
+                return true;
+            });
+
+            document.getElementById('gamesCount').textContent = `מציג ${filtered.length} משחקים`;
+
+            if (filtered.length === 0) {
+                grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted);">לא נמצאו משחקים התואמים לסינון שנבחר.</div>';
+                return;
+            }
+
+            filtered.forEach(g => {
+                const isTelevised = g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST';
+                const card = document.createElement('div');
+
+                // Check for Israeli Derby (multiple Israeli players in same game)
+                const inGamePlayers = g.players || (selectedPlayerId !== 'all' ? [(appData.players || []).find(p => p.id === selectedPlayerId)].filter(Boolean) : []);
+                const isDerby = inGamePlayers.length >= 2;
+
+                card.className = 'game-card' + (isTelevised ? ' televised' : '') + (isDerby ? ' derby' : '');
+
+                const homeTeam = g.home_team || {};
+                const awayTeam = g.away_team || {};
+                const countdown = getCountdown(g.utc_date);
+
+                // Build player chips
+                let playerChipsHtml = '';
+                inGamePlayers.forEach(p => {
+                    playerChipsHtml += `
+                        <div class="player-chip">
+                            <img src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
+                            <span>${p.name_he} (${p.team_name_he})</span>
+                        </div>
+                    `;
+                });
+
+                // Extract relevant stats for this game
+                let relevantStats = [];
+                if (selectedPlayerId === 'all') {
+                    (appData.players || []).forEach(p => {
+                        let st = null;
+                        if (g.player_boxscores && g.player_boxscores[p.id]) {
+                            st = g.player_boxscores[p.id];
+                        } else if (g.player_boxscore && (p.id === 'deni_avdija' || inGamePlayers.some(igp => igp.id === p.id))) {
+                            st = g.player_boxscore;
+                        }
+                        if (st && st.available && st.stats) {
+                            relevantStats.push({ player: p, data: st });
+                        }
+                    });
+                } else {
+                    const curP = (appData.players || []).find(p => p.id === selectedPlayerId);
+                    if (curP) {
+                        let st = (g.player_boxscores && g.player_boxscores[curP.id]) || g.player_boxscore;
+                        if (st && st.available && st.stats) {
+                            relevantStats.push({ player: curP, data: st });
+                        }
+                    }
+                }
+
+                // Check spoiler condition: if any stats payload has is_spoiler_period === true AND user hasn't revealed yet
+                const hasStats = relevantStats.length > 0;
+                const isSpoilerPeriod = hasStats && relevantStats.some(s => s.data.is_spoiler_period === true);
+                const isRevealed = !isSpoilerPeriod || revealedGameIds.has(String(g.id));
+                const hoursAgo = hasStats ? relevantStats[0].data.hours_ago : 0;
+
+                // Final score calculation
+                let finalScoreText = '';
+                let homeScoreVal = '';
+                let awayScoreVal = '';
+                if (hasStats && relevantStats[0].data.stats && relevantStats[0].data.stats.final_scores) {
+                    const fScores = relevantStats[0].data.stats.final_scores;
+                    homeScoreVal = fScores[homeTeam.abbrev] || '';
+                    awayScoreVal = fScores[awayTeam.abbrev] || '';
+                    if (homeScoreVal && awayScoreVal) {
+                        finalScoreText = `${homeTeam.name} ${homeScoreVal} - ${awayScoreVal} ${awayTeam.name}`;
+                    }
+                }
+
+                // Countdown badge
+                let countdownBadgeHtml = '';
+                if (g.is_completed) {
+                    if (hasStats && !isRevealed) {
+                        countdownBadgeHtml = `<div class="time-countdown final-locked">הסתיים • מוגן בספוילר 🔒</div>`;
+                    } else if (homeScoreVal && awayScoreVal) {
+                        countdownBadgeHtml = `<div class="time-countdown final-score">סיום: ${homeScoreVal} - ${awayScoreVal}</div>`;
+                    } else {
+                        countdownBadgeHtml = `<div class="time-countdown final">הסתיים (סופי)</div>`;
+                    }
+                } else {
+                    countdownBadgeHtml = `<div class="time-countdown">${countdown}</div>`;
+                }
+
+                // Matchup divider (VS or revealed score)
+                let vsDividerHtml = `<div class="vs-divider">VS</div>`;
+                if (g.is_completed && isRevealed && homeScoreVal && awayScoreVal) {
+                    vsDividerHtml = `<div class="vs-divider" style="background: rgba(16, 185, 129, 0.2); color: #10B981; font-size: 11px; width: auto; padding: 4px 8px; border-radius: 8px;">סיום</div>`;
+                }
+
+                // Boxscore / Spoiler HTML section
+                let boxscoreSectionHtml = '';
+                if (hasStats) {
+                    if (!isRevealed) {
+                        // Spoiler Locked Button
+                        boxscoreSectionHtml = `
+                            <div class="game-boxscore-wrapper">
+                                <div class="spoiler-shield-btn" onclick="revealSpoiler('${g.id}')" title="לחץ כאן לחשיפת תוצאת המשחק והסטטיסטיקות">
+                                    <div class="spoiler-lock-icon">🔒</div>
+                                    <div style="flex: 1;">
+                                        <div class="spoiler-text-title">
+                                            <span>תוצאה וסטטיסטיקה מוסתרים</span>
+                                            <span class="spoiler-tag-badge">הגנת ספוילר 48 שעות</span>
+                                        </div>
+                                        <div class="spoiler-text-desc">
+                                            המשחק הסתיים לפני כ-${hoursAgo} שעות • לחץ כאן לחשיפת הנתונים 👁️
+                                        </div>
+                                    </div>
+                                    <div class="spoiler-click-hint">חשיפה ◀</div>
+                                </div>
+                            </div>
+                        `;
+                    } else {
+                        // Unlocked / Revealed Stats View
+                        let playersRowsHtml = '';
+                        relevantStats.forEach(s => {
+                            const p = s.player;
+                            const st = s.data.stats;
+                            if (!st.has_played) {
+                                playersRowsHtml += `
+                                    <div class="player-stat-block">
+                                        <div class="stat-athlete-title">
+                                            <img class="stat-athlete-img" src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
+                                            <span>${p.name_he} (${p.team_name_he})</span>
+                                        </div>
+                                        <div class="stat-dnp-msg">⚠️ ${st.dnp_reason || 'לא שותף במשחק (DNP)'}</div>
+                                    </div>
+                                `;
+                            } else {
+                                playersRowsHtml += `
+                                    <div class="player-stat-block">
+                                        <div class="stat-athlete-title">
+                                            <img class="stat-athlete-img" src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
+                                            <span>${p.name_he} (${p.team_name_he})</span>
+                                            <span class="stat-minutes-tag">⏱️ ${st.minutes} דקות</span>
+                                        </div>
+                                        <div class="stat-pill-grid">
+                                            <div class="stat-box highlight">
+                                                <span class="stat-box-val">${st.points}</span>
+                                                <span class="stat-box-label">נקודות</span>
+                                            </div>
+                                            <div class="stat-box">
+                                                <span class="stat-box-val">${st.rebounds}</span>
+                                                <span class="stat-box-label">ריבאונד</span>
+                                            </div>
+                                            <div class="stat-box">
+                                                <span class="stat-box-val">${st.assists}</span>
+                                                <span class="stat-box-label">אסיסטים</span>
+                                            </div>
+                                            <div class="stat-box">
+                                                <span class="stat-box-val">${st.fg}</span>
+                                                <span class="stat-box-label">שדה (FG)</span>
+                                            </div>
+                                            <div class="stat-box">
+                                                <span class="stat-box-val">${st.three_pt}</span>
+                                                <span class="stat-box-label">שלשות (3PT)</span>
+                                            </div>
+                                            <div class="stat-box">
+                                                <span class="stat-box-val">${st.ft}</span>
+                                                <span class="stat-box-label">עונשין (FT)</span>
+                                            </div>
+                                            <div class="stat-box">
+                                                <span class="stat-box-val">${st.plus_minus}</span>
+                                                <span class="stat-box-label">מדד (+/-)</span>
+                                            </div>
+                                            <div class="stat-box">
+                                                <span class="stat-box-val">${st.steals}/${st.blocks}</span>
+                                                <span class="stat-box-label">חטיפות/חסימות</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                `;
+                            }
+                        });
+
+                        boxscoreSectionHtml = `
+                            <div class="game-boxscore-wrapper">
+                                <div class="boxscore-content">
+                                    <div class="boxscore-header-bar">
+                                        <div class="final-score-pill">
+                                            <span>🏁 סיום:</span>
+                                            <span>${homeTeam.name} ${homeScoreVal || ''} - ${awayScoreVal || ''} ${awayTeam.name}</span>
+                                        </div>
+                                        ${isSpoilerPeriod ? `
+                                            <button class="spoiler-rehide-btn" onclick="hideSpoiler('${g.id}')" title="הסתר שוב תחת הגנת ספוילר">
+                                                <span>🔒</span> הסתר מחדש
+                                            </button>
+                                        ` : `
+                                            <span class="spoiler-expired-tag">✓ עברו מעל 48 שעות (גלוי תמיד)</span>
+                                        `}
+                                    </div>
+                                    ${playersRowsHtml}
+                                </div>
+                            </div>
+                        `;
+                    }
+                }
+
+                card.innerHTML = `
+                    ${isDerby ? '<div class="derby-tag">🇮🇱 דרבי ישראלי ראש בראש!</div>' : ''}
+                    <div class="matchup-header">
+                        <div class="team-box">
+                            <img class="team-logo" src="${homeTeam.logo || 'https://a.espncdn.com/i/teamlogos/nba/500/' + (homeTeam.abbrev || '').toLowerCase() + '.png'}" onerror="this.src='https://a.espncdn.com/i/teamlogos/default-team-logo-500.png'" alt="${homeTeam.name}">
+                            <div class="team-name">${homeTeam.name}</div>
+                        </div>
+                        ${vsDividerHtml}
+                        <div class="team-box">
+                            <img class="team-logo" src="${awayTeam.logo || 'https://a.espncdn.com/i/teamlogos/nba/500/' + (awayTeam.abbrev || '').toLowerCase() + '.png'}" onerror="this.src='https://a.espncdn.com/i/teamlogos/default-team-logo-500.png'" alt="${awayTeam.name}">
+                            <div class="team-name">${awayTeam.name}</div>
+                        </div>
+                    </div>
+
+                    <div class="game-time-box">
+                        <div class="time-ist">
+                            <div class="time-clock">${g.time_il} (שעון ישראל)</div>
+                            <div class="time-date">${g.day_name_he} • ${g.date_il}</div>
+                        </div>
+                        ${countdownBadgeHtml}
+                    </div>
+
+                    <div class="game-players-bar">
+                        ${playerChipsHtml}
+                    </div>
+
+                    ${boxscoreSectionHtml}
+
+                    <div class="broadcast-section">
+                        <div class="channel-banner ${isTelevised ? 'live-broadcast' : ''}">
+                            <div class="channel-name">
+                                <span>📺</span>
+                                <span>${g.tv_broadcast.channel_name}</span>
+                            </div>
+                            ${isTelevised ? '<span class="live-tag">שידור ישיר</span>' : ''}
+                        </div>
+
+                        ${g.pini_summary && g.pini_summary.has_summary ? `
+                            <a href="${g.pini_summary.video_url}" target="_blank" class="pini-summary-badge" title="צפה בסיכום המשחק ביוטיוב">
+                                <span class="yt-play-btn">▶</span>
+                                <div class="pini-summary-text">
+                                    <span class="pini-summary-label">סיכום מעקבדיה זמין ביוטיוב!</span>
+                                    <span class="pini-summary-title">${g.pini_summary.video_title}</span>
+                                </div>
+                            </a>
+                        ` : (g.is_completed ? `
+                            <div class="pini-summary-pending">
+                                <span>🎥</span> <span>המשחק הסתיים • סיכום מעקבדיה טרם פורסם</span>
+                            </div>
+                        ` : '')}
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // Initialize on page load
+        loadData();
+    </script>
+</body>
+</html>
