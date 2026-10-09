@@ -1,0 +1,19 @@
+{
+  "name": "מעקב ישראלים ב-NBA",
+  "short_name": "ישראלים ב-NBA",
+  "description": "מעקב שידורים חי, סטטיסטיקות והגנת ספוילר לשחקנים הישראלים ב-NBA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D1017",
+  "theme_color": "#0056B3",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64 128x128 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

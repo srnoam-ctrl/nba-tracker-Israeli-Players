@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg_dark">#0D1017</color>
+    <color name="primary_blue">#0284C7</color>
+    <color name="primary_dark_blue">#1E3A8A</color>
+    <color name="sport5_red">#D71920</color>
+    <color name="accent_green">#10B981</color>
+    <color name="text_white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,54 @@
+name: Build Android App (APK & AAB)
+
+on:
+  push:
+    paths:
+      - 'android/**'
+      - '.github/workflows/build_android.yml'
+  workflow_dispatch: # Allows manual one-click build anytime
+
+jobs:
+  build:
+    name: Build Android APK and Google Play Bundle (AAB)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Grant Execute Permission to Gradle
+        run: |
+          cd android
+          gradle wrapper --gradle-version 8.7
+          chmod +x gradlew
+
+      - name: Build Android APK (Debug/Direct Install)
+        run: |
+          cd android
+          ./gradlew assembleDebug --stacktrace
+
+      - name: Build Android App Bundle (AAB for Google Play)
+        run: |
+          cd android
+          ./gradlew bundleRelease --stacktrace
+
+      - name: Upload APK for Direct Phone Installation
+        uses: actions/upload-artifact@v4
+        with:
+          name: NBA-Israelis-Tracker-APK
+          path: android/app/build/outputs/apk/debug/*.apk
+
+      - name: Upload AAB for Google Play Console (Internal Testing)
+        uses: actions/upload-artifact@v4
+        with:
+          name: NBA-Israelis-Tracker-GooglePlay-AAB
+          path: android/app/build/outputs/bundle/release/*.aab

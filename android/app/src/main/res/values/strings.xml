@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">מעקב ישראלים ב-NBA</string>
+    <string name="channel_games_name">תזכורות משחקים ושידורים</string>
+    <string name="channel_games_desc">התראות כ-30 דקות לפני משחקים חיים בערוץ הספורט</string>
+    <string name="channel_stats_name">תוצאות וסטטיסטיקות סיום</string>
+    <string name="channel_stats_desc">עדכוני סיום משחק ובוקסקור עם הגנת ספוילר</string>
+    <string name="channel_recap_name">סיכומי מעקבדיה ביוטיוב</string>
+    <string name="channel_recap_desc">התראות על סרטוני סיכום חדשים של פיני בראל</string>
+    <string name="channel_daily_name">סיכום יומי מרוכז</string>
+    <string name="channel_daily_desc">סיכום משחקי היום והלילה הקרוב בשעה קבועה</string>
+</resources>

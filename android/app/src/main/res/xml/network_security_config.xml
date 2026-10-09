@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Block all unencrypted cleartext HTTP traffic globally -->
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+
+    <!-- Domain specific configurations for GitHub Pages & APIs -->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">github.io</domain>
+        <domain includeSubdomains="true">githubusercontent.com</domain>
+        <domain includeSubdomains="true">espncdn.com</domain>
+        <domain includeSubdomains="true">youtube.com</domain>
+    </domain-config>
+</network-security-config>
