@@ -143,7 +143,8 @@ def run():
             "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
             "series_name": "מעקבדיה",
             "channel_url": "https://www.youtube.com/@PiniBarel",
-            "total_recent_videos": len(pini_videos)
+            "total_recent_videos": len(pini_videos),
+            "recent_videos": pini_videos
         },
         "players": processed_players,
         "all_games": all_games_list,

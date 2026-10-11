@@ -1,11 +1,148 @@
 window.GAMES_DATA = {
-  "last_updated": "2026-10-11T07:28:53.490961+03:00",
-  "last_updated_display": "11/10/2026 07:28:53",
+  "last_updated": "2026-10-11T15:24:34.372436+03:00",
+  "last_updated_display": "11/10/2026 15:24:34",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
     "channel_url": "https://www.youtube.com/@PiniBarel",
-    "total_recent_videos": 0
+    "total_recent_videos": 15,
+    "recent_videos": [
+      {
+        "title": "ספיישל פתיחת עונת ה-NBA | אנדר אובר - 15 קבוצות המערב | #241",
+        "link": "https://www.youtube.com/watch?v=B1amsEhZKhE",
+        "video_id": "B1amsEhZKhE",
+        "thumbnail": "https://img.youtube.com/vi/B1amsEhZKhE/mqdefault.jpg",
+        "published_date": "2026-10-11",
+        "published_full": "2026-10-11T10:40:56+00:00",
+        "is_nba": true
+      },
+      {
+        "title": "בן שרף ודני וולף במשחק הכנה נגד פילדלפיה | עדכון המעקבדיה ועמנואל שארפ",
+        "link": "https://www.youtube.com/watch?v=aTsyvUiXTOk",
+        "video_id": "aTsyvUiXTOk",
+        "thumbnail": "https://img.youtube.com/vi/aTsyvUiXTOk/mqdefault.jpg",
+        "published_date": "2026-10-09",
+        "published_full": "2026-10-09T11:11:33+00:00",
+        "is_nba": true
+      },
+      {
+        "title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
+        "link": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
+        "video_id": "gQkbw8Gtll4",
+        "thumbnail": "https://img.youtube.com/vi/gQkbw8Gtll4/mqdefault.jpg",
+        "published_date": "2026-10-08",
+        "published_full": "2026-10-08T10:55:53+00:00",
+        "is_nba": true
+      },
+      {
+        "title": "המשחקים החדשים שלנו בNBA | התחרות לעונת 26-27 🏀",
+        "link": "https://www.youtube.com/watch?v=uYZPy4_DPgs",
+        "video_id": "uYZPy4_DPgs",
+        "thumbnail": "https://img.youtube.com/vi/uYZPy4_DPgs/mqdefault.jpg",
+        "published_date": "2026-10-06",
+        "published_full": "2026-10-06T15:26:05+00:00",
+        "is_nba": true
+      },
+      {
+        "title": "סיכום 4 משחקי נבחרת ישראל בכדורגל (2 מ 12 ללא ניצחון)",
+        "link": "https://www.youtube.com/watch?v=38KDYcX5200",
+        "video_id": "38KDYcX5200",
+        "thumbnail": "https://img.youtube.com/vi/38KDYcX5200/mqdefault.jpg",
+        "published_date": "2026-10-06",
+        "published_full": "2026-10-06T11:43:52+00:00",
+        "is_nba": false
+      },
+      {
+        "title": "לייב צפייה משותפת - נבחרת ישראל נגד אירלנד",
+        "link": "https://www.youtube.com/watch?v=QBga7bHRbXI",
+        "video_id": "QBga7bHRbXI",
+        "thumbnail": "https://img.youtube.com/vi/QBga7bHRbXI/mqdefault.jpg",
+        "published_date": "2026-10-04",
+        "published_full": "2026-10-04T20:49:37+00:00",
+        "is_nba": false
+      },
+      {
+        "title": "נבחרת ישראל נגד קוסובו - שומרים על רשת נקייה אבל מה עם ההתקפה?",
+        "link": "https://www.youtube.com/watch?v=pHfviVa4-WQ",
+        "video_id": "pHfviVa4-WQ",
+        "thumbnail": "https://img.youtube.com/vi/pHfviVa4-WQ/mqdefault.jpg",
+        "published_date": "2026-10-02",
+        "published_full": "2026-10-02T12:52:03+00:00",
+        "is_nba": false
+      },
+      {
+        "title": "לייב | נבחרת ישראל נגד קוסובו | מנסים להציל קצת מהכבוד!",
+        "link": "https://www.youtube.com/watch?v=6CRpGEsoKe0",
+        "video_id": "6CRpGEsoKe0",
+        "thumbnail": "https://img.youtube.com/vi/6CRpGEsoKe0/mqdefault.jpg",
+        "published_date": "2026-10-01",
+        "published_full": "2026-10-01T20:48:56+00:00",
+        "is_nba": false
+      },
+      {
+        "title": "מסקנות מוקדמות מיום המדיה של פורטלנד וברוקלין | דני אבדיה, בן שרף ודני וולף",
+        "link": "https://www.youtube.com/watch?v=xnc7QJ0J6xA",
+        "video_id": "xnc7QJ0J6xA",
+        "thumbnail": "https://img.youtube.com/vi/xnc7QJ0J6xA/mqdefault.jpg",
+        "published_date": "2026-09-30",
+        "published_full": "2026-09-30T11:38:06+00:00",
+        "is_nba": true
+      },
+      {
+        "title": "ההשפלה הכי כואבת שחוויתי בספורט | נבחרת ישראל נגד אירלנד - בושה!",
+        "link": "https://www.youtube.com/watch?v=UGiTT4Bpq94",
+        "video_id": "UGiTT4Bpq94",
+        "thumbnail": "https://img.youtube.com/vi/UGiTT4Bpq94/mqdefault.jpg",
+        "published_date": "2026-09-28",
+        "published_full": "2026-09-28T11:38:15+00:00",
+        "is_nba": false
+      },
+      {
+        "title": "לייב רותח | נבחרת ישראל נגד אירלנד | הרבה יותר מעוד משחק!",
+        "link": "https://www.youtube.com/watch?v=QBVDeoaBf0c",
+        "video_id": "QBVDeoaBf0c",
+        "thumbnail": "https://img.youtube.com/vi/QBVDeoaBf0c/mqdefault.jpg",
+        "published_date": "2026-09-27",
+        "published_full": "2026-09-27T20:51:19+00:00",
+        "is_nba": false
+      },
+      {
+        "title": "נבחרת ישראל נגד אוסטריה 3-1 | אותן הבעיות ואדום שערורייתי",
+        "link": "https://www.youtube.com/watch?v=WvriTpYLXr4",
+        "video_id": "WvriTpYLXr4",
+        "thumbnail": "https://img.youtube.com/vi/WvriTpYLXr4/mqdefault.jpg",
+        "published_date": "2026-09-25",
+        "published_full": "2026-09-25T12:43:07+00:00",
+        "is_nba": false
+      },
+      {
+        "title": "כמה דברים שופט אחד יכול לפספס?",
+        "link": "https://www.youtube.com/shorts/y6pKQJwNYrc",
+        "video_id": "y6pKQJwNYrc",
+        "thumbnail": "https://img.youtube.com/vi/y6pKQJwNYrc/mqdefault.jpg",
+        "published_date": "2026-09-25",
+        "published_full": "2026-09-25T12:36:46+00:00",
+        "is_nba": false
+      },
+      {
+        "title": "לייב | נבחרת ישראל נגד אוסטריה ותחילת היורוליג!",
+        "link": "https://www.youtube.com/watch?v=NQhvR3PVTrs",
+        "video_id": "NQhvR3PVTrs",
+        "thumbnail": "https://img.youtube.com/vi/NQhvR3PVTrs/mqdefault.jpg",
+        "published_date": "2026-09-24",
+        "published_full": "2026-09-24T20:52:34+00:00",
+        "is_nba": false
+      },
+      {
+        "title": "דירוג העוצמה ביורוליג לקראת פתיחת עונת 26-27",
+        "link": "https://www.youtube.com/watch?v=Vv55ZnXiJj8",
+        "video_id": "Vv55ZnXiJj8",
+        "thumbnail": "https://img.youtube.com/vi/Vv55ZnXiJj8/mqdefault.jpg",
+        "published_date": "2026-09-24",
+        "published_full": "2026-09-24T11:26:28+00:00",
+        "is_nba": false
+      }
+    ]
   },
   "players": [
     {
@@ -29,7 +166,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-11T04:29:06.875065+00:00"
+        "last_updated": "2026-10-11T12:24:42.635374+00:00"
       },
       "total_games": 4,
       "games": [
@@ -91,16 +228,18 @@ window.GAMES_DATA = {
             "badge_text": "כשיר ומשחק (Available)"
           },
           "pini_summary": {
-            "has_summary": false,
-            "video_title": "",
-            "video_url": "",
-            "published_date": "",
+            "has_summary": true,
+            "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
+            "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
+            "video_id": "gQkbw8Gtll4",
+            "thumbnail": "https://img.youtube.com/vi/gQkbw8Gtll4/mqdefault.jpg",
+            "published_date": "2026-10-08",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 74.5,
+            "hours_ago": 82.4,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -183,6 +322,8 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
@@ -252,6 +393,8 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
@@ -321,6 +464,8 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
@@ -388,16 +533,18 @@ window.GAMES_DATA = {
           "badge_text": "כשיר ומשחק (Available)"
         },
         "pini_summary": {
-          "has_summary": false,
-          "video_title": "",
-          "video_url": "",
-          "published_date": "",
+          "has_summary": true,
+          "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
+          "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
+          "video_id": "gQkbw8Gtll4",
+          "thumbnail": "https://img.youtube.com/vi/gQkbw8Gtll4/mqdefault.jpg",
+          "published_date": "2026-10-08",
           "channel_url": "https://www.youtube.com/@PiniBarel"
         },
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 74.5,
+          "hours_ago": 82.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -441,7 +588,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-11T04:29:07.637185+00:00"
+        "last_updated": "2026-10-11T12:24:43.615043+00:00"
       },
       "total_games": 4,
       "games": [
@@ -506,13 +653,15 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 101.5,
+            "hours_ago": 109.4,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -592,16 +741,18 @@ window.GAMES_DATA = {
             "badge_text": "כשיר ומשחק (Available)"
           },
           "pini_summary": {
-            "has_summary": false,
-            "video_title": "",
-            "video_url": "",
-            "published_date": "",
+            "has_summary": true,
+            "video_title": "בן שרף ודני וולף במשחק הכנה נגד פילדלפיה | עדכון המעקבדיה ועמנואל שארפ",
+            "video_url": "https://www.youtube.com/watch?v=aTsyvUiXTOk",
+            "video_id": "aTsyvUiXTOk",
+            "thumbnail": "https://img.youtube.com/vi/aTsyvUiXTOk/mqdefault.jpg",
+            "published_date": "2026-10-09",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 53.0,
+            "hours_ago": 60.9,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -684,6 +835,8 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
@@ -753,6 +906,8 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
@@ -823,13 +978,15 @@ window.GAMES_DATA = {
           "has_summary": false,
           "video_title": "",
           "video_url": "",
+          "video_id": "",
+          "thumbnail": "",
           "published_date": "",
           "channel_url": "https://www.youtube.com/@PiniBarel"
         },
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 101.5,
+          "hours_ago": 109.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -873,7 +1030,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-11T04:29:08.352400+00:00"
+        "last_updated": "2026-10-11T12:24:44.312085+00:00"
       },
       "total_games": 4,
       "games": [
@@ -938,13 +1095,15 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 101.5,
+            "hours_ago": 109.4,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1024,16 +1183,18 @@ window.GAMES_DATA = {
             "badge_text": "כשיר ומשחק (Available)"
           },
           "pini_summary": {
-            "has_summary": false,
-            "video_title": "",
-            "video_url": "",
-            "published_date": "",
+            "has_summary": true,
+            "video_title": "בן שרף ודני וולף במשחק הכנה נגד פילדלפיה | עדכון המעקבדיה ועמנואל שארפ",
+            "video_url": "https://www.youtube.com/watch?v=aTsyvUiXTOk",
+            "video_id": "aTsyvUiXTOk",
+            "thumbnail": "https://img.youtube.com/vi/aTsyvUiXTOk/mqdefault.jpg",
+            "published_date": "2026-10-09",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 53.0,
+            "hours_ago": 60.9,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1116,6 +1277,8 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
@@ -1185,6 +1348,8 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
@@ -1255,13 +1420,15 @@ window.GAMES_DATA = {
           "has_summary": false,
           "video_title": "",
           "video_url": "",
+          "video_id": "",
+          "thumbnail": "",
           "published_date": "",
           "channel_url": "https://www.youtube.com/@PiniBarel"
         },
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 101.5,
+          "hours_ago": 109.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -1305,7 +1472,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-11T04:29:09.171705+00:00"
+        "last_updated": "2026-10-11T12:24:45.206853+00:00"
       },
       "total_games": 5,
       "games": [
@@ -1370,13 +1537,15 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 122.5,
+            "hours_ago": 130.4,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1459,13 +1628,15 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 49.7,
+            "hours_ago": 57.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1548,13 +1719,15 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 4.0,
+            "hours_ago": 11.9,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -1637,6 +1810,8 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
@@ -1706,6 +1881,8 @@ window.GAMES_DATA = {
             "has_summary": false,
             "video_title": "",
             "video_url": "",
+            "video_id": "",
+            "thumbnail": "",
             "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
@@ -1776,13 +1953,15 @@ window.GAMES_DATA = {
           "has_summary": false,
           "video_title": "",
           "video_url": "",
+          "video_id": "",
+          "thumbnail": "",
           "published_date": "",
           "channel_url": "https://www.youtube.com/@PiniBarel"
         },
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 122.5,
+          "hours_ago": 130.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -1887,6 +2066,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -1894,7 +2075,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 122.5,
+          "hours_ago": 130.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2014,6 +2195,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -2021,7 +2204,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 101.5,
+          "hours_ago": 109.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2045,7 +2228,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 101.5,
+          "hours_ago": 109.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2145,17 +2328,19 @@ window.GAMES_DATA = {
         }
       ],
       "pini_summary": {
-        "has_summary": false,
-        "video_title": "",
-        "video_url": "",
-        "published_date": "",
+        "has_summary": true,
+        "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
+        "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
+        "video_id": "gQkbw8Gtll4",
+        "thumbnail": "https://img.youtube.com/vi/gQkbw8Gtll4/mqdefault.jpg",
+        "published_date": "2026-10-08",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscores": {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 74.5,
+          "hours_ago": 82.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2180,7 +2365,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 74.5,
+        "hours_ago": 82.4,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -2296,17 +2481,19 @@ window.GAMES_DATA = {
         }
       ],
       "pini_summary": {
-        "has_summary": false,
-        "video_title": "",
-        "video_url": "",
-        "published_date": "",
+        "has_summary": true,
+        "video_title": "בן שרף ודני וולף במשחק הכנה נגד פילדלפיה | עדכון המעקבדיה ועמנואל שארפ",
+        "video_url": "https://www.youtube.com/watch?v=aTsyvUiXTOk",
+        "video_id": "aTsyvUiXTOk",
+        "thumbnail": "https://img.youtube.com/vi/aTsyvUiXTOk/mqdefault.jpg",
+        "published_date": "2026-10-09",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscores": {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 53.0,
+          "hours_ago": 60.9,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2330,7 +2517,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 53.0,
+          "hours_ago": 60.9,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2433,6 +2620,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -2440,7 +2629,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 49.7,
+          "hours_ago": 57.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2543,6 +2732,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -2550,7 +2741,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 4.0,
+          "hours_ago": 11.9,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -2653,6 +2844,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -2764,6 +2957,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -2875,6 +3070,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -2990,6 +3187,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -3084,6 +3283,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -3174,6 +3375,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -3194,7 +3397,7 @@ window.GAMES_DATA = {
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-10-11T04:29:06.875065+00:00"
+    "last_updated": "2026-10-11T12:24:42.635374+00:00"
   },
   "total_games": 4,
   "games": [
@@ -3256,16 +3459,18 @@ window.GAMES_DATA = {
         "badge_text": "כשיר ומשחק (Available)"
       },
       "pini_summary": {
-        "has_summary": false,
-        "video_title": "",
-        "video_url": "",
-        "published_date": "",
+        "has_summary": true,
+        "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
+        "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
+        "video_id": "gQkbw8Gtll4",
+        "thumbnail": "https://img.youtube.com/vi/gQkbw8Gtll4/mqdefault.jpg",
+        "published_date": "2026-10-08",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 74.5,
+        "hours_ago": 82.4,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -3348,6 +3553,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -3417,6 +3624,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
@@ -3486,6 +3695,8 @@ window.GAMES_DATA = {
         "has_summary": false,
         "video_title": "",
         "video_url": "",
+        "video_id": "",
+        "thumbnail": "",
         "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },

@@ -211,6 +211,208 @@
             border-radius: 8px;
         }
 
+        .pini-badge-thumb {
+            width: 58px;
+            height: 38px;
+            border-radius: 8px;
+            object-fit: cover;
+            flex-shrink: 0;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        .pini-badge-arrow {
+            font-size: 13px;
+            color: #FCA5A5;
+            margin-right: auto;
+            flex-shrink: 0;
+            transition: transform 0.2s ease;
+        }
+
+        .pini-summary-badge:hover .pini-badge-arrow {
+            transform: translateX(-4px);
+        }
+
+        /* Dedicated Maakavdiya Section */
+        .pini-section {
+            background: linear-gradient(180deg, rgba(220, 38, 38, 0.09), rgba(17, 22, 34, 0.85));
+            border: 1px solid rgba(239, 68, 68, 0.35);
+            border-radius: 20px;
+            padding: 22px;
+            margin-bottom: 28px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .pini-section-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 18px;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .pini-title-box {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .pini-badge-icon {
+            background: #EF4444;
+            color: #FFF;
+            width: 38px;
+            height: 38px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            box-shadow: 0 4px 14px rgba(239, 68, 68, 0.45);
+            flex-shrink: 0;
+        }
+
+        .pini-main-title {
+            font-size: 17px;
+            font-weight: 800;
+            color: #FFF;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .pini-sub-title {
+            font-size: 12.5px;
+            color: #94A3B8;
+            margin-top: 2px;
+        }
+
+        .pini-channel-btn {
+            background: rgba(220, 38, 38, 0.2);
+            border: 1px solid rgba(239, 68, 68, 0.5);
+            color: #FCA5A5;
+            padding: 8px 16px;
+            border-radius: 10px;
+            font-size: 12.5px;
+            font-weight: 700;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s ease;
+        }
+
+        .pini-channel-btn:hover {
+            background: #DC2626;
+            color: #FFF;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 14px rgba(220, 38, 38, 0.4);
+        }
+
+        .pini-videos-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 16px;
+        }
+
+        .pini-video-card {
+            background: #111622;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 14px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            text-decoration: none;
+            color: #FFF;
+            transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .pini-video-card:hover {
+            transform: translateY(-4px);
+            border-color: #EF4444;
+            box-shadow: 0 10px 25px rgba(239, 68, 68, 0.25);
+        }
+
+        .pini-thumb-wrap {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 16 / 9;
+            background: #000;
+            overflow: hidden;
+        }
+
+        .pini-thumb-wrap img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .pini-video-card:hover .pini-thumb-wrap img {
+            transform: scale(1.04);
+        }
+
+        .pini-play-overlay {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(220, 38, 38, 0.9);
+            color: #FFF;
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 17px;
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.6);
+            transition: transform 0.2s ease;
+        }
+
+        .pini-video-card:hover .pini-play-overlay {
+            transform: translate(-50%, -50%) scale(1.15);
+            background: #EF4444;
+        }
+
+        .pini-video-info {
+            padding: 12px 14px;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            justify-content: space-between;
+        }
+
+        .pini-video-title {
+            font-size: 13.5px;
+            font-weight: 700;
+            line-height: 1.45;
+            color: #F1F5F9;
+            margin-bottom: 10px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .pini-video-meta {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 11.5px;
+            color: #94A3B8;
+        }
+
+        .pini-tag {
+            background: rgba(239, 68, 68, 0.16);
+            color: #F87171;
+            padding: 2px 7px;
+            border-radius: 5px;
+            font-weight: 700;
+            font-size: 11px;
+        }
+
         .spin {
             display: inline-block;
             animation: rotating 1s linear infinite;
@@ -1074,6 +1276,29 @@
             <!-- Dynamically populated cards for all 4 players -->
         </section>
 
+        <!-- Pini Barel Maakavdiya Section -->
+        <section class="pini-section" id="piniSection" style="display: none;">
+            <div class="pini-section-header">
+                <div class="pini-title-box">
+                    <div class="pini-badge-icon">▶️</div>
+                    <div>
+                        <div class="pini-main-title">
+                            <span>מעקבדיה – סיכומי משחקים וניתוחי וידאו</span>
+                            <span class="pini-tag">פיני בראל 🎥</span>
+                        </div>
+                        <div class="pini-sub-title">כל הפרקים והסיכומים הרשמיים מערוץ "ספורט באיכות גבוהה" ביוטיוב</div>
+                    </div>
+                </div>
+                <a href="https://www.youtube.com/@PiniBarel" target="_blank" rel="noopener noreferrer" class="pini-channel-btn">
+                    <span>לערוץ המלא ביוטיוב</span>
+                    <span>◀</span>
+                </a>
+            </div>
+            <div class="pini-videos-grid" id="piniVideosGrid">
+                <!-- Dynamically injected -->
+            </div>
+        </section>
+
         <!-- Filter Controls -->
         <div class="controls-bar">
             <div class="filter-tabs">
@@ -1244,6 +1469,82 @@
                     renderGamesList(player.games || []);
                 }
             }
+
+            renderPiniSection();
+        }
+
+        function renderPiniSection() {
+            const sec = document.getElementById('piniSection');
+            const grid = document.getElementById('piniVideosGrid');
+            if (!sec || !grid) return;
+
+            const piniData = appData.pini_channel || {};
+            const videos = piniData.recent_videos || [];
+
+            // Filter for NBA / Israeli player videos
+            const nbaVideos = videos.filter(v => {
+                if (v.is_nba) return true;
+                const t = (v.title || '').toLowerCase();
+                return t.includes('מעקבדיה') || t.includes('אבדיה') || t.includes('שרף') || t.includes('וולף') || t.includes('שארפ') || t.includes('nba');
+            });
+
+            let displayVideos = nbaVideos;
+            if (selectedPlayerId !== 'all') {
+                const curPlayer = (appData.players || []).find(p => p.id === selectedPlayerId);
+                if (curPlayer) {
+                    const lastName = (curPlayer.name_he || '').split(' ').pop();
+                    const filtered = nbaVideos.filter(v => (v.title || '').includes(lastName) || (v.title || '').includes(curPlayer.name_he));
+                    if (filtered.length > 0) {
+                        displayVideos = filtered;
+                    }
+                }
+            }
+
+            if (!displayVideos || displayVideos.length === 0) {
+                displayVideos = videos.slice(0, 4);
+            }
+
+            if (!displayVideos || displayVideos.length === 0) {
+                sec.style.display = 'none';
+                return;
+            }
+
+            sec.style.display = 'block';
+            grid.innerHTML = '';
+
+            displayVideos.slice(0, 6).forEach(v => {
+                const card = document.createElement('a');
+                card.className = 'pini-video-card';
+                card.href = v.link || `https://www.youtube.com/watch?v=${v.video_id}`;
+                card.target = '_blank';
+                card.rel = 'noopener noreferrer';
+
+                const thumb = v.thumbnail || `https://img.youtube.com/vi/${v.video_id}/mqdefault.jpg`;
+                const dateStr = v.published_date || '';
+
+                // Extract tags from title
+                const tags = [];
+                if ((v.title || '').includes('אבדיה')) tags.push('דני אבדיה');
+                if ((v.title || '').includes('שרף')) tags.push('בן שרף');
+                if ((v.title || '').includes('וולף')) tags.push('דני וולף');
+                if ((v.title || '').includes('שארפ')) tags.push('עמנואל שארפ');
+                if (tags.length === 0) tags.push('מעקבדיה');
+
+                card.innerHTML = `
+                    <div class="pini-thumb-wrap">
+                        <img src="${thumb}" alt="${v.title}" loading="lazy" onerror="this.src='https://img.youtube.com/vi/${v.video_id}/hqdefault.jpg'">
+                        <div class="pini-play-overlay">▶</div>
+                    </div>
+                    <div class="pini-video-info">
+                        <div class="pini-video-title">${v.title}</div>
+                        <div class="pini-video-meta">
+                            <span class="pini-tag">${tags.join(' • ')}</span>
+                            <span>📅 ${dateStr}</span>
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
         }
 
         function renderHubCards() {
@@ -1608,12 +1909,13 @@
                         </div>
 
                         ${g.pini_summary && g.pini_summary.has_summary ? `
-                            <a href="${g.pini_summary.video_url}" target="_blank" class="pini-summary-badge" title="צפה בסיכום המשחק ביוטיוב">
-                                <span class="yt-play-btn">▶</span>
+                            <a href="${g.pini_summary.video_url}" target="_blank" rel="noopener noreferrer" class="pini-summary-badge" title="צפה בסיכום המשחק ביוטיוב">
+                                ${g.pini_summary.thumbnail ? `<img class="pini-badge-thumb" src="${g.pini_summary.thumbnail}" alt="Thumbnail" loading="lazy">` : '<span class="yt-play-btn">▶</span>'}
                                 <div class="pini-summary-text">
-                                    <span class="pini-summary-label">סיכום מעקבדיה זמין ביוטיוב!</span>
+                                    <span class="pini-summary-label">🎥 סיכום מעקבדיה זמין ביוטיוב!</span>
                                     <span class="pini-summary-title">${g.pini_summary.video_title}</span>
                                 </div>
+                                <span class="pini-badge-arrow">◀</span>
                             </a>
                         ` : (g.is_completed ? `
                             <div class="pini-summary-pending">
