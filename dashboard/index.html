@@ -591,6 +591,27 @@
             gap: 4px;
         }
 
+        .game-card.duo {
+            border-color: rgba(56, 189, 248, 0.4);
+            background: linear-gradient(180deg, rgba(56, 189, 248, 0.05), var(--card-bg));
+        }
+
+        .duo-tag {
+            background: linear-gradient(135deg, #0284C7, #0369A1);
+            color: #FFF;
+            font-size: 11px;
+            font-weight: 800;
+            padding: 3px 10px;
+            border-radius: 6px;
+            position: absolute;
+            top: 14px;
+            left: 14px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            box-shadow: 0 2px 6px rgba(2, 132, 199, 0.3);
+        }
+
         /* Matchup Section */
         .matchup-header {
             display: flex;
@@ -1347,11 +1368,13 @@
                 const isTelevised = g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST';
                 const card = document.createElement('div');
 
-                // Check for Israeli Derby (multiple Israeli players in same game)
+                // Check for Israeli Derby (opposing teams) or Teammates Duo (same team)
                 const inGamePlayers = g.players || (selectedPlayerId !== 'all' ? [(appData.players || []).find(p => p.id === selectedPlayerId)].filter(Boolean) : []);
-                const isDerby = inGamePlayers.length >= 2;
+                const uniqueTeams = new Set(inGamePlayers.map(p => (p.team_slug || p.team_name || '').toLowerCase()));
+                const isDerby = inGamePlayers.length >= 2 && uniqueTeams.size >= 2;
+                const isTeammates = inGamePlayers.length >= 2 && uniqueTeams.size === 1;
 
-                card.className = 'game-card' + (isTelevised ? ' televised' : '') + (isDerby ? ' derby' : '');
+                card.className = 'game-card' + (isTelevised ? ' televised' : '') + (isDerby ? ' derby' : '') + (isTeammates ? ' duo' : '');
 
                 const homeTeam = g.home_team || {};
                 const awayTeam = g.away_team || {};
@@ -1539,8 +1562,16 @@
                     }
                 }
 
+                let headerBadgeHtml = '';
+                if (isDerby) {
+                    headerBadgeHtml = '<div class="derby-tag">🇮🇱 דרבי ישראלי ראש בראש!</div>';
+                } else if (isTeammates) {
+                    const teamName = (inGamePlayers[0] && inGamePlayers[0].team_name_he) ? inGamePlayers[0].team_name_he : 'ברוקלין נטס';
+                    headerBadgeHtml = `<div class="duo-tag">🇮🇱 צמד ישראלי ב${teamName}!</div>`;
+                }
+
                 card.innerHTML = `
-                    ${isDerby ? '<div class="derby-tag">🇮🇱 דרבי ישראלי ראש בראש!</div>' : ''}
+                    ${headerBadgeHtml}
                     <div class="matchup-header">
                         <div class="team-box">
                             <img class="team-logo" src="${homeTeam.logo || 'https://a.espncdn.com/i/teamlogos/nba/500/' + (homeTeam.abbrev || '').toLowerCase() + '.png'}" onerror="this.src='https://a.espncdn.com/i/teamlogos/default-team-logo-500.png'" alt="${homeTeam.name}">
