@@ -1,11 +1,11 @@
 window.GAMES_DATA = {
-  "last_updated": "2026-10-08T18:23:23.894875+03:00",
-  "last_updated_display": "08/10/2026 18:23:23",
+  "last_updated": "2026-10-11T07:28:53.490961+03:00",
+  "last_updated_display": "11/10/2026 07:28:53",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
     "channel_url": "https://www.youtube.com/@PiniBarel",
-    "total_recent_videos": 15
+    "total_recent_videos": 0
   },
   "players": [
     {
@@ -29,7 +29,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-08T15:23:47.926646+00:00"
+        "last_updated": "2026-10-11T04:29:06.875065+00:00"
       },
       "total_games": 4,
       "games": [
@@ -67,12 +67,12 @@ window.GAMES_DATA = {
           "is_completed": true,
           "us_broadcast": "NBA TV",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "is_live": true,
-            "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
-            "broadcast_time": "05:30",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -91,17 +91,17 @@ window.GAMES_DATA = {
             "badge_text": "כשיר ומשחק (Available)"
           },
           "pini_summary": {
-            "has_summary": true,
-            "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
-            "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
-            "published_date": "2026-10-08",
+            "has_summary": false,
+            "video_title": "",
+            "video_url": "",
+            "published_date": "",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 13.4,
-            "is_spoiler_period": true,
+            "hours_ago": 74.5,
+            "is_spoiler_period": false,
             "stats": {
               "has_played": true,
               "minutes": "21",
@@ -364,12 +364,12 @@ window.GAMES_DATA = {
         "is_completed": true,
         "us_broadcast": "NBA TV",
         "tv_broadcast": {
-          "channel_name": "5SPORT (ערוץ 5)",
-          "is_live": true,
-          "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
-          "broadcast_time": "05:30",
-          "status": "CONFIRMED_BROADCAST",
-          "badge": "שידור חי בערוץ הספורט"
+          "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+          "is_live": false,
+          "broadcast_title": "",
+          "broadcast_time": "",
+          "status": "NOT_SCHEDULED_YET",
+          "badge": "League Pass / טרם פורסם"
         },
         "player_status": {
           "is_playing": "YES",
@@ -388,17 +388,17 @@ window.GAMES_DATA = {
           "badge_text": "כשיר ומשחק (Available)"
         },
         "pini_summary": {
-          "has_summary": true,
-          "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
-          "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
-          "published_date": "2026-10-08",
+          "has_summary": false,
+          "video_title": "",
+          "video_url": "",
+          "published_date": "",
           "channel_url": "https://www.youtube.com/@PiniBarel"
         },
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 13.4,
-          "is_spoiler_period": true,
+          "hours_ago": 74.5,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "21",
@@ -441,7 +441,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-08T15:23:49.320487+00:00"
+        "last_updated": "2026-10-11T04:29:07.637185+00:00"
       },
       "total_games": 4,
       "games": [
@@ -512,8 +512,8 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 40.4,
-            "is_spoiler_period": true,
+            "hours_ago": 101.5,
+            "is_spoiler_period": false,
             "stats": {
               "has_played": true,
               "minutes": "15",
@@ -563,17 +563,17 @@ window.GAMES_DATA = {
             "abbrev": "PHI",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Thu, October 8th at 7:30 PM EDT",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "is_live": true,
-            "broadcast_title": "NBA: ברוקלין - פילדלפיה, קדם עונה",
-            "broadcast_time": "02:30",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -599,8 +599,28 @@ window.GAMES_DATA = {
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 53.0,
+            "is_spoiler_period": false,
+            "stats": {
+              "has_played": true,
+              "minutes": "12",
+              "points": "5",
+              "rebounds": "1",
+              "assists": "3",
+              "steals": "1",
+              "blocks": "0",
+              "fg": "1-4",
+              "three_pt": "1-1",
+              "ft": "2-6",
+              "turnovers": "2",
+              "plus_minus": "-6",
+              "final_scores": {
+                "BKN": "114",
+                "PHI": "108"
+              }
+            }
           }
         },
         {
@@ -809,8 +829,8 @@ window.GAMES_DATA = {
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 40.4,
-          "is_spoiler_period": true,
+          "hours_ago": 101.5,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "15",
@@ -853,7 +873,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-08T15:23:50.551844+00:00"
+        "last_updated": "2026-10-11T04:29:08.352400+00:00"
       },
       "total_games": 4,
       "games": [
@@ -924,8 +944,8 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 40.4,
-            "is_spoiler_period": true,
+            "hours_ago": 101.5,
+            "is_spoiler_period": false,
             "stats": {
               "has_played": true,
               "minutes": "15",
@@ -975,17 +995,17 @@ window.GAMES_DATA = {
             "abbrev": "PHI",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Thu, October 8th at 7:30 PM EDT",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "is_live": true,
-            "broadcast_title": "NBA: ברוקלין - פילדלפיה, קדם עונה",
-            "broadcast_time": "02:30",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -1011,8 +1031,28 @@ window.GAMES_DATA = {
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 53.0,
+            "is_spoiler_period": false,
+            "stats": {
+              "has_played": true,
+              "minutes": "16",
+              "points": "9",
+              "rebounds": "6",
+              "assists": "4",
+              "steals": "0",
+              "blocks": "0",
+              "fg": "4-7",
+              "three_pt": "1-2",
+              "ft": "0-0",
+              "turnovers": "2",
+              "plus_minus": "+8",
+              "final_scores": {
+                "BKN": "114",
+                "PHI": "108"
+              }
+            }
           }
         },
         {
@@ -1221,8 +1261,8 @@ window.GAMES_DATA = {
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 40.4,
-          "is_spoiler_period": true,
+          "hours_ago": 101.5,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "15",
@@ -1265,7 +1305,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-08T15:23:52.033589+00:00"
+        "last_updated": "2026-10-11T04:29:09.171705+00:00"
       },
       "total_games": 5,
       "games": [
@@ -1336,7 +1376,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 61.4,
+            "hours_ago": 122.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1362,10 +1402,10 @@ window.GAMES_DATA = {
           "id": "401898717",
           "name": "Sacramento Kings at Los Angeles Lakers",
           "short_name": "SAC @ LAL",
-          "utc_date": "2026-10-09T02:30Z",
+          "utc_date": "2026-10-09T02:45Z",
           "date_il": "2026-10-09",
-          "time_il": "05:30",
-          "display_datetime_il": "09/10/2026 05:30",
+          "time_il": "05:45",
+          "display_datetime_il": "09/10/2026 05:45",
           "day_name_en": "Friday",
           "day_name_he": "יום שישי",
           "is_home": false,
@@ -1387,17 +1427,17 @@ window.GAMES_DATA = {
             "abbrev": "SAC",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Thu, October 8th at 10:30 PM EDT",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "us_broadcast": "ESPN2",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "is_live": true,
-            "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
-            "broadcast_time": "05:30",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -1423,8 +1463,28 @@ window.GAMES_DATA = {
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 49.7,
+            "is_spoiler_period": false,
+            "stats": {
+              "has_played": true,
+              "minutes": "21",
+              "points": "11",
+              "rebounds": "3",
+              "assists": "1",
+              "steals": "2",
+              "blocks": "0",
+              "fg": "3-9",
+              "three_pt": "3-9",
+              "ft": "2-5",
+              "turnovers": "0",
+              "plus_minus": "+21",
+              "final_scores": {
+                "LAL": "114",
+                "SAC": "110"
+              }
+            }
           }
         },
         {
@@ -1456,15 +1516,15 @@ window.GAMES_DATA = {
             "abbrev": "SAC",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Sat, October 10th at 8:30 PM EDT",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "5SPORT (ערוץ 5)",
             "is_live": true,
-            "broadcast_title": "WNBA: לאס וגאס - גולדן סטייט, חצי גמר - משחק 3",
-            "broadcast_time": "04:30",
+            "broadcast_title": "NFL - ליגת הפוטבול האמריקאית: ניו אורלינס - מינסוטה ויקינגס, מחזור 5",
+            "broadcast_time": "20:00",
             "status": "CONFIRMED_BROADCAST",
             "badge": "שידור חי בערוץ הספורט"
           },
@@ -1492,8 +1552,28 @@ window.GAMES_DATA = {
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 4.0,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": true,
+              "minutes": "21",
+              "points": "7",
+              "rebounds": "3",
+              "assists": "0",
+              "steals": "1",
+              "blocks": "0",
+              "fg": "3-8",
+              "three_pt": "1-4",
+              "ft": "0-0",
+              "turnovers": "0",
+              "plus_minus": "-1",
+              "final_scores": {
+                "GS": "111",
+                "SAC": "106"
+              }
+            }
           }
         },
         {
@@ -1599,12 +1679,12 @@ window.GAMES_DATA = {
           "is_completed": false,
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
-            "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
-            "status": "PENDING_HORIZON",
-            "badge": "עתידי"
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -1702,7 +1782,7 @@ window.GAMES_DATA = {
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 61.4,
+          "hours_ago": 122.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -1814,7 +1894,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 61.4,
+          "hours_ago": 122.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -1941,8 +2021,8 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 40.4,
-          "is_spoiler_period": true,
+          "hours_ago": 101.5,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "15",
@@ -1965,8 +2045,8 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 40.4,
-          "is_spoiler_period": true,
+          "hours_ago": 101.5,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "15",
@@ -2022,12 +2102,12 @@ window.GAMES_DATA = {
       "is_completed": true,
       "us_broadcast": "NBA TV",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "is_live": true,
-        "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
-        "broadcast_time": "05:30",
-        "status": "CONFIRMED_BROADCAST",
-        "badge": "שידור חי בערוץ הספורט"
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -2065,18 +2145,18 @@ window.GAMES_DATA = {
         }
       ],
       "pini_summary": {
-        "has_summary": true,
-        "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
-        "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
-        "published_date": "2026-10-08",
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscores": {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 13.4,
-          "is_spoiler_period": true,
+          "hours_ago": 74.5,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "21",
@@ -2100,8 +2180,8 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 13.4,
-        "is_spoiler_period": true,
+        "hours_ago": 74.5,
+        "is_spoiler_period": false,
         "stats": {
           "has_played": true,
           "minutes": "21",
@@ -2151,17 +2231,17 @@ window.GAMES_DATA = {
         "abbrev": "PHI",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Thu, October 8th at 7:30 PM EDT",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "is_live": true,
-        "broadcast_title": "NBA: ברוקלין - פילדלפיה, קדם עונה",
-        "broadcast_time": "02:30",
-        "status": "CONFIRMED_BROADCAST",
-        "badge": "שידור חי בערוץ הספורט"
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -2224,12 +2304,52 @@ window.GAMES_DATA = {
       },
       "player_boxscores": {
         "ben_saraf": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 53.0,
+          "is_spoiler_period": false,
+          "stats": {
+            "has_played": true,
+            "minutes": "12",
+            "points": "5",
+            "rebounds": "1",
+            "assists": "3",
+            "steals": "1",
+            "blocks": "0",
+            "fg": "1-4",
+            "three_pt": "1-1",
+            "ft": "2-6",
+            "turnovers": "2",
+            "plus_minus": "-6",
+            "final_scores": {
+              "BKN": "114",
+              "PHI": "108"
+            }
+          }
         },
         "danny_wolf": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 53.0,
+          "is_spoiler_period": false,
+          "stats": {
+            "has_played": true,
+            "minutes": "16",
+            "points": "9",
+            "rebounds": "6",
+            "assists": "4",
+            "steals": "0",
+            "blocks": "0",
+            "fg": "4-7",
+            "three_pt": "1-2",
+            "ft": "0-0",
+            "turnovers": "2",
+            "plus_minus": "+8",
+            "final_scores": {
+              "BKN": "114",
+              "PHI": "108"
+            }
+          }
         }
       }
     },
@@ -2237,10 +2357,10 @@ window.GAMES_DATA = {
       "id": "401898717",
       "name": "Sacramento Kings at Los Angeles Lakers",
       "short_name": "SAC @ LAL",
-      "utc_date": "2026-10-09T02:30Z",
+      "utc_date": "2026-10-09T02:45Z",
       "date_il": "2026-10-09",
-      "time_il": "05:30",
-      "display_datetime_il": "09/10/2026 05:30",
+      "time_il": "05:45",
+      "display_datetime_il": "09/10/2026 05:45",
       "day_name_en": "Friday",
       "day_name_he": "יום שישי",
       "is_home": false,
@@ -2262,17 +2382,17 @@ window.GAMES_DATA = {
         "abbrev": "SAC",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Thu, October 8th at 10:30 PM EDT",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "us_broadcast": "ESPN2",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "is_live": true,
-        "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
-        "broadcast_time": "05:30",
-        "status": "CONFIRMED_BROADCAST",
-        "badge": "שידור חי בערוץ הספורט"
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -2318,8 +2438,28 @@ window.GAMES_DATA = {
       },
       "player_boxscores": {
         "emanuel_sharp": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 49.7,
+          "is_spoiler_period": false,
+          "stats": {
+            "has_played": true,
+            "minutes": "21",
+            "points": "11",
+            "rebounds": "3",
+            "assists": "1",
+            "steals": "2",
+            "blocks": "0",
+            "fg": "3-9",
+            "three_pt": "3-9",
+            "ft": "2-5",
+            "turnovers": "0",
+            "plus_minus": "+21",
+            "final_scores": {
+              "LAL": "114",
+              "SAC": "110"
+            }
+          }
         }
       }
     },
@@ -2352,15 +2492,15 @@ window.GAMES_DATA = {
         "abbrev": "SAC",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Sat, October 10th at 8:30 PM EDT",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "5SPORT (ערוץ 5)",
         "is_live": true,
-        "broadcast_title": "WNBA: לאס וגאס - גולדן סטייט, חצי גמר - משחק 3",
-        "broadcast_time": "04:30",
+        "broadcast_title": "NFL - ליגת הפוטבול האמריקאית: ניו אורלינס - מינסוטה ויקינגס, מחזור 5",
+        "broadcast_time": "20:00",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
@@ -2408,8 +2548,28 @@ window.GAMES_DATA = {
       },
       "player_boxscores": {
         "emanuel_sharp": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 4.0,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "21",
+            "points": "7",
+            "rebounds": "3",
+            "assists": "0",
+            "steals": "1",
+            "blocks": "0",
+            "fg": "3-8",
+            "three_pt": "1-4",
+            "ft": "0-0",
+            "turnovers": "0",
+            "plus_minus": "-1",
+            "final_scores": {
+              "GS": "111",
+              "SAC": "106"
+            }
+          }
         }
       }
     },
@@ -2878,12 +3038,12 @@ window.GAMES_DATA = {
       "is_completed": false,
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
-        "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
-        "status": "PENDING_HORIZON",
-        "badge": "עתידי"
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -3034,7 +3194,7 @@ window.GAMES_DATA = {
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-10-08T15:23:47.926646+00:00"
+    "last_updated": "2026-10-11T04:29:06.875065+00:00"
   },
   "total_games": 4,
   "games": [
@@ -3072,12 +3232,12 @@ window.GAMES_DATA = {
       "is_completed": true,
       "us_broadcast": "NBA TV",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "is_live": true,
-        "broadcast_title": "NBA: ל.א. לייקרס - סקרמנטו, קדם עונה",
-        "broadcast_time": "05:30",
-        "status": "CONFIRMED_BROADCAST",
-        "badge": "שידור חי בערוץ הספורט"
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -3096,17 +3256,17 @@ window.GAMES_DATA = {
         "badge_text": "כשיר ומשחק (Available)"
       },
       "pini_summary": {
-        "has_summary": true,
-        "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
-        "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
-        "published_date": "2026-10-08",
+        "has_summary": false,
+        "video_title": "",
+        "video_url": "",
+        "published_date": "",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 13.4,
-        "is_spoiler_period": true,
+        "hours_ago": 74.5,
+        "is_spoiler_period": false,
         "stats": {
           "has_played": true,
           "minutes": "21",
