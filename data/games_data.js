@@ -1,6 +1,6 @@
 window.GAMES_DATA = {
-  "last_updated": "2026-10-11T15:24:34.372436+03:00",
-  "last_updated_display": "11/10/2026 15:24:34",
+  "last_updated": "2026-10-13T07:19:00.254193+03:00",
+  "last_updated_display": "13/10/2026 07:19:00",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
@@ -166,7 +166,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-11T12:24:42.635374+00:00"
+        "last_updated": "2026-10-13T04:19:07.817360+00:00"
       },
       "total_games": 4,
       "games": [
@@ -239,7 +239,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 82.4,
+            "hours_ago": 122.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -290,9 +290,9 @@ window.GAMES_DATA = {
             "abbrev": "LON",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lon.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Mon, October 12th at 4:00 PM EDT",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
@@ -328,8 +328,28 @@ window.GAMES_DATA = {
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 8.3,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": true,
+              "minutes": "17",
+              "points": "9",
+              "rebounds": "5",
+              "assists": "4",
+              "steals": "0",
+              "blocks": "0",
+              "fg": "3-4",
+              "three_pt": "1-1",
+              "ft": "2-3",
+              "turnovers": "2",
+              "plus_minus": "+44",
+              "final_scores": {
+                "POR": "119",
+                "LON": "66"
+              }
+            }
           }
         },
         {
@@ -544,7 +564,7 @@ window.GAMES_DATA = {
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 82.4,
+          "hours_ago": 122.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -588,7 +608,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-11T12:24:43.615043+00:00"
+        "last_updated": "2026-10-13T04:19:07.956591+00:00"
       },
       "total_games": 4,
       "games": [
@@ -661,7 +681,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 109.4,
+            "hours_ago": 149.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -752,7 +772,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 60.9,
+            "hours_ago": 100.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -803,17 +823,17 @@ window.GAMES_DATA = {
             "abbrev": "BKN",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Mon, October 12th at 7:00 PM EDT",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "us_broadcast": "MNMT",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "is_live": true,
-            "broadcast_title": "NBA: וושינגטון - ברוקלין, משחק קדם עונה",
-            "broadcast_time": "02:00",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -841,8 +861,28 @@ window.GAMES_DATA = {
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 5.3,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": true,
+              "minutes": "8",
+              "points": "0",
+              "rebounds": "0",
+              "assists": "4",
+              "steals": "0",
+              "blocks": "0",
+              "fg": "0-0",
+              "three_pt": "0-0",
+              "ft": "0-0",
+              "turnovers": "1",
+              "plus_minus": "+1",
+              "final_scores": {
+                "WSH": "122",
+                "BKN": "131"
+              }
+            }
           }
         },
         {
@@ -986,7 +1026,7 @@ window.GAMES_DATA = {
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 109.4,
+          "hours_ago": 149.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -1030,7 +1070,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-11T12:24:44.312085+00:00"
+        "last_updated": "2026-10-13T04:19:07.999317+00:00"
       },
       "total_games": 4,
       "games": [
@@ -1103,7 +1143,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 109.4,
+            "hours_ago": 149.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1194,7 +1234,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 60.9,
+            "hours_ago": 100.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1245,17 +1285,17 @@ window.GAMES_DATA = {
             "abbrev": "BKN",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Mon, October 12th at 7:00 PM EDT",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "us_broadcast": "MNMT",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "is_live": true,
-            "broadcast_title": "NBA: וושינגטון - ברוקלין, משחק קדם עונה",
-            "broadcast_time": "02:00",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -1283,8 +1323,28 @@ window.GAMES_DATA = {
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 5.3,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": true,
+              "minutes": "9",
+              "points": "2",
+              "rebounds": "1",
+              "assists": "1",
+              "steals": "0",
+              "blocks": "0",
+              "fg": "1-4",
+              "three_pt": "0-1",
+              "ft": "0-0",
+              "turnovers": "0",
+              "plus_minus": "+1",
+              "final_scores": {
+                "WSH": "122",
+                "BKN": "131"
+              }
+            }
           }
         },
         {
@@ -1428,7 +1488,7 @@ window.GAMES_DATA = {
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 109.4,
+          "hours_ago": 149.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -1472,7 +1532,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-11T12:24:45.206853+00:00"
+        "last_updated": "2026-10-13T04:19:08.091904+00:00"
       },
       "total_games": 5,
       "games": [
@@ -1545,7 +1605,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 130.4,
+            "hours_ago": 170.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1636,7 +1696,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 57.7,
+            "hours_ago": 97.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1692,12 +1752,12 @@ window.GAMES_DATA = {
           "is_completed": true,
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "is_live": true,
-            "broadcast_title": "NFL - ליגת הפוטבול האמריקאית: ניו אורלינס - מינסוטה ויקינגס, מחזור 5",
-            "broadcast_time": "20:00",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -1727,8 +1787,8 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 11.9,
-            "is_spoiler_period": true,
+            "hours_ago": 51.8,
+            "is_spoiler_period": false,
             "stats": {
               "has_played": true,
               "minutes": "21",
@@ -1961,7 +2021,7 @@ window.GAMES_DATA = {
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 130.4,
+          "hours_ago": 170.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2075,7 +2135,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 130.4,
+          "hours_ago": 170.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2204,7 +2264,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 109.4,
+          "hours_ago": 149.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2228,7 +2288,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 109.4,
+          "hours_ago": 149.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2340,7 +2400,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 82.4,
+          "hours_ago": 122.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2365,7 +2425,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 82.4,
+        "hours_ago": 122.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -2493,7 +2553,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 60.9,
+          "hours_ago": 100.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2517,7 +2577,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 60.9,
+          "hours_ago": 100.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2629,7 +2689,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 57.7,
+          "hours_ago": 97.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2686,12 +2746,12 @@ window.GAMES_DATA = {
       "is_completed": true,
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "is_live": true,
-        "broadcast_title": "NFL - ליגת הפוטבול האמריקאית: ניו אורלינס - מינסוטה ויקינגס, מחזור 5",
-        "broadcast_time": "20:00",
-        "status": "CONFIRMED_BROADCAST",
-        "badge": "שידור חי בערוץ הספורט"
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -2741,8 +2801,8 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 11.9,
-          "is_spoiler_period": true,
+          "hours_ago": 51.8,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "21",
@@ -2793,9 +2853,9 @@ window.GAMES_DATA = {
         "abbrev": "LON",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lon.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Mon, October 12th at 4:00 PM EDT",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
@@ -2851,13 +2911,53 @@ window.GAMES_DATA = {
       },
       "player_boxscores": {
         "deni_avdija": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 8.3,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "17",
+            "points": "9",
+            "rebounds": "5",
+            "assists": "4",
+            "steals": "0",
+            "blocks": "0",
+            "fg": "3-4",
+            "three_pt": "1-1",
+            "ft": "2-3",
+            "turnovers": "2",
+            "plus_minus": "+44",
+            "final_scores": {
+              "POR": "119",
+              "LON": "66"
+            }
+          }
         }
       },
       "player_boxscore": {
-        "available": false,
-        "is_completed": false
+        "available": true,
+        "is_completed": true,
+        "hours_ago": 8.3,
+        "is_spoiler_period": true,
+        "stats": {
+          "has_played": true,
+          "minutes": "17",
+          "points": "9",
+          "rebounds": "5",
+          "assists": "4",
+          "steals": "0",
+          "blocks": "0",
+          "fg": "3-4",
+          "three_pt": "1-1",
+          "ft": "2-3",
+          "turnovers": "2",
+          "plus_minus": "+44",
+          "final_scores": {
+            "POR": "119",
+            "LON": "66"
+          }
+        }
       }
     },
     {
@@ -2889,17 +2989,17 @@ window.GAMES_DATA = {
         "abbrev": "BKN",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Mon, October 12th at 7:00 PM EDT",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "us_broadcast": "MNMT",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "is_live": true,
-        "broadcast_title": "NBA: וושינגטון - ברוקלין, משחק קדם עונה",
-        "broadcast_time": "02:00",
-        "status": "CONFIRMED_BROADCAST",
-        "badge": "שידור חי בערוץ הספורט"
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -2964,12 +3064,52 @@ window.GAMES_DATA = {
       },
       "player_boxscores": {
         "ben_saraf": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 5.3,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "8",
+            "points": "0",
+            "rebounds": "0",
+            "assists": "4",
+            "steals": "0",
+            "blocks": "0",
+            "fg": "0-0",
+            "three_pt": "0-0",
+            "ft": "0-0",
+            "turnovers": "1",
+            "plus_minus": "+1",
+            "final_scores": {
+              "WSH": "122",
+              "BKN": "131"
+            }
+          }
         },
         "danny_wolf": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 5.3,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "9",
+            "points": "2",
+            "rebounds": "1",
+            "assists": "1",
+            "steals": "0",
+            "blocks": "0",
+            "fg": "1-4",
+            "three_pt": "0-1",
+            "ft": "0-0",
+            "turnovers": "0",
+            "plus_minus": "+1",
+            "final_scores": {
+              "WSH": "122",
+              "BKN": "131"
+            }
+          }
         }
       }
     },
@@ -3397,7 +3537,7 @@ window.GAMES_DATA = {
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-10-11T12:24:42.635374+00:00"
+    "last_updated": "2026-10-13T04:19:07.817360+00:00"
   },
   "total_games": 4,
   "games": [
@@ -3470,7 +3610,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 82.4,
+        "hours_ago": 122.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -3521,9 +3661,9 @@ window.GAMES_DATA = {
         "abbrev": "LON",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lon.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Mon, October 12th at 4:00 PM EDT",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
@@ -3559,8 +3699,28 @@ window.GAMES_DATA = {
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscore": {
-        "available": false,
-        "is_completed": false
+        "available": true,
+        "is_completed": true,
+        "hours_ago": 8.3,
+        "is_spoiler_period": true,
+        "stats": {
+          "has_played": true,
+          "minutes": "17",
+          "points": "9",
+          "rebounds": "5",
+          "assists": "4",
+          "steals": "0",
+          "blocks": "0",
+          "fg": "3-4",
+          "three_pt": "1-1",
+          "ft": "2-3",
+          "turnovers": "2",
+          "plus_minus": "+44",
+          "final_scores": {
+            "POR": "119",
+            "LON": "66"
+          }
+        }
       }
     },
     {
