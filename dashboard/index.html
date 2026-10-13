@@ -702,7 +702,7 @@
             margin-top: 4px;
         }
 
-        /* Filter Controls */
+        /* View and Filter Controls */
         .controls-bar {
             display: flex;
             justify-content: space-between;
@@ -712,6 +712,43 @@
             gap: 15px;
         }
 
+        .view-and-filters {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .view-mode-tabs {
+            display: flex;
+            background: #0B0E17;
+            padding: 4px;
+            border-radius: 12px;
+            border: 1px solid #2B3349;
+            gap: 4px;
+        }
+
+        .view-tab-btn {
+            background: transparent;
+            color: var(--text-muted);
+            border: none;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 700;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s ease;
+        }
+
+        .view-tab-btn.active {
+            background: linear-gradient(135deg, #1E40AF, #3B82F6);
+            color: #FFF;
+            box-shadow: 0 4px 12px rgba(37, 99, 235, 0.35);
+        }
+
         .filter-tabs {
             display: flex;
             background: #111420;
@@ -719,18 +756,23 @@
             border-radius: 12px;
             border: 1px solid var(--card-border);
             gap: 4px;
+            flex-wrap: wrap;
         }
 
         .filter-btn {
             background: transparent;
             color: var(--text-muted);
             border: none;
-            padding: 8px 16px;
+            padding: 8px 14px;
             border-radius: 8px;
-            font-size: 14px;
+            font-size: 13.5px;
             font-weight: 600;
             cursor: pointer;
             transition: all 0.2s ease;
+        }
+
+        .filter-btn:hover {
+            color: #FFF;
         }
 
         .filter-btn.active {
@@ -742,6 +784,326 @@
             color: var(--text-muted);
             font-size: 14px;
             font-weight: 600;
+        }
+
+        /* Section Title Bars & Groupings */
+        .section-title-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .section-title-text {
+            font-size: 18px;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #F8FAFC;
+        }
+
+        .section-count-tag {
+            background: #1E2436;
+            color: #94A3B8;
+            font-size: 13px;
+            font-weight: 700;
+            padding: 4px 12px;
+            border-radius: 20px;
+            border: 1px solid var(--card-border);
+        }
+
+        /* Spotlight Hero Card */
+        .spotlight-section {
+            margin-bottom: 30px;
+        }
+
+        .spotlight-title {
+            border-bottom: none;
+            margin-bottom: 12px;
+        }
+
+        .spotlight-badge-pulse {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: linear-gradient(90deg, rgba(239, 68, 68, 0.2), rgba(245, 158, 11, 0.2));
+            color: #FBBF24;
+            border: 1px solid rgba(245, 158, 11, 0.4);
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 800;
+            letter-spacing: 0.3px;
+        }
+
+        .spotlight-sub-desc {
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .spotlight-card {
+            border: 2px solid #F59E0B !important;
+            background: linear-gradient(180deg, rgba(245, 158, 11, 0.07), #161A26) !important;
+            box-shadow: 0 10px 30px rgba(245, 158, 11, 0.15);
+        }
+
+        /* Collapsible Accordion */
+        .accordion-header-bar {
+            background: #161A26;
+            border: 1px solid var(--card-border);
+            border-radius: 14px;
+            padding: 16px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            user-select: none;
+        }
+
+        .accordion-header-bar:hover {
+            border-color: #38BDF8;
+            background: #1A2030;
+        }
+
+        .accordion-title-group {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+
+        .accordion-icon {
+            font-size: 24px;
+        }
+
+        .accordion-main-title {
+            font-size: 16px;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: #F8FAFC;
+        }
+
+        .accordion-count-badge {
+            background: rgba(56, 189, 248, 0.15);
+            color: #38BDF8;
+            font-size: 12px;
+            font-weight: 700;
+            padding: 2px 10px;
+            border-radius: 12px;
+            border: 1px solid rgba(56, 189, 248, 0.3);
+        }
+
+        .accordion-sub-title {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-top: 3px;
+        }
+
+        .accordion-chevron-btn {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid var(--card-border);
+            color: #E2E8F0;
+            padding: 8px 16px;
+            border-radius: 10px;
+            font-size: 13.5px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .accordion-header-bar:hover .accordion-chevron-btn {
+            background: #2563EB;
+            color: #FFF;
+            border-color: #2563EB;
+        }
+
+        .load-more-btn {
+            background: #1E2436;
+            border: 1px solid var(--card-border);
+            color: #38BDF8;
+            padding: 10px 24px;
+            border-radius: 12px;
+            font-size: 14px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .load-more-btn:hover {
+            background: #2563EB;
+            color: #FFF;
+            border-color: #2563EB;
+        }
+
+        /* Calendar View Styling */
+        .calendar-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 20px;
+            padding: 24px;
+            margin-bottom: 25px;
+        }
+
+        .calendar-nav-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 18px;
+        }
+
+        .cal-nav-btn {
+            background: #1E2436;
+            color: #F8FAFC;
+            border: 1px solid var(--card-border);
+            padding: 8px 18px;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .cal-nav-btn:hover {
+            background: #2563EB;
+            border-color: #2563EB;
+        }
+
+        .cal-month-title {
+            font-size: 20px;
+            font-weight: 800;
+            color: #FFF;
+            letter-spacing: 0.5px;
+        }
+
+        .calendar-legend {
+            display: flex;
+            gap: 18px;
+            margin-bottom: 16px;
+            font-size: 13px;
+            color: var(--text-muted);
+            flex-wrap: wrap;
+            padding-bottom: 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+        }
+
+        .legend-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .legend-dot.game-dot {
+            color: #38BDF8;
+            font-size: 16px;
+        }
+
+        .legend-dot.today-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: #10B981;
+            display: inline-block;
+        }
+
+        .calendar-grid-header {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            text-align: center;
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--text-muted);
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+        }
+
+        .calendar-days-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 6px;
+            margin-top: 10px;
+        }
+
+        .cal-day-cell {
+            min-height: 85px;
+            background: #111420;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 8px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+
+        .cal-day-cell:hover {
+            border-color: #38BDF8;
+            background: #161C2C;
+        }
+
+        .cal-day-cell.other-month {
+            opacity: 0.25;
+            cursor: default;
+        }
+
+        .cal-day-cell.is-today {
+            border: 2px solid #10B981;
+            background: rgba(16, 185, 129, 0.05);
+        }
+
+        .cal-day-cell.selected {
+            border: 2px solid #38BDF8;
+            background: rgba(56, 189, 248, 0.12);
+        }
+
+        .cal-day-cell.has-game {
+            background: #171E30;
+            border-color: rgba(56, 189, 248, 0.3);
+        }
+
+        .cal-day-cell.has-televised {
+            border-color: rgba(215, 25, 32, 0.5);
+            background: linear-gradient(180deg, rgba(215, 25, 32, 0.08), #171E30);
+        }
+
+        .cal-day-num {
+            font-size: 13.5px;
+            font-weight: 800;
+            color: #E2E8F0;
+        }
+
+        .cal-day-badges {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            margin-top: 4px;
+        }
+
+        .cal-game-pill {
+            background: rgba(56, 189, 248, 0.18);
+            color: #38BDF8;
+            font-size: 11px;
+            font-weight: 700;
+            padding: 3px 6px;
+            border-radius: 6px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .cal-game-pill.televised {
+            background: rgba(215, 25, 32, 0.25);
+            color: #FF6B6B;
+            border: 1px solid rgba(215, 25, 32, 0.4);
         }
 
         /* Game Cards Grid */
@@ -1299,21 +1661,115 @@
             </div>
         </section>
 
-        <!-- Filter Controls -->
+        <!-- Smart Toolbar & View Switcher -->
         <div class="controls-bar">
-            <div class="filter-tabs">
-                <button class="filter-btn active" onclick="setFilter('all', this)">כל המשחקים</button>
-                <button class="filter-btn" onclick="setFilter('broadcast', this)">משחקים משודרים בלבד 📺</button>
-                <button class="filter-btn" onclick="setFilter('home', this)">משחקי בית</button>
-                <button class="filter-btn" onclick="setFilter('away', this)">משחקי חוץ</button>
+            <div class="view-and-filters">
+                <div class="view-mode-tabs">
+                    <button class="view-tab-btn active" id="viewTabCards" onclick="switchView('cards')">
+                        <span>📋</span> תצוגת כרטיסים
+                    </button>
+                    <button class="view-tab-btn" id="viewTabCalendar" onclick="switchView('calendar')">
+                        <span>📅</span> לוח שנה חודשי
+                    </button>
+                </div>
+
+                <div class="filter-tabs" id="cardsFilterTabs">
+                    <button class="filter-btn active" onclick="setFilter('upcoming', this)">קרובים בלבד ⏰</button>
+                    <button class="filter-btn" onclick="setFilter('broadcast', this)">משחקים משודרים 📺</button>
+                    <button class="filter-btn" onclick="setFilter('all', this)">כל המשחקים</button>
+                    <button class="filter-btn" onclick="setFilter('completed', this)">תוצאות (הסתיימו) 🏁</button>
+                    <button class="filter-btn" onclick="setFilter('home', this)">בית</button>
+                    <button class="filter-btn" onclick="setFilter('away', this)">חוץ</button>
+                </div>
             </div>
             <div class="games-count" id="gamesCount">טוען משחקים...</div>
         </div>
 
-        <!-- Games Grid -->
-        <main class="games-grid" id="gamesGrid">
-            <!-- Dynamic game cards injected here -->
-        </main>
+        <!-- View 1: Cards View Container -->
+        <div id="cardsViewContainer">
+            <!-- Spotlight Hero (Next Game / Tonight) -->
+            <section class="spotlight-section" id="spotlightSection" style="display: none;">
+                <div class="section-title-bar spotlight-title">
+                    <span class="spotlight-badge-pulse">🚨 המשחק הבא • SPOTLIGHT</span>
+                    <span class="spotlight-sub-desc">המשחק הקרוב ביותר לשחקן הנבחר</span>
+                </div>
+                <div id="spotlightCardContainer"></div>
+            </section>
+
+            <!-- Upcoming Horizon Games -->
+            <section class="horizon-section" id="upcomingSection">
+                <div class="section-title-bar" id="upcomingSectionHeader">
+                    <span class="section-title-text">📅 משחקים קרובים בלוח</span>
+                    <span class="section-count-tag" id="upcomingCountTag">0 משחקים</span>
+                </div>
+                <div class="games-grid" id="upcomingGamesGrid"></div>
+                <div id="upcomingLoadMoreContainer" style="text-align: center; margin-top: 18px; display: none;">
+                    <button class="load-more-btn" onclick="toggleUpcomingExpanded()" id="upcomingLoadMoreBtn">הצג עוד משחקים קרובים ▾</button>
+                </div>
+            </section>
+
+            <!-- Collapsible Past / Archive Games Section -->
+            <section class="archive-section" id="pastSection" style="margin-top: 30px;">
+                <div class="accordion-header-bar" onclick="togglePastExpanded()" id="pastAccordionToggle">
+                    <div class="accordion-title-group">
+                        <span class="accordion-icon">📁</span>
+                        <div>
+                            <div class="accordion-main-title">
+                                <span>תוצאות ומשחקים שהסתיימו</span>
+                                <span class="accordion-count-badge" id="pastCountBadge">0 משחקים</span>
+                            </div>
+                            <div class="accordion-sub-title" id="pastAccordionSub">לחץ להרחבת היסטוריית התוצאות והסטטיסטיקות (מוגן בספוילר)</div>
+                        </div>
+                    </div>
+                    <button class="accordion-chevron-btn" id="pastChevronBtn">
+                        <span id="pastChevronText">הרחב תוצאות ▼</span>
+                    </button>
+                </div>
+                <div id="pastGamesContent" style="display: none; margin-top: 15px;">
+                    <div class="games-grid" id="pastGamesGrid"></div>
+                    <div id="pastLoadMoreContainer" style="text-align: center; margin-top: 18px; display: none;">
+                        <button class="load-more-btn" onclick="togglePastAllExpanded()" id="pastLoadMoreBtn">הצג את כל תוצאות העונה ▾</button>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- View 2: Calendar View Container -->
+        <div id="calendarViewContainer" style="display: none;">
+            <div class="calendar-card">
+                <div class="calendar-nav-bar">
+                    <button class="cal-nav-btn" onclick="changeCalendarMonth(-1)">◀ חודש קודם</button>
+                    <div class="cal-month-title" id="calendarMonthTitle">אוקטובר 2026</div>
+                    <button class="cal-nav-btn" onclick="changeCalendarMonth(1)">חודש הבא ▶</button>
+                </div>
+                <div class="calendar-legend">
+                    <span class="legend-item"><span class="legend-dot game-dot">●</span> משחק ישראלי</span>
+                    <span class="legend-item"><span class="legend-dot tv-dot">📺</span> שידור חי מאושר בערוץ הספורט</span>
+                    <span class="legend-item"><span class="legend-dot today-dot"></span> היום</span>
+                </div>
+                <div class="calendar-grid-header">
+                    <div>ראשון</div>
+                    <div>שני</div>
+                    <div>שלישי</div>
+                    <div>רביעי</div>
+                    <div>חמישי</div>
+                    <div>שישי</div>
+                    <div>שבת</div>
+                </div>
+                <div class="calendar-days-grid" id="calendarDaysGrid">
+                    <!-- Dynamic calendar days injected here -->
+                </div>
+            </div>
+
+            <!-- Selected Date Games in Calendar -->
+            <div class="calendar-selected-games" id="calendarSelectedGames" style="margin-top: 25px;">
+                <div class="section-title-bar">
+                    <span class="section-title-text" id="calendarSelectedDateTitle">משחקים בתאריך הנבחר</span>
+                    <span class="section-count-tag" id="calendarSelectedDateCount">0 משחקים</span>
+                </div>
+                <div class="games-grid" id="calendarGamesGrid"></div>
+            </div>
+        </div>
 
         <footer class="footer">
             מעקב שידורי ישראלים ב-NBA • מתעדכן אוטומטית מול לוח שידורי ערוץ הספורט ו-ESPN
@@ -1323,7 +1779,19 @@
     <script>
         let appData = null;
         let selectedPlayerId = 'all'; // 'all', 'deni_avdija', 'ben_saraf', 'danny_wolf', 'emanuel_sharp'
-        let currentFilter = 'all';
+        let currentView = 'cards'; // 'cards' or 'calendar'
+        let currentFilter = 'upcoming'; // 'upcoming' (default), 'broadcast', 'all', 'completed', 'home', 'away'
+        let isPastExpanded = false; // Collapsed by default to prevent scroll fatigue
+        let isPastAllExpanded = false;
+        let isUpcomingExpanded = false;
+        let calendarYear = 2026;
+        let calendarMonth = 9; // 0-indexed: 9 = October
+        let selectedCalendarDate = null;
+
+        const HEBREW_MONTHS = [
+            'ינואר', 'פברואר', 'מרץ', 'אפריל', 'מאי', 'יוני',
+            'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'
+        ];
 
         // Local storage tracking for manually revealed games
         const revealedGameIds = new Set(JSON.parse(localStorage.getItem('nba_revealed_games') || '[]'));
@@ -1621,10 +2089,65 @@
             sourceText.textContent = 'מקור: ' + (p.status?.source || 'Official');
         }
 
+        function switchView(viewMode) {
+            currentView = viewMode;
+            const tabCards = document.getElementById('viewTabCards');
+            const tabCalendar = document.getElementById('viewTabCalendar');
+            if (tabCards) tabCards.classList.toggle('active', viewMode === 'cards');
+            if (tabCalendar) tabCalendar.classList.toggle('active', viewMode === 'calendar');
+
+            const cardsContainer = document.getElementById('cardsViewContainer');
+            const calContainer = document.getElementById('calendarViewContainer');
+            if (cardsContainer) cardsContainer.style.display = viewMode === 'cards' ? 'block' : 'none';
+            if (calContainer) calContainer.style.display = viewMode === 'calendar' ? 'block' : 'none';
+
+            const filterTabs = document.getElementById('cardsFilterTabs');
+            if (filterTabs) filterTabs.style.display = viewMode === 'cards' ? 'flex' : 'none';
+
+            renderView();
+        }
+
+        function togglePastExpanded() {
+            isPastExpanded = !isPastExpanded;
+            renderView();
+        }
+
+        function togglePastAllExpanded() {
+            isPastAllExpanded = !isPastAllExpanded;
+            renderView();
+        }
+
+        function toggleUpcomingExpanded() {
+            isUpcomingExpanded = !isUpcomingExpanded;
+            renderView();
+        }
+
+        function changeCalendarMonth(delta) {
+            calendarMonth += delta;
+            if (calendarMonth > 11) {
+                calendarMonth = 0;
+                calendarYear++;
+            } else if (calendarMonth < 0) {
+                calendarMonth = 11;
+                calendarYear--;
+            }
+            selectedCalendarDate = null;
+            renderView();
+        }
+
+        function selectCalendarDate(dateStr) {
+            if (selectedCalendarDate === dateStr) {
+                selectedCalendarDate = null; // Toggle off if clicked again
+            } else {
+                selectedCalendarDate = dateStr;
+            }
+            renderView();
+        }
+
         function setFilter(filterType, btn) {
             currentFilter = filterType;
             document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
+            if (btn) btn.classList.add('active');
             renderView();
         }
 
@@ -1645,287 +2168,492 @@
             }
         }
 
-        function renderGamesList(games) {
-            const grid = document.getElementById('gamesGrid');
-            grid.innerHTML = '';
+        function createGameCardElement(g, isSpotlight = false) {
+            const isTelevised = g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST';
+            const card = document.createElement('div');
 
+            // Check for Israeli Derby (opposing teams) or Teammates Duo (same team)
+            const inGamePlayers = g.players || (selectedPlayerId !== 'all' ? [(appData.players || []).find(p => p.id === selectedPlayerId)].filter(Boolean) : []);
+            const uniqueTeams = new Set(inGamePlayers.map(p => (p.team_slug || p.team_name || '').toLowerCase()));
+            const isDerby = inGamePlayers.length >= 2 && uniqueTeams.size >= 2;
+            const isTeammates = inGamePlayers.length >= 2 && uniqueTeams.size === 1;
+
+            card.className = 'game-card' + (isSpotlight ? ' spotlight-card' : '') + (isTelevised ? ' televised' : '') + (isDerby ? ' derby' : '') + (isTeammates ? ' duo' : '');
+
+            const homeTeam = g.home_team || {};
+            const awayTeam = g.away_team || {};
+            const countdown = getCountdown(g.utc_date);
+
+            // Build player chips
+            let playerChipsHtml = '';
+            inGamePlayers.forEach(p => {
+                playerChipsHtml += `
+                    <div class="player-chip">
+                        <img src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
+                        <span>${p.name_he} (${p.team_name_he})</span>
+                    </div>
+                `;
+            });
+
+            // Extract relevant stats for this game
+            let relevantStats = [];
+            if (selectedPlayerId === 'all') {
+                (appData.players || []).forEach(p => {
+                    let st = null;
+                    if (g.player_boxscores && g.player_boxscores[p.id]) {
+                        st = g.player_boxscores[p.id];
+                    } else if (g.player_boxscore && (p.id === 'deni_avdija' || inGamePlayers.some(igp => igp.id === p.id))) {
+                        st = g.player_boxscore;
+                    }
+                    if (st && st.available && st.stats) {
+                        relevantStats.push({ player: p, data: st });
+                    }
+                });
+            } else {
+                const curP = (appData.players || []).find(p => p.id === selectedPlayerId);
+                if (curP) {
+                    let st = (g.player_boxscores && g.player_boxscores[curP.id]) || g.player_boxscore;
+                    if (st && st.available && st.stats) {
+                        relevantStats.push({ player: curP, data: st });
+                    }
+                }
+            }
+
+            // Check spoiler condition
+            const hasStats = relevantStats.length > 0;
+            const isSpoilerPeriod = hasStats && relevantStats.some(s => s.data.is_spoiler_period === true);
+            const isRevealed = !isSpoilerPeriod || revealedGameIds.has(String(g.id));
+            const hoursAgo = hasStats ? relevantStats[0].data.hours_ago : 0;
+
+            // Final score calculation
+            let homeScoreVal = '';
+            let awayScoreVal = '';
+            if (hasStats && relevantStats[0].data.stats && relevantStats[0].data.stats.final_scores) {
+                const fScores = relevantStats[0].data.stats.final_scores;
+                homeScoreVal = fScores[homeTeam.abbrev] || '';
+                awayScoreVal = fScores[awayTeam.abbrev] || '';
+            }
+
+            // Countdown badge
+            let countdownBadgeHtml = '';
+            if (g.is_completed) {
+                if (hasStats && !isRevealed) {
+                    countdownBadgeHtml = `<div class="time-countdown final-locked">הסתיים • מוגן בספוילר 🔒</div>`;
+                } else if (homeScoreVal && awayScoreVal) {
+                    countdownBadgeHtml = `<div class="time-countdown final-score">סיום: ${homeScoreVal} - ${awayScoreVal}</div>`;
+                } else {
+                    countdownBadgeHtml = `<div class="time-countdown final">הסתיים (סופי)</div>`;
+                }
+            } else {
+                countdownBadgeHtml = `<div class="time-countdown">${countdown}</div>`;
+            }
+
+            // Matchup divider
+            let vsDividerHtml = `<div class="vs-divider">VS</div>`;
+            if (g.is_completed && isRevealed && homeScoreVal && awayScoreVal) {
+                vsDividerHtml = `<div class="vs-divider" style="background: rgba(16, 185, 129, 0.2); color: #10B981; font-size: 11px; width: auto; padding: 4px 8px; border-radius: 8px;">סיום</div>`;
+            }
+
+            // Boxscore / Spoiler HTML
+            let boxscoreSectionHtml = '';
+            if (hasStats) {
+                if (!isRevealed) {
+                    boxscoreSectionHtml = `
+                        <div class="game-boxscore-wrapper">
+                            <div class="spoiler-shield-btn" onclick="revealSpoiler('${g.id}')" title="לחץ כאן לחשיפת תוצאת המשחק והסטטיסטיקות">
+                                <div class="spoiler-lock-icon">🔒</div>
+                                <div style="flex: 1;">
+                                    <div class="spoiler-text-title">
+                                        <span>תוצאה וסטטיסטיקה מוסתרים</span>
+                                        <span class="spoiler-tag-badge">הגנת ספוילר 48 שעות</span>
+                                    </div>
+                                    <div class="spoiler-text-desc">
+                                        המשחק הסתיים לפני כ-${hoursAgo} שעות • לחץ כאן לחשיפת הנתונים 👁️
+                                    </div>
+                                </div>
+                                <div class="spoiler-click-hint">חשיפה ◀</div>
+                            </div>
+                        </div>
+                    `;
+                } else {
+                    let playersRowsHtml = '';
+                    relevantStats.forEach(s => {
+                        const p = s.player;
+                        const st = s.data.stats;
+                        if (!st.has_played) {
+                            playersRowsHtml += `
+                                <div class="player-stat-block">
+                                    <div class="stat-athlete-title">
+                                        <img class="stat-athlete-img" src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
+                                        <span>${p.name_he} (${p.team_name_he})</span>
+                                    </div>
+                                    <div class="stat-dnp-msg">⚠️ ${st.dnp_reason || 'לא שותף במשחק (DNP)'}</div>
+                                </div>
+                            `;
+                        } else {
+                            playersRowsHtml += `
+                                <div class="player-stat-block">
+                                    <div class="stat-athlete-title">
+                                        <img class="stat-athlete-img" src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
+                                        <span>${p.name_he} (${p.team_name_he})</span>
+                                        <span class="stat-minutes-tag">⏱️ ${st.minutes} דקות</span>
+                                    </div>
+                                    <div class="stat-pill-grid">
+                                        <div class="stat-box highlight">
+                                            <span class="stat-box-val">${st.points}</span>
+                                            <span class="stat-box-label">נקודות</span>
+                                        </div>
+                                        <div class="stat-box">
+                                            <span class="stat-box-val">${st.rebounds}</span>
+                                            <span class="stat-box-label">ריבאונד</span>
+                                        </div>
+                                        <div class="stat-box">
+                                            <span class="stat-box-val">${st.assists}</span>
+                                            <span class="stat-box-label">אסיסטים</span>
+                                        </div>
+                                        <div class="stat-box">
+                                            <span class="stat-box-val">${st.fg}</span>
+                                            <span class="stat-box-label">שדה (FG)</span>
+                                        </div>
+                                        <div class="stat-box">
+                                            <span class="stat-box-val">${st.three_pt}</span>
+                                            <span class="stat-box-label">שלשות (3PT)</span>
+                                        </div>
+                                        <div class="stat-box">
+                                            <span class="stat-box-val">${st.ft}</span>
+                                            <span class="stat-box-label">עונשין (FT)</span>
+                                        </div>
+                                        <div class="stat-box">
+                                            <span class="stat-box-val">${st.plus_minus}</span>
+                                            <span class="stat-box-label">מדד (+/-)</span>
+                                        </div>
+                                        <div class="stat-box">
+                                            <span class="stat-box-val">${st.steals}/${st.blocks}</span>
+                                            <span class="stat-box-label">חטיפות/חסימות</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            `;
+                        }
+                    });
+
+                    boxscoreSectionHtml = `
+                        <div class="game-boxscore-wrapper">
+                            <div class="boxscore-content">
+                                <div class="boxscore-header-bar">
+                                    <div class="final-score-pill">
+                                        <span>🏁 סיום:</span>
+                                        <span>${homeTeam.name} ${homeScoreVal || ''} - ${awayScoreVal || ''} ${awayTeam.name}</span>
+                                    </div>
+                                    ${isSpoilerPeriod ? `
+                                        <button class="spoiler-rehide-btn" onclick="hideSpoiler('${g.id}')" title="הסתר שוב תחת הגנת ספוילר">
+                                            <span>🔒</span> הסתר מחדש
+                                        </button>
+                                    ` : `
+                                        <span class="spoiler-expired-tag">✓ עברו מעל 48 שעות (גלוי תמיד)</span>
+                                    `}
+                                </div>
+                                ${playersRowsHtml}
+                            </div>
+                        </div>
+                    `;
+                }
+            }
+
+            let headerBadgeHtml = '';
+            if (isSpotlight) {
+                headerBadgeHtml = '<div style="background: linear-gradient(90deg, #D97706, #B45309); color: #FFF; font-size: 12px; font-weight: 800; padding: 4px 12px; border-radius: 8px; margin-bottom: 12px; display: inline-flex; align-items: center; gap: 6px;"><span>🔥</span> המשחק הבא בלוח • אל תפספסו!</div>';
+            } else if (isDerby) {
+                headerBadgeHtml = '<div class="derby-tag">🇮🇱 דרבי ישראלי ראש בראש!</div>';
+            } else if (isTeammates) {
+                const teamName = (inGamePlayers[0] && inGamePlayers[0].team_name_he) ? inGamePlayers[0].team_name_he : 'ברוקלין נטס';
+                headerBadgeHtml = `<div class="duo-tag">🇮🇱 צמד ישראלי ב${teamName}!</div>`;
+            }
+
+            card.innerHTML = `
+                ${headerBadgeHtml}
+                <div class="matchup-header">
+                    <div class="team-box">
+                        <img class="team-logo" src="${homeTeam.logo || 'https://a.espncdn.com/i/teamlogos/nba/500/' + (homeTeam.abbrev || '').toLowerCase() + '.png'}" onerror="this.src='https://a.espncdn.com/i/teamlogos/default-team-logo-500.png'" alt="${homeTeam.name}">
+                        <div class="team-name">${homeTeam.name}</div>
+                    </div>
+                    ${vsDividerHtml}
+                    <div class="team-box">
+                        <img class="team-logo" src="${awayTeam.logo || 'https://a.espncdn.com/i/teamlogos/nba/500/' + (awayTeam.abbrev || '').toLowerCase() + '.png'}" onerror="this.src='https://a.espncdn.com/i/teamlogos/default-team-logo-500.png'" alt="${awayTeam.name}">
+                        <div class="team-name">${awayTeam.name}</div>
+                    </div>
+                </div>
+
+                <div class="game-time-box">
+                    <div class="time-ist">
+                        <div class="time-clock">${g.time_il} (שעון ישראל)</div>
+                        <div class="time-date">${g.day_name_he} • ${g.date_il}</div>
+                    </div>
+                    ${countdownBadgeHtml}
+                </div>
+
+                <div class="game-players-bar">
+                    ${playerChipsHtml}
+                </div>
+
+                ${boxscoreSectionHtml}
+
+                <div class="broadcast-section">
+                    <div class="channel-banner ${isTelevised ? 'live-broadcast' : ''}">
+                        <div class="channel-name">
+                            <span>📺</span>
+                            <span>${g.tv_broadcast.channel_name}</span>
+                        </div>
+                        ${isTelevised ? '<span class="live-tag">שידור ישיר</span>' : ''}
+                    </div>
+
+                    ${g.pini_summary && g.pini_summary.has_summary ? `
+                        <a href="${g.pini_summary.video_url}" target="_blank" rel="noopener noreferrer" class="pini-summary-badge" title="צפה בסיכום המשחק ביוטיוב">
+                            ${g.pini_summary.thumbnail ? `<img class="pini-badge-thumb" src="${g.pini_summary.thumbnail}" alt="Thumbnail" loading="lazy">` : '<span class="yt-play-btn">▶</span>'}
+                            <div class="pini-summary-text">
+                                <span class="pini-summary-label">🎥 סיכום מעקבדיה זמין ביוטיוב!</span>
+                                <span class="pini-summary-title">${g.pini_summary.video_title}</span>
+                            </div>
+                            <span class="pini-badge-arrow">◀</span>
+                        </a>
+                    ` : (g.is_completed ? `
+                        <div class="pini-summary-pending">
+                            <span>🎥</span> <span>המשחק הסתיים • סיכום מעקבדיה טרם פורסם</span>
+                        </div>
+                    ` : '')}
+                </div>
+            `;
+            return card;
+        }
+
+        function renderCardsView(games) {
+            const spotlightContainer = document.getElementById('spotlightCardContainer');
+            const spotlightSection = document.getElementById('spotlightSection');
+            const upcomingGrid = document.getElementById('upcomingGamesGrid');
+            const upcomingSection = document.getElementById('upcomingSection');
+            const pastGrid = document.getElementById('pastGamesGrid');
+            const pastSection = document.getElementById('pastSection');
+            const pastContent = document.getElementById('pastGamesContent');
+            const upcomingLoadMoreWrap = document.getElementById('upcomingLoadMoreContainer');
+            const upcomingLoadMoreBtn = document.getElementById('upcomingLoadMoreBtn');
+            const pastLoadMoreWrap = document.getElementById('pastLoadMoreContainer');
+            const pastLoadMoreBtn = document.getElementById('pastLoadMoreBtn');
+
+            spotlightContainer.innerHTML = '';
+            upcomingGrid.innerHTML = '';
+            pastGrid.innerHTML = '';
+
+            // Apply quick filters
             const filtered = games.filter(g => {
                 if (currentFilter === 'broadcast') {
                     return g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST';
                 }
                 if (currentFilter === 'home') return g.is_home === true;
                 if (currentFilter === 'away') return g.is_home === false;
+                if (currentFilter === 'upcoming') return !g.is_completed;
+                if (currentFilter === 'completed') return g.is_completed;
                 return true;
             });
 
-            document.getElementById('gamesCount').textContent = `מציג ${filtered.length} משחקים`;
+            // Split into upcoming and past
+            const upcoming = filtered.filter(g => !g.is_completed).sort((a, b) => new Date(a.utc_date) - new Date(b.utc_date));
+            const past = filtered.filter(g => g.is_completed).sort((a, b) => new Date(b.utc_date) - new Date(a.utc_date));
+
+            document.getElementById('gamesCount').textContent = `מציג ${filtered.length} משחקים (${upcoming.length} קרובים, ${past.length} הסתיימו)`;
 
             if (filtered.length === 0) {
-                grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted);">לא נמצאו משחקים התואמים לסינון שנבחר.</div>';
+                spotlightSection.style.display = 'none';
+                upcomingSection.style.display = 'block';
+                pastSection.style.display = 'none';
+                upcomingGrid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted);">לא נמצאו משחקים התואמים לסינון שנבחר.</div>';
                 return;
             }
 
-            filtered.forEach(g => {
-                const isTelevised = g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST';
-                const card = document.createElement('div');
+            // 1. Spotlight Hero
+            let remainingUpcoming = upcoming;
+            if (upcoming.length > 0 && (currentFilter === 'upcoming' || currentFilter === 'all' || currentFilter === 'broadcast')) {
+                spotlightSection.style.display = 'block';
+                const spotlightGame = upcoming[0];
+                spotlightContainer.appendChild(createGameCardElement(spotlightGame, true));
+                remainingUpcoming = upcoming.slice(1);
+            } else {
+                spotlightSection.style.display = 'none';
+            }
 
-                // Check for Israeli Derby (opposing teams) or Teammates Duo (same team)
-                const inGamePlayers = g.players || (selectedPlayerId !== 'all' ? [(appData.players || []).find(p => p.id === selectedPlayerId)].filter(Boolean) : []);
-                const uniqueTeams = new Set(inGamePlayers.map(p => (p.team_slug || p.team_name || '').toLowerCase()));
-                const isDerby = inGamePlayers.length >= 2 && uniqueTeams.size >= 2;
-                const isTeammates = inGamePlayers.length >= 2 && uniqueTeams.size === 1;
+            // 2. Upcoming Horizon Section
+            if (currentFilter === 'completed') {
+                upcomingSection.style.display = 'none';
+            } else {
+                upcomingSection.style.display = 'block';
+                document.getElementById('upcomingCountTag').textContent = `${remainingUpcoming.length} משחקים`;
 
-                card.className = 'game-card' + (isTelevised ? ' televised' : '') + (isDerby ? ' derby' : '') + (isTeammates ? ' duo' : '');
-
-                const homeTeam = g.home_team || {};
-                const awayTeam = g.away_team || {};
-                const countdown = getCountdown(g.utc_date);
-
-                // Build player chips
-                let playerChipsHtml = '';
-                inGamePlayers.forEach(p => {
-                    playerChipsHtml += `
-                        <div class="player-chip">
-                            <img src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
-                            <span>${p.name_he} (${p.team_name_he})</span>
-                        </div>
-                    `;
-                });
-
-                // Extract relevant stats for this game
-                let relevantStats = [];
-                if (selectedPlayerId === 'all') {
-                    (appData.players || []).forEach(p => {
-                        let st = null;
-                        if (g.player_boxscores && g.player_boxscores[p.id]) {
-                            st = g.player_boxscores[p.id];
-                        } else if (g.player_boxscore && (p.id === 'deni_avdija' || inGamePlayers.some(igp => igp.id === p.id))) {
-                            st = g.player_boxscore;
-                        }
-                        if (st && st.available && st.stats) {
-                            relevantStats.push({ player: p, data: st });
-                        }
+                if (remainingUpcoming.length === 0) {
+                    if (spotlightSection.style.display === 'block') {
+                        upcomingSection.style.display = 'none'; // Only the spotlight is upcoming
+                    } else {
+                        upcomingGrid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 30px; color: var(--text-muted);">אין משחקים קרובים נוספים בטווח זה.</div>';
+                    }
+                    upcomingLoadMoreWrap.style.display = 'none';
+                } else {
+                    const displayCount = isUpcomingExpanded ? remainingUpcoming.length : Math.min(4, remainingUpcoming.length);
+                    remainingUpcoming.slice(0, displayCount).forEach(g => {
+                        upcomingGrid.appendChild(createGameCardElement(g, false));
                     });
-                } else {
-                    const curP = (appData.players || []).find(p => p.id === selectedPlayerId);
-                    if (curP) {
-                        let st = (g.player_boxscores && g.player_boxscores[curP.id]) || g.player_boxscore;
-                        if (st && st.available && st.stats) {
-                            relevantStats.push({ player: curP, data: st });
-                        }
-                    }
-                }
 
-                // Check spoiler condition: if any stats payload has is_spoiler_period === true AND user hasn't revealed yet
-                const hasStats = relevantStats.length > 0;
-                const isSpoilerPeriod = hasStats && relevantStats.some(s => s.data.is_spoiler_period === true);
-                const isRevealed = !isSpoilerPeriod || revealedGameIds.has(String(g.id));
-                const hoursAgo = hasStats ? relevantStats[0].data.hours_ago : 0;
-
-                // Final score calculation
-                let finalScoreText = '';
-                let homeScoreVal = '';
-                let awayScoreVal = '';
-                if (hasStats && relevantStats[0].data.stats && relevantStats[0].data.stats.final_scores) {
-                    const fScores = relevantStats[0].data.stats.final_scores;
-                    homeScoreVal = fScores[homeTeam.abbrev] || '';
-                    awayScoreVal = fScores[awayTeam.abbrev] || '';
-                    if (homeScoreVal && awayScoreVal) {
-                        finalScoreText = `${homeTeam.name} ${homeScoreVal} - ${awayScoreVal} ${awayTeam.name}`;
-                    }
-                }
-
-                // Countdown badge
-                let countdownBadgeHtml = '';
-                if (g.is_completed) {
-                    if (hasStats && !isRevealed) {
-                        countdownBadgeHtml = `<div class="time-countdown final-locked">הסתיים • מוגן בספוילר 🔒</div>`;
-                    } else if (homeScoreVal && awayScoreVal) {
-                        countdownBadgeHtml = `<div class="time-countdown final-score">סיום: ${homeScoreVal} - ${awayScoreVal}</div>`;
+                    if (remainingUpcoming.length > 4) {
+                        upcomingLoadMoreWrap.style.display = 'block';
+                        upcomingLoadMoreBtn.textContent = isUpcomingExpanded 
+                            ? 'כווץ משחקים קרובים ▲' 
+                            : `הצג עוד ${remainingUpcoming.length - 4} משחקים קרובים ▾`;
                     } else {
-                        countdownBadgeHtml = `<div class="time-countdown final">הסתיים (סופי)</div>`;
+                        upcomingLoadMoreWrap.style.display = 'none';
+                    }
+                }
+            }
+
+            // 3. Collapsible Past Section
+            if (currentFilter === 'upcoming') {
+                pastSection.style.display = 'none';
+            } else if (past.length === 0) {
+                pastSection.style.display = 'none';
+            } else {
+                pastSection.style.display = 'block';
+                document.getElementById('pastCountBadge').textContent = `${past.length} משחקים`;
+
+                const chevronText = document.getElementById('pastChevronText');
+                const subTitle = document.getElementById('pastAccordionSub');
+                chevronText.textContent = isPastExpanded ? 'כווץ תוצאות ▲' : 'הרחב תוצאות ▼';
+                subTitle.textContent = isPastExpanded 
+                    ? 'היסטוריית תוצאות וסטטיסטיקות (לחץ לכיווץ)' 
+                    : `נמצאו ${past.length} משחקים שהסתיימו • לחץ לצפייה`;
+
+                if (isPastExpanded || currentFilter === 'completed') {
+                    pastContent.style.display = 'block';
+                    const pastDisplayCount = isPastAllExpanded ? past.length : Math.min(4, past.length);
+                    past.slice(0, pastDisplayCount).forEach(g => {
+                        pastGrid.appendChild(createGameCardElement(g, false));
+                    });
+
+                    if (past.length > 4) {
+                        pastLoadMoreWrap.style.display = 'block';
+                        pastLoadMoreBtn.textContent = isPastAllExpanded 
+                            ? 'הצג רק תוצאות אחרונות ▲' 
+                            : `הצג את כל ${past.length} תוצאות העונה ▾`;
+                    } else {
+                        pastLoadMoreWrap.style.display = 'none';
                     }
                 } else {
-                    countdownBadgeHtml = `<div class="time-countdown">${countdown}</div>`;
+                    pastContent.style.display = 'none';
                 }
+            }
+        }
 
-                // Matchup divider (VS or revealed score)
-                let vsDividerHtml = `<div class="vs-divider">VS</div>`;
-                if (g.is_completed && isRevealed && homeScoreVal && awayScoreVal) {
-                    vsDividerHtml = `<div class="vs-divider" style="background: rgba(16, 185, 129, 0.2); color: #10B981; font-size: 11px; width: auto; padding: 4px 8px; border-radius: 8px;">סיום</div>`;
-                }
+        function renderCalendarView(games) {
+            const daysGrid = document.getElementById('calendarDaysGrid');
+            const monthTitle = document.getElementById('calendarMonthTitle');
+            const selGamesGrid = document.getElementById('calendarGamesGrid');
+            const selDateTitle = document.getElementById('calendarSelectedDateTitle');
+            const selDateCount = document.getElementById('calendarSelectedDateCount');
 
-                // Boxscore / Spoiler HTML section
-                let boxscoreSectionHtml = '';
-                if (hasStats) {
-                    if (!isRevealed) {
-                        // Spoiler Locked Button
-                        boxscoreSectionHtml = `
-                            <div class="game-boxscore-wrapper">
-                                <div class="spoiler-shield-btn" onclick="revealSpoiler('${g.id}')" title="לחץ כאן לחשיפת תוצאת המשחק והסטטיסטיקות">
-                                    <div class="spoiler-lock-icon">🔒</div>
-                                    <div style="flex: 1;">
-                                        <div class="spoiler-text-title">
-                                            <span>תוצאה וסטטיסטיקה מוסתרים</span>
-                                            <span class="spoiler-tag-badge">הגנת ספוילר 48 שעות</span>
-                                        </div>
-                                        <div class="spoiler-text-desc">
-                                            המשחק הסתיים לפני כ-${hoursAgo} שעות • לחץ כאן לחשיפת הנתונים 👁️
-                                        </div>
-                                    </div>
-                                    <div class="spoiler-click-hint">חשיפה ◀</div>
-                                </div>
-                            </div>
-                        `;
-                    } else {
-                        // Unlocked / Revealed Stats View
-                        let playersRowsHtml = '';
-                        relevantStats.forEach(s => {
-                            const p = s.player;
-                            const st = s.data.stats;
-                            if (!st.has_played) {
-                                playersRowsHtml += `
-                                    <div class="player-stat-block">
-                                        <div class="stat-athlete-title">
-                                            <img class="stat-athlete-img" src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
-                                            <span>${p.name_he} (${p.team_name_he})</span>
-                                        </div>
-                                        <div class="stat-dnp-msg">⚠️ ${st.dnp_reason || 'לא שותף במשחק (DNP)'}</div>
-                                    </div>
-                                `;
-                            } else {
-                                playersRowsHtml += `
-                                    <div class="player-stat-block">
-                                        <div class="stat-athlete-title">
-                                            <img class="stat-athlete-img" src="${p.headshot}" alt="${p.name_he}" onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/${p.espn_id}.png'">
-                                            <span>${p.name_he} (${p.team_name_he})</span>
-                                            <span class="stat-minutes-tag">⏱️ ${st.minutes} דקות</span>
-                                        </div>
-                                        <div class="stat-pill-grid">
-                                            <div class="stat-box highlight">
-                                                <span class="stat-box-val">${st.points}</span>
-                                                <span class="stat-box-label">נקודות</span>
-                                            </div>
-                                            <div class="stat-box">
-                                                <span class="stat-box-val">${st.rebounds}</span>
-                                                <span class="stat-box-label">ריבאונד</span>
-                                            </div>
-                                            <div class="stat-box">
-                                                <span class="stat-box-val">${st.assists}</span>
-                                                <span class="stat-box-label">אסיסטים</span>
-                                            </div>
-                                            <div class="stat-box">
-                                                <span class="stat-box-val">${st.fg}</span>
-                                                <span class="stat-box-label">שדה (FG)</span>
-                                            </div>
-                                            <div class="stat-box">
-                                                <span class="stat-box-val">${st.three_pt}</span>
-                                                <span class="stat-box-label">שלשות (3PT)</span>
-                                            </div>
-                                            <div class="stat-box">
-                                                <span class="stat-box-val">${st.ft}</span>
-                                                <span class="stat-box-label">עונשין (FT)</span>
-                                            </div>
-                                            <div class="stat-box">
-                                                <span class="stat-box-val">${st.plus_minus}</span>
-                                                <span class="stat-box-label">מדד (+/-)</span>
-                                            </div>
-                                            <div class="stat-box">
-                                                <span class="stat-box-val">${st.steals}/${st.blocks}</span>
-                                                <span class="stat-box-label">חטיפות/חסימות</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                `;
-                            }
-                        });
+            daysGrid.innerHTML = '';
+            selGamesGrid.innerHTML = '';
 
-                        boxscoreSectionHtml = `
-                            <div class="game-boxscore-wrapper">
-                                <div class="boxscore-content">
-                                    <div class="boxscore-header-bar">
-                                        <div class="final-score-pill">
-                                            <span>🏁 סיום:</span>
-                                            <span>${homeTeam.name} ${homeScoreVal || ''} - ${awayScoreVal || ''} ${awayTeam.name}</span>
-                                        </div>
-                                        ${isSpoilerPeriod ? `
-                                            <button class="spoiler-rehide-btn" onclick="hideSpoiler('${g.id}')" title="הסתר שוב תחת הגנת ספוילר">
-                                                <span>🔒</span> הסתר מחדש
-                                            </button>
-                                        ` : `
-                                            <span class="spoiler-expired-tag">✓ עברו מעל 48 שעות (גלוי תמיד)</span>
-                                        `}
-                                    </div>
-                                    ${playersRowsHtml}
-                                </div>
-                            </div>
-                        `;
-                    }
-                }
+            monthTitle.textContent = `${HEBREW_MONTHS[calendarMonth]} ${calendarYear}`;
 
-                let headerBadgeHtml = '';
-                if (isDerby) {
-                    headerBadgeHtml = '<div class="derby-tag">🇮🇱 דרבי ישראלי ראש בראש!</div>';
-                } else if (isTeammates) {
-                    const teamName = (inGamePlayers[0] && inGamePlayers[0].team_name_he) ? inGamePlayers[0].team_name_he : 'ברוקלין נטס';
-                    headerBadgeHtml = `<div class="duo-tag">🇮🇱 צמד ישראלי ב${teamName}!</div>`;
-                }
-
-                card.innerHTML = `
-                    ${headerBadgeHtml}
-                    <div class="matchup-header">
-                        <div class="team-box">
-                            <img class="team-logo" src="${homeTeam.logo || 'https://a.espncdn.com/i/teamlogos/nba/500/' + (homeTeam.abbrev || '').toLowerCase() + '.png'}" onerror="this.src='https://a.espncdn.com/i/teamlogos/default-team-logo-500.png'" alt="${homeTeam.name}">
-                            <div class="team-name">${homeTeam.name}</div>
-                        </div>
-                        ${vsDividerHtml}
-                        <div class="team-box">
-                            <img class="team-logo" src="${awayTeam.logo || 'https://a.espncdn.com/i/teamlogos/nba/500/' + (awayTeam.abbrev || '').toLowerCase() + '.png'}" onerror="this.src='https://a.espncdn.com/i/teamlogos/default-team-logo-500.png'" alt="${awayTeam.name}">
-                            <div class="team-name">${awayTeam.name}</div>
-                        </div>
-                    </div>
-
-                    <div class="game-time-box">
-                        <div class="time-ist">
-                            <div class="time-clock">${g.time_il} (שעון ישראל)</div>
-                            <div class="time-date">${g.day_name_he} • ${g.date_il}</div>
-                        </div>
-                        ${countdownBadgeHtml}
-                    </div>
-
-                    <div class="game-players-bar">
-                        ${playerChipsHtml}
-                    </div>
-
-                    ${boxscoreSectionHtml}
-
-                    <div class="broadcast-section">
-                        <div class="channel-banner ${isTelevised ? 'live-broadcast' : ''}">
-                            <div class="channel-name">
-                                <span>📺</span>
-                                <span>${g.tv_broadcast.channel_name}</span>
-                            </div>
-                            ${isTelevised ? '<span class="live-tag">שידור ישיר</span>' : ''}
-                        </div>
-
-                        ${g.pini_summary && g.pini_summary.has_summary ? `
-                            <a href="${g.pini_summary.video_url}" target="_blank" rel="noopener noreferrer" class="pini-summary-badge" title="צפה בסיכום המשחק ביוטיוב">
-                                ${g.pini_summary.thumbnail ? `<img class="pini-badge-thumb" src="${g.pini_summary.thumbnail}" alt="Thumbnail" loading="lazy">` : '<span class="yt-play-btn">▶</span>'}
-                                <div class="pini-summary-text">
-                                    <span class="pini-summary-label">🎥 סיכום מעקבדיה זמין ביוטיוב!</span>
-                                    <span class="pini-summary-title">${g.pini_summary.video_title}</span>
-                                </div>
-                                <span class="pini-badge-arrow">◀</span>
-                            </a>
-                        ` : (g.is_completed ? `
-                            <div class="pini-summary-pending">
-                                <span>🎥</span> <span>המשחק הסתיים • סיכום מעקבדיה טרם פורסם</span>
-                            </div>
-                        ` : '')}
-                    </div>
-                `;
-                grid.appendChild(card);
+            // Map games by date_il
+            const gamesByDate = {};
+            games.forEach(g => {
+                if (!gamesByDate[g.date_il]) gamesByDate[g.date_il] = [];
+                gamesByDate[g.date_il].push(g);
             });
+
+            // Calendar calculations
+            const firstDayIndex = new Date(calendarYear, calendarMonth, 1).getDay(); // 0 = Sun
+            const daysInMonth = new Date(calendarYear, calendarMonth + 1, 0).getDate();
+            const now = new Date();
+            const todayStr = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+
+            // Empty cells before first day
+            for (let i = 0; i < firstDayIndex; i++) {
+                const emptyCell = document.createElement('div');
+                emptyCell.className = 'cal-day-cell other-month';
+                daysGrid.appendChild(emptyCell);
+            }
+
+            // Render day cells
+            for (let d = 1; d <= daysInMonth; d++) {
+                const dateStr = `${calendarYear}-${String(calendarMonth + 1).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+                const cell = document.createElement('div');
+                cell.className = 'cal-day-cell';
+
+                const dayGames = gamesByDate[dateStr] || [];
+                const hasGame = dayGames.length > 0;
+                const hasTelevised = dayGames.some(g => g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST');
+
+                if (dateStr === todayStr) cell.classList.add('is-today');
+                if (hasGame) cell.classList.add('has-game');
+                if (hasTelevised) cell.classList.add('has-televised');
+                if (selectedCalendarDate === dateStr) cell.classList.add('selected');
+
+                let badgesHtml = '';
+                if (hasGame) {
+                    dayGames.forEach(g => {
+                        const isTel = g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST';
+                        const oppAbbrev = (g.opponent?.abbrev || 'NBA').toUpperCase();
+                        badgesHtml += `
+                            <div class="cal-game-pill ${isTel ? 'televised' : ''}" title="${g.name} (${g.time_il})">
+                                <span>${oppAbbrev}</span>
+                                <span>${isTel ? '📺' : '🏀'}</span>
+                            </div>
+                        `;
+                    });
+                }
+
+                cell.innerHTML = `
+                    <div class="cal-day-num">${d}</div>
+                    <div class="cal-day-badges">${badgesHtml}</div>
+                `;
+
+                if (hasGame) {
+                    cell.onclick = () => selectCalendarDate(dateStr);
+                }
+
+                daysGrid.appendChild(cell);
+            }
+
+            // Render games for selected date or whole month
+            let displayCalendarGames = [];
+            if (selectedCalendarDate) {
+                displayCalendarGames = gamesByDate[selectedCalendarDate] || [];
+                selDateTitle.textContent = `משחקים בתאריך ${selectedCalendarDate}`;
+                selDateCount.textContent = `${displayCalendarGames.length} משחקים`;
+            } else {
+                // Show upcoming games for this month
+                displayCalendarGames = games.filter(g => {
+                    const [y, m] = (g.date_il || '').split('-');
+                    return parseInt(y) === calendarYear && parseInt(m) === (calendarMonth + 1);
+                });
+                selDateTitle.textContent = `כל משחקי חודש ${HEBREW_MONTHS[calendarMonth]} ${calendarYear}`;
+                selDateCount.textContent = `${displayCalendarGames.length} משחקים`;
+            }
+
+            document.getElementById('gamesCount').textContent = `לוח שנה: ${displayCalendarGames.length} משחקים מוצגים`;
+
+            if (displayCalendarGames.length === 0) {
+                selGamesGrid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 30px; color: var(--text-muted);">לא נמצאו משחקים בחודש/תאריך זה. לחץ על תאריך מודגש בלוח לצפייה.</div>';
+            } else {
+                displayCalendarGames.forEach(g => {
+                    selGamesGrid.appendChild(createGameCardElement(g, false));
+                });
+            }
+        }
+
+        function renderGamesList(games) {
+            if (currentView === 'cards') {
+                renderCardsView(games);
+            } else {
+                renderCalendarView(games);
+            }
         }
 
         // Initialize on page load
