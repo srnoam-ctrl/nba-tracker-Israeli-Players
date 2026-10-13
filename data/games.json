@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-10-13T07:19:00.254193+03:00",
-  "last_updated_display": "13/10/2026 07:19:00",
+  "last_updated": "2026-10-13T21:23:47.499063+03:00",
+  "last_updated_display": "13/10/2026 21:23:47",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
     "channel_url": "https://www.youtube.com/@PiniBarel",
-    "total_recent_videos": 15,
+    "total_recent_videos": 16,
     "recent_videos": [
+      {
+        "title": "דני אבדיה נגד לונדון ליונס - משחק ההכנה השני | #מעקבדיה",
+        "link": "https://www.youtube.com/watch?v=rtuhymEtmJo",
+        "video_id": "rtuhymEtmJo",
+        "thumbnail": "https://img.youtube.com/vi/rtuhymEtmJo/mqdefault.jpg",
+        "published_date": "2026-10-13",
+        "published_full": "2026-10-13T10:19:46+00:00",
+        "is_nba": true
+      },
       {
         "title": "ספיישל פתיחת עונת ה-NBA | אנדר אובר - 15 קבוצות המערב | #241",
         "link": "https://www.youtube.com/watch?v=B1amsEhZKhE",
@@ -166,7 +175,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-13T04:19:07.817360+00:00"
+        "last_updated": "2026-10-13T18:23:58.204009+00:00"
       },
       "total_games": 4,
       "games": [
@@ -239,7 +248,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 122.3,
+            "hours_ago": 136.4,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -319,18 +328,18 @@
             "badge_text": "כשיר ומשחק (Available)"
           },
           "pini_summary": {
-            "has_summary": false,
-            "video_title": "",
-            "video_url": "",
-            "video_id": "",
-            "thumbnail": "",
-            "published_date": "",
+            "has_summary": true,
+            "video_title": "דני אבדיה נגד לונדון ליונס - משחק ההכנה השני | #מעקבדיה",
+            "video_url": "https://www.youtube.com/watch?v=rtuhymEtmJo",
+            "video_id": "rtuhymEtmJo",
+            "thumbnail": "https://img.youtube.com/vi/rtuhymEtmJo/mqdefault.jpg",
+            "published_date": "2026-10-13",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 8.3,
+            "hours_ago": 22.4,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -496,45 +505,45 @@
         }
       ],
       "next_game": {
-        "id": "401914129",
-        "name": "Golden State Warriors at Portland Trail Blazers",
-        "short_name": "GS @ POR",
-        "utc_date": "2026-10-08T02:00Z",
-        "date_il": "2026-10-08",
+        "id": "401901826",
+        "name": "Portland Trail Blazers at Sacramento Kings",
+        "short_name": "POR @ SAC",
+        "utc_date": "2026-10-14T02:00Z",
+        "date_il": "2026-10-14",
         "time_il": "05:00",
-        "display_datetime_il": "08/10/2026 05:00",
-        "day_name_en": "Thursday",
-        "day_name_he": "יום חמישי",
-        "is_home": true,
+        "display_datetime_il": "14/10/2026 05:00",
+        "day_name_en": "Wednesday",
+        "day_name_he": "יום רביעי",
+        "is_home": false,
         "opponent": {
-          "id": "9",
-          "name": "Golden State Warriors",
-          "abbrev": "GS",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+          "id": "23",
+          "name": "Sacramento Kings",
+          "abbrev": "SAC",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
         },
         "home_team": {
+          "id": "23",
+          "name": "Sacramento Kings",
+          "abbrev": "SAC",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+        },
+        "away_team": {
           "id": "22",
           "name": "Portland Trail Blazers",
           "abbrev": "POR",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
         },
-        "away_team": {
-          "id": "9",
-          "name": "Golden State Warriors",
-          "abbrev": "GS",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
-        },
-        "status": "Final",
-        "status_detail": "Final",
-        "is_completed": true,
-        "us_broadcast": "NBA TV",
+        "status": "Scheduled",
+        "status_detail": "Tue, October 13th at 10:00 PM EDT",
+        "is_completed": false,
+        "us_broadcast": "NBA League Pass",
         "tv_broadcast": {
-          "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
-          "is_live": false,
-          "broadcast_title": "",
-          "broadcast_time": "",
-          "status": "NOT_SCHEDULED_YET",
-          "badge": "League Pass / טרם פורסם"
+          "channel_name": "5SPORT (ערוץ 5)",
+          "is_live": true,
+          "broadcast_title": "NBA: סקרמנטו - פורטלנד, משחק קדם עונה",
+          "broadcast_time": "05:00",
+          "status": "CONFIRMED_BROADCAST",
+          "badge": "שידור חי בערוץ הספורט"
         },
         "player_status": {
           "is_playing": "YES",
@@ -553,37 +562,17 @@
           "badge_text": "כשיר ומשחק (Available)"
         },
         "pini_summary": {
-          "has_summary": true,
-          "video_title": "דני אבדיה נגד גולדן סטייט - נראה מעולה במשחק הכנה ראשון | #מעקבדיה",
-          "video_url": "https://www.youtube.com/watch?v=gQkbw8Gtll4",
-          "video_id": "gQkbw8Gtll4",
-          "thumbnail": "https://img.youtube.com/vi/gQkbw8Gtll4/mqdefault.jpg",
-          "published_date": "2026-10-08",
+          "has_summary": false,
+          "video_title": "",
+          "video_url": "",
+          "video_id": "",
+          "thumbnail": "",
+          "published_date": "",
           "channel_url": "https://www.youtube.com/@PiniBarel"
         },
         "player_boxscore": {
-          "available": true,
-          "is_completed": true,
-          "hours_ago": 122.3,
-          "is_spoiler_period": false,
-          "stats": {
-            "has_played": true,
-            "minutes": "21",
-            "points": "23",
-            "rebounds": "2",
-            "assists": "2",
-            "steals": "0",
-            "blocks": "0",
-            "fg": "9-13",
-            "three_pt": "3-6",
-            "ft": "2-4",
-            "turnovers": "2",
-            "plus_minus": "-2",
-            "final_scores": {
-              "POR": "123",
-              "GS": "118"
-            }
-          }
+          "available": false,
+          "is_completed": false
         }
       }
     },
@@ -608,7 +597,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-13T04:19:07.956591+00:00"
+        "last_updated": "2026-10-13T18:23:58.925248+00:00"
       },
       "total_games": 4,
       "games": [
@@ -681,7 +670,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 149.3,
+            "hours_ago": 163.4,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -772,7 +761,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 100.8,
+            "hours_ago": 114.9,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -863,7 +852,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 5.3,
+            "hours_ago": 19.4,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -958,27 +947,27 @@
         }
       ],
       "next_game": {
-        "id": "401901820",
-        "name": "Brooklyn Nets at Charlotte Hornets",
-        "short_name": "BKN @ CHA",
-        "utc_date": "2026-10-06T23:00Z",
-        "date_il": "2026-10-07",
-        "time_il": "02:00",
-        "display_datetime_il": "07/10/2026 02:00",
-        "day_name_en": "Wednesday",
-        "day_name_he": "יום רביעי",
+        "id": "401898404",
+        "name": "Brooklyn Nets at Miami Heat",
+        "short_name": "BKN @ MIA",
+        "utc_date": "2026-10-14T23:30Z",
+        "date_il": "2026-10-15",
+        "time_il": "02:30",
+        "display_datetime_il": "15/10/2026 02:30",
+        "day_name_en": "Thursday",
+        "day_name_he": "יום חמישי",
         "is_home": false,
         "opponent": {
-          "id": "30",
-          "name": "Charlotte Hornets",
-          "abbrev": "CHA",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+          "id": "14",
+          "name": "Miami Heat",
+          "abbrev": "MIA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
         },
         "home_team": {
-          "id": "30",
-          "name": "Charlotte Hornets",
-          "abbrev": "CHA",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+          "id": "14",
+          "name": "Miami Heat",
+          "abbrev": "MIA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
         },
         "away_team": {
           "id": "17",
@@ -986,17 +975,17 @@
           "abbrev": "BKN",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
         },
-        "status": "Final",
-        "status_detail": "Final",
-        "is_completed": true,
-        "us_broadcast": "NBA TV",
+        "status": "Scheduled",
+        "status_detail": "Wed, October 14th at 7:30 PM EDT",
+        "is_completed": false,
+        "us_broadcast": "NBA League Pass",
         "tv_broadcast": {
-          "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
-          "is_live": false,
-          "broadcast_title": "",
-          "broadcast_time": "",
-          "status": "NOT_SCHEDULED_YET",
-          "badge": "League Pass / טרם פורסם"
+          "channel_name": "5SPORT (ערוץ 5)",
+          "is_live": true,
+          "broadcast_title": "NBA: מיאמי - ברוקלין, משחק קדם עונה",
+          "broadcast_time": "02:30",
+          "status": "CONFIRMED_BROADCAST",
+          "badge": "שידור חי בערוץ הספורט"
         },
         "player_status": {
           "is_playing": "YES",
@@ -1024,28 +1013,8 @@
           "channel_url": "https://www.youtube.com/@PiniBarel"
         },
         "player_boxscore": {
-          "available": true,
-          "is_completed": true,
-          "hours_ago": 149.3,
-          "is_spoiler_period": false,
-          "stats": {
-            "has_played": true,
-            "minutes": "15",
-            "points": "8",
-            "rebounds": "2",
-            "assists": "2",
-            "steals": "0",
-            "blocks": "0",
-            "fg": "3-7",
-            "three_pt": "2-4",
-            "ft": "0-0",
-            "turnovers": "1",
-            "plus_minus": "+15",
-            "final_scores": {
-              "CHA": "90",
-              "BKN": "124"
-            }
-          }
+          "available": false,
+          "is_completed": false
         }
       }
     },
@@ -1070,7 +1039,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-13T04:19:07.999317+00:00"
+        "last_updated": "2026-10-13T18:23:59.424375+00:00"
       },
       "total_games": 4,
       "games": [
@@ -1143,7 +1112,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 149.3,
+            "hours_ago": 163.4,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1234,7 +1203,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 100.8,
+            "hours_ago": 114.9,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1325,7 +1294,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 5.3,
+            "hours_ago": 19.4,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -1420,27 +1389,27 @@
         }
       ],
       "next_game": {
-        "id": "401901820",
-        "name": "Brooklyn Nets at Charlotte Hornets",
-        "short_name": "BKN @ CHA",
-        "utc_date": "2026-10-06T23:00Z",
-        "date_il": "2026-10-07",
-        "time_il": "02:00",
-        "display_datetime_il": "07/10/2026 02:00",
-        "day_name_en": "Wednesday",
-        "day_name_he": "יום רביעי",
+        "id": "401898404",
+        "name": "Brooklyn Nets at Miami Heat",
+        "short_name": "BKN @ MIA",
+        "utc_date": "2026-10-14T23:30Z",
+        "date_il": "2026-10-15",
+        "time_il": "02:30",
+        "display_datetime_il": "15/10/2026 02:30",
+        "day_name_en": "Thursday",
+        "day_name_he": "יום חמישי",
         "is_home": false,
         "opponent": {
-          "id": "30",
-          "name": "Charlotte Hornets",
-          "abbrev": "CHA",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+          "id": "14",
+          "name": "Miami Heat",
+          "abbrev": "MIA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
         },
         "home_team": {
-          "id": "30",
-          "name": "Charlotte Hornets",
-          "abbrev": "CHA",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+          "id": "14",
+          "name": "Miami Heat",
+          "abbrev": "MIA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
         },
         "away_team": {
           "id": "17",
@@ -1448,17 +1417,17 @@
           "abbrev": "BKN",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
         },
-        "status": "Final",
-        "status_detail": "Final",
-        "is_completed": true,
-        "us_broadcast": "NBA TV",
+        "status": "Scheduled",
+        "status_detail": "Wed, October 14th at 7:30 PM EDT",
+        "is_completed": false,
+        "us_broadcast": "NBA League Pass",
         "tv_broadcast": {
-          "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
-          "is_live": false,
-          "broadcast_title": "",
-          "broadcast_time": "",
-          "status": "NOT_SCHEDULED_YET",
-          "badge": "League Pass / טרם פורסם"
+          "channel_name": "5SPORT (ערוץ 5)",
+          "is_live": true,
+          "broadcast_title": "NBA: מיאמי - ברוקלין, משחק קדם עונה",
+          "broadcast_time": "02:30",
+          "status": "CONFIRMED_BROADCAST",
+          "badge": "שידור חי בערוץ הספורט"
         },
         "player_status": {
           "is_playing": "YES",
@@ -1486,28 +1455,8 @@
           "channel_url": "https://www.youtube.com/@PiniBarel"
         },
         "player_boxscore": {
-          "available": true,
-          "is_completed": true,
-          "hours_ago": 149.3,
-          "is_spoiler_period": false,
-          "stats": {
-            "has_played": true,
-            "minutes": "15",
-            "points": "9",
-            "rebounds": "3",
-            "assists": "5",
-            "steals": "0",
-            "blocks": "0",
-            "fg": "3-4",
-            "three_pt": "1-1",
-            "ft": "2-4",
-            "turnovers": "1",
-            "plus_minus": "+18",
-            "final_scores": {
-              "CHA": "90",
-              "BKN": "124"
-            }
-          }
+          "available": false,
+          "is_completed": false
         }
       }
     },
@@ -1532,7 +1481,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-13T04:19:08.091904+00:00"
+        "last_updated": "2026-10-13T18:24:00.238421+00:00"
       },
       "total_games": 5,
       "games": [
@@ -1605,7 +1554,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 170.3,
+            "hours_ago": 184.4,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1696,7 +1645,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 97.6,
+            "hours_ago": 111.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1787,7 +1736,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 51.8,
+            "hours_ago": 65.9,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1953,21 +1902,21 @@
         }
       ],
       "next_game": {
-        "id": "401898716",
-        "name": "Los Angeles Lakers at Sacramento Kings",
-        "short_name": "LAL @ SAC",
-        "utc_date": "2026-10-06T02:00Z",
-        "date_il": "2026-10-06",
+        "id": "401901826",
+        "name": "Portland Trail Blazers at Sacramento Kings",
+        "short_name": "POR @ SAC",
+        "utc_date": "2026-10-14T02:00Z",
+        "date_il": "2026-10-14",
         "time_il": "05:00",
-        "display_datetime_il": "06/10/2026 05:00",
-        "day_name_en": "Tuesday",
-        "day_name_he": "יום שלישי",
+        "display_datetime_il": "14/10/2026 05:00",
+        "day_name_en": "Wednesday",
+        "day_name_he": "יום רביעי",
         "is_home": true,
         "opponent": {
-          "id": "13",
-          "name": "Los Angeles Lakers",
-          "abbrev": "LAL",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+          "id": "22",
+          "name": "Portland Trail Blazers",
+          "abbrev": "POR",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
         },
         "home_team": {
           "id": "23",
@@ -1976,22 +1925,22 @@
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
         },
         "away_team": {
-          "id": "13",
-          "name": "Los Angeles Lakers",
-          "abbrev": "LAL",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+          "id": "22",
+          "name": "Portland Trail Blazers",
+          "abbrev": "POR",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
         },
-        "status": "Final",
-        "status_detail": "Final",
-        "is_completed": true,
-        "us_broadcast": "NBA TV",
+        "status": "Scheduled",
+        "status_detail": "Tue, October 13th at 10:00 PM EDT",
+        "is_completed": false,
+        "us_broadcast": "NBA League Pass",
         "tv_broadcast": {
-          "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
-          "is_live": false,
-          "broadcast_title": "",
-          "broadcast_time": "",
-          "status": "NOT_SCHEDULED_YET",
-          "badge": "League Pass / טרם פורסם"
+          "channel_name": "5SPORT (ערוץ 5)",
+          "is_live": true,
+          "broadcast_title": "NBA: סקרמנטו - פורטלנד, משחק קדם עונה",
+          "broadcast_time": "05:00",
+          "status": "CONFIRMED_BROADCAST",
+          "badge": "שידור חי בערוץ הספורט"
         },
         "player_status": {
           "is_playing": "YES",
@@ -2019,28 +1968,8 @@
           "channel_url": "https://www.youtube.com/@PiniBarel"
         },
         "player_boxscore": {
-          "available": true,
-          "is_completed": true,
-          "hours_ago": 170.3,
-          "is_spoiler_period": false,
-          "stats": {
-            "has_played": true,
-            "minutes": "30",
-            "points": "7",
-            "rebounds": "1",
-            "assists": "2",
-            "steals": "2",
-            "blocks": "0",
-            "fg": "2-11",
-            "three_pt": "1-8",
-            "ft": "2-2",
-            "turnovers": "3",
-            "plus_minus": "-1",
-            "final_scores": {
-              "SAC": "103",
-              "LAL": "127"
-            }
-          }
+          "available": false,
+          "is_completed": false
         }
       }
     }
@@ -2135,7 +2064,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 170.3,
+          "hours_ago": 184.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2264,7 +2193,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 149.3,
+          "hours_ago": 163.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2288,7 +2217,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 149.3,
+          "hours_ago": 163.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2400,7 +2329,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 122.3,
+          "hours_ago": 136.4,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2425,7 +2354,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 122.3,
+        "hours_ago": 136.4,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -2553,7 +2482,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 100.8,
+          "hours_ago": 114.9,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2577,7 +2506,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 100.8,
+          "hours_ago": 114.9,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2689,7 +2618,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 97.6,
+          "hours_ago": 111.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2801,7 +2730,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 51.8,
+          "hours_ago": 65.9,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2901,19 +2830,19 @@
         }
       ],
       "pini_summary": {
-        "has_summary": false,
-        "video_title": "",
-        "video_url": "",
-        "video_id": "",
-        "thumbnail": "",
-        "published_date": "",
+        "has_summary": true,
+        "video_title": "דני אבדיה נגד לונדון ליונס - משחק ההכנה השני | #מעקבדיה",
+        "video_url": "https://www.youtube.com/watch?v=rtuhymEtmJo",
+        "video_id": "rtuhymEtmJo",
+        "thumbnail": "https://img.youtube.com/vi/rtuhymEtmJo/mqdefault.jpg",
+        "published_date": "2026-10-13",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscores": {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 8.3,
+          "hours_ago": 22.4,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -2938,7 +2867,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 8.3,
+        "hours_ago": 22.4,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -3066,7 +2995,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 5.3,
+          "hours_ago": 19.4,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -3090,7 +3019,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 5.3,
+          "hours_ago": 19.4,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -3537,7 +3466,7 @@
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-10-13T04:19:07.817360+00:00"
+    "last_updated": "2026-10-13T18:23:58.204009+00:00"
   },
   "total_games": 4,
   "games": [
@@ -3610,7 +3539,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 122.3,
+        "hours_ago": 136.4,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -3690,18 +3619,18 @@
         "badge_text": "כשיר ומשחק (Available)"
       },
       "pini_summary": {
-        "has_summary": false,
-        "video_title": "",
-        "video_url": "",
-        "video_id": "",
-        "thumbnail": "",
-        "published_date": "",
+        "has_summary": true,
+        "video_title": "דני אבדיה נגד לונדון ליונס - משחק ההכנה השני | #מעקבדיה",
+        "video_url": "https://www.youtube.com/watch?v=rtuhymEtmJo",
+        "video_id": "rtuhymEtmJo",
+        "thumbnail": "https://img.youtube.com/vi/rtuhymEtmJo/mqdefault.jpg",
+        "published_date": "2026-10-13",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 8.3,
+        "hours_ago": 22.4,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,

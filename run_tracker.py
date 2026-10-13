@@ -68,12 +68,27 @@ def run():
         sched = team_schedules.get(p_slug, [])
         enriched = correlate_games_with_tv_and_status(sched, broadcasts, status, days_ahead_limit=7, team_slug=p_slug)
 
+        # Determine actual next upcoming game for this player (avoiding past/completed games)
+        from datetime import timezone, timedelta
+        now_utc = datetime.now(timezone.utc)
+        upcoming_for_player = []
+        for g in enriched:
+            try:
+                g_dt = datetime.fromisoformat(g.get("utc_date", "").replace("Z", "+00:00"))
+                if not g.get("is_completed") and g_dt >= (now_utc - timedelta(hours=3, minutes=30)):
+                    upcoming_for_player.append(g)
+            except Exception:
+                if not g.get("is_completed"):
+                    upcoming_for_player.append(g)
+
+        next_game = upcoming_for_player[0] if upcoming_for_player else (enriched[-1] if enriched else None)
+
         player_data = {
             **p,
             "status": status,
             "total_games": len(enriched),
             "games": enriched,
-            "next_game": enriched[0] if enriched else None
+            "next_game": next_game
         }
         processed_players.append(player_data)
 

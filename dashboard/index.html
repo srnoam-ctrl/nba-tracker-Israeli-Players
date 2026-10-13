@@ -2024,7 +2024,13 @@
                 card.className = 'hub-player-card';
                 card.onclick = () => selectPlayer(p.id);
 
-                const nextG = p.next_game;
+                // Dynamically resolve actual next game for this player (avoiding completed past games)
+                const now = new Date();
+                const upcomingForP = (p.games || [])
+                    .filter(g => !g.is_completed && new Date(g.utc_date) >= new Date(now.getTime() - 3.5 * 3600 * 1000))
+                    .sort((a, b) => new Date(a.utc_date) - new Date(b.utc_date));
+                const nextG = upcomingForP[0] || p.next_game || (p.games || [])[0];
+
                 const nextMatchup = nextG ? `${nextG.is_home ? 'מארחת את' : 'בחוץ אצל'} ${nextG.opponent?.name}` : 'טרם נקבע';
                 const nextTime = nextG ? `${nextG.date_il} ${nextG.time_il}` : '';
                 const channel = nextG?.tv_broadcast?.channel_name || 'טרם פורסם שידור';
