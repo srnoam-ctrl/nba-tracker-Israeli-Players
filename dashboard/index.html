@@ -1246,6 +1246,26 @@
         .time-date {
             font-size: 13px;
             color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+
+        .season-type-pill {
+            display: inline-block;
+            font-size: 11px;
+            font-weight: 700;
+            padding: 1px 7px;
+            border-radius: 6px;
+            background: rgba(255, 255, 255, 0.08);
+            color: #94A3B8;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .season-type-pill.regular {
+            background: rgba(56, 189, 248, 0.12);
+            color: #38BDF8;
+            border-color: rgba(56, 189, 248, 0.25);
         }
 
         .time-countdown {
@@ -1845,9 +1865,9 @@
         let currentFilter = 'upcoming'; // 'upcoming' (default), 'broadcast', 'all', 'completed', 'home', 'away'
         let isPastExpanded = false; // Collapsed by default to prevent scroll fatigue
         let isPastAllExpanded = false;
-        let isUpcomingExpanded = false;
-        let calendarYear = 2026;
-        let calendarMonth = 9; // 0-indexed: 9 = October
+        const _initialDate = new Date();
+        let calendarYear = _initialDate.getFullYear();
+        let calendarMonth = _initialDate.getMonth(); // 0-indexed
         let selectedCalendarDate = null;
 
         const HEBREW_MONTHS = [
@@ -2478,7 +2498,10 @@
                 <div class="game-time-box">
                     <div class="time-ist">
                         <div class="time-clock">${g.time_il} (שעון ישראל)</div>
-                        <div class="time-date">${g.day_name_he} • ${g.date_il}</div>
+                        <div class="time-date">
+                            <span>${g.day_name_he} • ${g.date_il}</span>
+                            ${g.season_type ? `<span class="season-type-pill ${g.season_type_id === 2 ? 'regular' : ''}">${g.season_type_id === 1 ? '🏀 קדם עונה' : (g.season_type_id === 3 ? '🏆 פלייאוף' : '🏆 עונה סדירה')}</span>` : ''}
+                        </div>
                     </div>
                     ${countdownBadgeHtml}
                 </div>

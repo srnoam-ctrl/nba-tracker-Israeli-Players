@@ -25,26 +25,53 @@ HEBREW_DAYS = {
 def fetch_team_schedule(team_slug="por", target_tz="Asia/Jerusalem"):
     """
     Fetches the team NBA schedule from ESPN public API.
+    Fetches Preseason (seasontype=1) and Regular Season (seasontype=2) (and Postseason if present)
+    to get the complete season schedule through April.
     Converts all game dates and times to local Israel Time (IST/IDT).
     """
-    url = f"https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/{team_slug}/schedule"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
 
-    try:
-        resp = requests.get(url, headers=headers, timeout=12)
-        resp.raise_for_status()
-        data = resp.json()
-    except Exception as e:
-        logger.error(f"Failed to fetch NBA schedule from ESPN for {team_slug}: {e}")
-        return []
+    raw_events = []
+    seen_ids = set()
 
-    events = data.get("events", [])
+    # ESPN season types: 1 = Preseason, 2 = Regular Season, 3 = Postseason
+    for st in [1, 2, 3]:
+        url = f"https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/{team_slug}/schedule?seasontype={st}"
+        try:
+            resp = requests.get(url, headers=headers, timeout=12)
+            resp.raise_for_status()
+            data = resp.json()
+            events = data.get("events", [])
+            for ev in events:
+                eid = str(ev.get("id"))
+                if eid and eid not in seen_ids:
+                    seen_ids.add(eid)
+                    raw_events.append((ev, st))
+        except Exception as e:
+            logger.warning(f"Failed to fetch NBA schedule for {team_slug} (seasontype={st}): {e}")
+
+    # Fallback to default schedule URL if query params returned nothing
+    if not raw_events:
+        url = f"https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/{team_slug}/schedule"
+        try:
+            resp = requests.get(url, headers=headers, timeout=12)
+            resp.raise_for_status()
+            data = resp.json()
+            for ev in data.get("events", []):
+                eid = str(ev.get("id"))
+                if eid and eid not in seen_ids:
+                    seen_ids.add(eid)
+                    raw_events.append((ev, 2))
+        except Exception as e:
+            logger.error(f"Failed to fetch NBA schedule from ESPN for {team_slug}: {e}")
+            return []
+
     games = []
     tz = ZoneInfo(target_tz)
 
-    for ev in events:
+    for ev, st_val in raw_events:
         try:
             game_id = ev.get("id")
             name = ev.get("name", "")
@@ -90,6 +117,19 @@ def fetch_team_schedule(team_slug="por", target_tz="Asia/Jerusalem"):
             status_detail = comp.get("status", {}).get("type", {}).get("detail", "")
             is_completed = comp.get("status", {}).get("type", {}).get("completed", False)
 
+            # Determine season type
+            season_info = ev.get("seasonType", {})
+            st_id = season_info.get("id") or str(st_val)
+            if st_id == "1" or st_val == 1:
+                season_type_he = "קדם עונה (Preseason)"
+                season_type_en = "Preseason"
+            elif st_id == "3" or st_val == 3:
+                season_type_he = "פלייאוף (Playoffs)"
+                season_type_en = "Postseason"
+            else:
+                season_type_he = "עונה סדירה (Regular Season)"
+                season_type_en = "Regular Season"
+
             broadcasts = []
             for b in comp.get("broadcasts", []):
                 for media in b.get("names", []):
@@ -116,6 +156,9 @@ def fetch_team_schedule(team_slug="por", target_tz="Asia/Jerusalem"):
                 "status": status_desc,
                 "status_detail": status_detail,
                 "is_completed": is_completed,
+                "season_type": season_type_he,
+                "season_type_en": season_type_en,
+                "season_type_id": int(st_val) if str(st_val).isdigit() else 2,
                 "us_broadcast": ", ".join(broadcasts) if broadcasts else "NBA League Pass"
             }
             games.append(game)
@@ -123,6 +166,7 @@ def fetch_team_schedule(team_slug="por", target_tz="Asia/Jerusalem"):
             logger.warning(f"Error parsing event {ev.get('id')}: {e}")
             continue
 
+    games.sort(key=lambda x: x.get("utc_date", ""))
     return games
 
 fetch_portland_schedule = fetch_team_schedule
