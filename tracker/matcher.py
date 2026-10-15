@@ -142,8 +142,16 @@ def correlate_games_with_tv_and_status(games, broadcasts, player_status, days_ah
         game_date = g.get("date_il")
 
         if matched_tv:
+            from tracker.fetch_tv_guide import resolve_channel_details
+            ch_details = matched_tv.get("channel_details") or resolve_channel_details(matched_tv.get("channel"))
             channel_info = {
                 "channel_name": matched_tv.get("channel"),
+                "channel_code": ch_details.get("channel_code", ""),
+                "channel_number": ch_details.get("number_info", ""),
+                "is_free_tier": ch_details.get("is_free_tier", False),
+                "tier_name": ch_details.get("tier_name", ""),
+                "tier_badge": ch_details.get("tier_badge", ""),
+                "tier_type": ch_details.get("tier_type", "PAID"),
                 "is_live": matched_tv.get("is_live", True),
                 "broadcast_title": matched_tv.get("title"),
                 "broadcast_time": matched_tv.get("time"),
@@ -153,6 +161,12 @@ def correlate_games_with_tv_and_status(games, broadcasts, player_status, days_ah
         elif game_date <= limit_date:
             channel_info = {
                 "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+                "channel_code": "LEAGUE_PASS",
+                "channel_number": "NBA App / League Pass",
+                "is_free_tier": False,
+                "tier_name": "NBA League Pass",
+                "tier_badge": "🌐 NBA League Pass",
+                "tier_type": "LEAGUE_PASS",
                 "is_live": False,
                 "broadcast_title": "",
                 "broadcast_time": "",
@@ -162,6 +176,12 @@ def correlate_games_with_tv_and_status(games, broadcasts, player_status, days_ah
         else:
             channel_info = {
                 "channel_name": f"לוח שידורים טרם נפתח (יעודכן כ-{days_ahead_limit} ימים לפני המשחק)",
+                "channel_code": "FUTURE",
+                "channel_number": "",
+                "is_free_tier": False,
+                "tier_name": "טרם פורסם",
+                "tier_badge": "⏳ לוח עתידי",
+                "tier_type": "PENDING",
                 "is_live": False,
                 "broadcast_title": "",
                 "broadcast_time": "",

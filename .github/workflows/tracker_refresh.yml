@@ -28,6 +28,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run NBA TV and Stats Tracker
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
           python run_tracker.py
 
@@ -35,7 +37,7 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/games.json data/games_data.js
+          git add data/games.json data/games_data.js data/pini_videos_cache.json
           if git diff --staged --quiet; then
             echo "No new updates in games data."
           else

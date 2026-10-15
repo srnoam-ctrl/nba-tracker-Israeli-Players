@@ -1295,16 +1295,37 @@
 
         .channel-banner {
             display: flex;
-            align-items: center;
-            justify-content: space-between;
+            flex-direction: column;
+            gap: 8px;
             padding: 10px 14px;
-            border-radius: 10px;
+            border-radius: 12px;
             background: #1B2130;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: all 0.2s ease;
         }
 
         .channel-banner.live-broadcast {
-            background: linear-gradient(135deg, rgba(215, 25, 32, 0.22), rgba(215, 25, 32, 0.06));
-            border: 1px solid rgba(215, 25, 32, 0.45);
+            background: linear-gradient(135deg, rgba(215, 25, 32, 0.18), rgba(215, 25, 32, 0.05));
+            border: 1px solid rgba(215, 25, 32, 0.4);
+        }
+
+        .channel-banner.live-broadcast.tier-free {
+            background: linear-gradient(135deg, rgba(16, 185, 129, 0.15), rgba(15, 23, 42, 0.8));
+            border: 1.5px solid rgba(16, 185, 129, 0.5);
+            box-shadow: 0 4px 14px rgba(16, 185, 129, 0.1);
+        }
+
+        .channel-banner.live-broadcast.tier-paid {
+            background: linear-gradient(135deg, rgba(245, 158, 11, 0.15), rgba(15, 23, 42, 0.8));
+            border: 1.5px solid rgba(245, 158, 11, 0.5);
+            box-shadow: 0 4px 14px rgba(245, 158, 11, 0.1);
+        }
+
+        .channel-banner-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
         }
 
         .channel-name {
@@ -1313,6 +1334,46 @@
             display: flex;
             align-items: center;
             gap: 8px;
+        }
+
+        .channel-tier-row {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+            padding-top: 2px;
+        }
+
+        .tier-pill {
+            font-size: 11px;
+            font-weight: 800;
+            padding: 3px 9px;
+            border-radius: 6px;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .tier-pill.free-tier {
+            background: rgba(16, 185, 129, 0.2);
+            border: 1px solid rgba(16, 185, 129, 0.5);
+            color: #34D399;
+        }
+
+        .tier-pill.paid-tier {
+            background: rgba(245, 158, 11, 0.2);
+            border: 1px solid rgba(245, 158, 11, 0.5);
+            color: #FBBF24;
+        }
+
+        .channel-number-pill {
+            font-size: 11px;
+            font-weight: 700;
+            color: #94A3B8;
+            background: rgba(255, 255, 255, 0.06);
+            padding: 2px 8px;
+            border-radius: 5px;
+            border: 1px solid rgba(255, 255, 255, 0.08);
         }
 
         .live-tag {
@@ -1676,6 +1737,7 @@
                 <div class="filter-tabs" id="cardsFilterTabs">
                     <button class="filter-btn active" onclick="setFilter('upcoming', this)">קרובים בלבד ⏰</button>
                     <button class="filter-btn" onclick="setFilter('broadcast', this)">משחקים משודרים 📺</button>
+                    <button class="filter-btn" onclick="setFilter('free_tv', this)">ערוצים פתוחים בלבד 🟢</button>
                     <button class="filter-btn" onclick="setFilter('all', this)">כל המשחקים</button>
                     <button class="filter-btn" onclick="setFilter('completed', this)">תוצאות (הסתיימו) 🏁</button>
                     <button class="filter-btn" onclick="setFilter('home', this)">בית</button>
@@ -2058,7 +2120,7 @@
                         <div class="hub-next-channel">
                             <span>📺</span>
                             <span>${channel}</span>
-                            ${isTelevised ? '<span class="live-tag">שידור ישיר</span>' : ''}
+                            ${isTelevised ? (nextG?.tv_broadcast?.is_free_tier ? '<span class="tier-pill free-tier" style="margin-right: auto;">🟢 ערוץ פתוח</span>' : '<span class="tier-pill paid-tier" style="margin-right: auto;">🔒 בתשלום</span>') : ''}
                         </div>
                     </div>
                 `;
@@ -2376,6 +2438,29 @@
                 headerBadgeHtml = `<div class="duo-tag">🇮🇱 צמד ישראלי ב${teamName}!</div>`;
             }
 
+            let channelTierHtml = '';
+            if (isTelevised && g.tv_broadcast) {
+                const isFree = g.tv_broadcast.is_free_tier === true;
+                const tierLabel = isFree ? '🟢 ערוץ פתוח בחינם לכולם' : '🔒 ערוץ בתשלום נוסף (חבילת פרימיום)';
+                const chNum = g.tv_broadcast.channel_number || '';
+                channelTierHtml = `
+                    <div class="channel-tier-row">
+                        <span class="tier-pill ${isFree ? 'free-tier' : 'paid-tier'}">
+                            ${tierLabel}
+                        </span>
+                        ${chNum ? `<span class="channel-number-pill">${chNum}</span>` : ''}
+                    </div>
+                `;
+            } else if (g.tv_broadcast && g.tv_broadcast.status === 'NOT_SCHEDULED_YET') {
+                channelTierHtml = `
+                    <div class="channel-tier-row">
+                        <span class="tier-pill" style="background: rgba(255,255,255,0.06); color: #94A3B8; border: 1px solid rgba(255,255,255,0.08);">
+                            🌐 NBA League Pass / טרם נקבע ערוץ ישראלי
+                        </span>
+                    </div>
+                `;
+            }
+
             card.innerHTML = `
                 ${headerBadgeHtml}
                 <div class="matchup-header">
@@ -2405,12 +2490,15 @@
                 ${boxscoreSectionHtml}
 
                 <div class="broadcast-section">
-                    <div class="channel-banner ${isTelevised ? 'live-broadcast' : ''}">
-                        <div class="channel-name">
-                            <span>📺</span>
-                            <span>${g.tv_broadcast.channel_name}</span>
+                    <div class="channel-banner ${isTelevised ? 'live-broadcast' : ''} ${isTelevised ? (g.tv_broadcast.is_free_tier ? 'tier-free' : 'tier-paid') : ''}">
+                        <div class="channel-banner-header">
+                            <div class="channel-name">
+                                <span>📺</span>
+                                <span>${g.tv_broadcast.channel_name}</span>
+                            </div>
+                            ${isTelevised ? '<span class="live-tag">שידור ישיר</span>' : ''}
                         </div>
-                        ${isTelevised ? '<span class="live-tag">שידור ישיר</span>' : ''}
+                        ${channelTierHtml}
                     </div>
 
                     ${g.pini_summary && g.pini_summary.has_summary ? `
@@ -2453,6 +2541,9 @@
             const filtered = games.filter(g => {
                 if (currentFilter === 'broadcast') {
                     return g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST';
+                }
+                if (currentFilter === 'free_tv') {
+                    return g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST' && g.tv_broadcast.is_free_tier === true;
                 }
                 if (currentFilter === 'home') return g.is_home === true;
                 if (currentFilter === 'away') return g.is_home === false;

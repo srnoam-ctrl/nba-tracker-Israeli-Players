@@ -1,12 +1,21 @@
 window.GAMES_DATA = {
-  "last_updated": "2026-10-15T07:27:00.469547+03:00",
-  "last_updated_display": "15/10/2026 07:27:00",
+  "last_updated": "2026-10-15T20:18:12.203189+03:00",
+  "last_updated_display": "15/10/2026 20:18:12",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
     "channel_url": "https://www.youtube.com/@PiniBarel",
-    "total_recent_videos": 15,
+    "total_recent_videos": 16,
     "recent_videos": [
+      {
+        "title": "דני אבדיה נגד לונדון ליונס - משחק ההכנה השני | #מעקבדיה",
+        "link": "https://www.youtube.com/watch?v=rtuhymEtmJo",
+        "video_id": "rtuhymEtmJo",
+        "thumbnail": "https://img.youtube.com/vi/rtuhymEtmJo/mqdefault.jpg",
+        "published_date": "2026-10-13",
+        "published_full": "2026-10-13T10:19:46+00:00",
+        "is_nba": true
+      },
       {
         "title": "ספיישל פתיחת עונת ה-NBA | אנדר אובר - 15 קבוצות המערב | #241",
         "link": "https://www.youtube.com/watch?v=B1amsEhZKhE",
@@ -166,7 +175,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-15T04:27:08.868919+00:00"
+        "last_updated": "2026-10-15T17:18:25.972389+00:00"
       },
       "total_games": 4,
       "games": [
@@ -205,6 +214,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA TV",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -239,7 +254,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 170.5,
+            "hours_ago": 183.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -296,6 +311,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -319,18 +340,18 @@ window.GAMES_DATA = {
             "badge_text": "כשיר ומשחק (Available)"
           },
           "pini_summary": {
-            "has_summary": false,
-            "video_title": "",
-            "video_url": "",
-            "video_id": "",
-            "thumbnail": "",
-            "published_date": "",
+            "has_summary": true,
+            "video_title": "דני אבדיה נגד לונדון ליונס - משחק ההכנה השני | #מעקבדיה",
+            "video_url": "https://www.youtube.com/watch?v=rtuhymEtmJo",
+            "video_id": "rtuhymEtmJo",
+            "thumbnail": "https://img.youtube.com/vi/rtuhymEtmJo/mqdefault.jpg",
+            "published_date": "2026-10-13",
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 56.5,
+            "hours_ago": 69.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -387,6 +408,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -421,7 +448,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 26.5,
+            "hours_ago": 39.3,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -478,6 +505,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "5SPORT (ערוץ 5)",
+            "channel_code": "5SPORT",
+            "channel_number": "אפיק 55",
+            "is_free_tier": true,
+            "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+            "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+            "tier_type": "FREE",
             "is_live": true,
             "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
             "broadcast_time": "05:00",
@@ -550,6 +583,12 @@ window.GAMES_DATA = {
         "us_broadcast": "NBA League Pass",
         "tv_broadcast": {
           "channel_name": "5SPORT (ערוץ 5)",
+          "channel_code": "5SPORT",
+          "channel_number": "אפיק 55",
+          "is_free_tier": true,
+          "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+          "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+          "tier_type": "FREE",
           "is_live": true,
           "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
           "broadcast_time": "05:00",
@@ -608,7 +647,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-15T04:27:09.027624+00:00"
+        "last_updated": "2026-10-15T17:18:26.975757+00:00"
       },
       "total_games": 4,
       "games": [
@@ -647,6 +686,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA TV",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -681,7 +726,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 197.5,
+            "hours_ago": 210.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -738,6 +783,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -772,7 +823,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 149.0,
+            "hours_ago": 161.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -829,6 +880,12 @@ window.GAMES_DATA = {
           "us_broadcast": "MNMT",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -863,7 +920,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 53.5,
+            "hours_ago": 66.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -920,6 +977,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -954,7 +1017,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 5.0,
+            "hours_ago": 17.8,
             "is_spoiler_period": true,
             "stats": {
               "has_played": false,
@@ -1002,6 +1065,12 @@ window.GAMES_DATA = {
         "us_broadcast": "NBA League Pass",
         "tv_broadcast": {
           "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+          "channel_code": "LEAGUE_PASS",
+          "channel_number": "NBA App / League Pass",
+          "is_free_tier": false,
+          "tier_name": "NBA League Pass",
+          "tier_badge": "🌐 NBA League Pass",
+          "tier_type": "LEAGUE_PASS",
           "is_live": false,
           "broadcast_title": "",
           "broadcast_time": "",
@@ -1036,7 +1105,7 @@ window.GAMES_DATA = {
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 5.0,
+          "hours_ago": 17.8,
           "is_spoiler_period": true,
           "stats": {
             "has_played": false,
@@ -1070,7 +1139,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-15T04:27:09.076141+00:00"
+        "last_updated": "2026-10-15T17:18:27.851498+00:00"
       },
       "total_games": 4,
       "games": [
@@ -1109,6 +1178,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA TV",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -1143,7 +1218,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 197.5,
+            "hours_ago": 210.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1200,6 +1275,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -1234,7 +1315,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 149.0,
+            "hours_ago": 161.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1291,6 +1372,12 @@ window.GAMES_DATA = {
           "us_broadcast": "MNMT",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -1325,7 +1412,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 53.5,
+            "hours_ago": 66.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1382,6 +1469,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -1416,7 +1509,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 5.0,
+            "hours_ago": 17.8,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -1474,6 +1567,12 @@ window.GAMES_DATA = {
         "us_broadcast": "NBA League Pass",
         "tv_broadcast": {
           "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+          "channel_code": "LEAGUE_PASS",
+          "channel_number": "NBA App / League Pass",
+          "is_free_tier": false,
+          "tier_name": "NBA League Pass",
+          "tier_badge": "🌐 NBA League Pass",
+          "tier_type": "LEAGUE_PASS",
           "is_live": false,
           "broadcast_title": "",
           "broadcast_time": "",
@@ -1508,7 +1607,7 @@ window.GAMES_DATA = {
         "player_boxscore": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 5.0,
+          "hours_ago": 17.8,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -1552,7 +1651,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-15T04:27:09.239368+00:00"
+        "last_updated": "2026-10-15T17:18:29.043350+00:00"
       },
       "total_games": 5,
       "games": [
@@ -1591,6 +1690,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA TV",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -1625,7 +1730,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 218.5,
+            "hours_ago": 231.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1682,6 +1787,12 @@ window.GAMES_DATA = {
           "us_broadcast": "ESPN2",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -1716,7 +1827,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 145.7,
+            "hours_ago": 158.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1773,6 +1884,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -1807,7 +1924,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 100.0,
+            "hours_ago": 112.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1864,6 +1981,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -1898,7 +2021,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 26.5,
+            "hours_ago": 39.3,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -1955,6 +2078,12 @@ window.GAMES_DATA = {
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
             "is_live": false,
             "broadcast_title": "",
             "broadcast_time": "",
@@ -2027,6 +2156,12 @@ window.GAMES_DATA = {
         "us_broadcast": "NBA League Pass",
         "tv_broadcast": {
           "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+          "channel_code": "LEAGUE_PASS",
+          "channel_number": "NBA App / League Pass",
+          "is_free_tier": false,
+          "tier_name": "NBA League Pass",
+          "tier_badge": "🌐 NBA League Pass",
+          "tier_type": "LEAGUE_PASS",
           "is_live": false,
           "broadcast_title": "",
           "broadcast_time": "",
@@ -2101,6 +2236,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA TV",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -2155,7 +2296,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 218.5,
+          "hours_ago": 231.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2213,6 +2354,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA TV",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -2284,7 +2431,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 197.5,
+          "hours_ago": 210.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2308,7 +2455,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 197.5,
+          "hours_ago": 210.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2366,6 +2513,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA TV",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -2420,7 +2573,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 170.5,
+          "hours_ago": 183.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2445,7 +2598,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 170.5,
+        "hours_ago": 183.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -2502,6 +2655,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -2573,7 +2732,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 149.0,
+          "hours_ago": 161.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2597,7 +2756,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 149.0,
+          "hours_ago": 161.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2655,6 +2814,12 @@ window.GAMES_DATA = {
       "us_broadcast": "ESPN2",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -2709,7 +2874,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 145.7,
+          "hours_ago": 158.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2767,6 +2932,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -2821,7 +2992,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 100.0,
+          "hours_ago": 112.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2879,6 +3050,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -2921,19 +3098,19 @@ window.GAMES_DATA = {
         }
       ],
       "pini_summary": {
-        "has_summary": false,
-        "video_title": "",
-        "video_url": "",
-        "video_id": "",
-        "thumbnail": "",
-        "published_date": "",
+        "has_summary": true,
+        "video_title": "דני אבדיה נגד לונדון ליונס - משחק ההכנה השני | #מעקבדיה",
+        "video_url": "https://www.youtube.com/watch?v=rtuhymEtmJo",
+        "video_id": "rtuhymEtmJo",
+        "thumbnail": "https://img.youtube.com/vi/rtuhymEtmJo/mqdefault.jpg",
+        "published_date": "2026-10-13",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscores": {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 56.5,
+          "hours_ago": 69.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -2958,7 +3135,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 56.5,
+        "hours_ago": 69.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -3015,6 +3192,12 @@ window.GAMES_DATA = {
       "us_broadcast": "MNMT",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -3086,7 +3269,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 53.5,
+          "hours_ago": 66.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -3110,7 +3293,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 53.5,
+          "hours_ago": 66.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -3168,6 +3351,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -3239,7 +3428,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 26.5,
+          "hours_ago": 39.3,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -3263,7 +3452,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 26.5,
+          "hours_ago": 39.3,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -3288,7 +3477,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 26.5,
+        "hours_ago": 39.3,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -3345,6 +3534,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -3416,7 +3611,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 5.0,
+          "hours_ago": 17.8,
           "is_spoiler_period": true,
           "stats": {
             "has_played": false,
@@ -3430,7 +3625,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 5.0,
+          "hours_ago": 17.8,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -3488,6 +3683,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -3580,6 +3781,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "5SPORT (ערוץ 5)",
+        "channel_code": "5SPORT",
+        "channel_number": "אפיק 55",
+        "is_free_tier": true,
+        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+        "tier_type": "FREE",
         "is_live": true,
         "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
         "broadcast_time": "05:00",
@@ -3647,7 +3854,7 @@ window.GAMES_DATA = {
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-10-15T04:27:08.868919+00:00"
+    "last_updated": "2026-10-15T17:18:25.972389+00:00"
   },
   "total_games": 4,
   "games": [
@@ -3686,6 +3893,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA TV",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -3720,7 +3933,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 170.5,
+        "hours_ago": 183.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -3777,6 +3990,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -3800,18 +4019,18 @@ window.GAMES_DATA = {
         "badge_text": "כשיר ומשחק (Available)"
       },
       "pini_summary": {
-        "has_summary": false,
-        "video_title": "",
-        "video_url": "",
-        "video_id": "",
-        "thumbnail": "",
-        "published_date": "",
+        "has_summary": true,
+        "video_title": "דני אבדיה נגד לונדון ליונס - משחק ההכנה השני | #מעקבדיה",
+        "video_url": "https://www.youtube.com/watch?v=rtuhymEtmJo",
+        "video_id": "rtuhymEtmJo",
+        "thumbnail": "https://img.youtube.com/vi/rtuhymEtmJo/mqdefault.jpg",
+        "published_date": "2026-10-13",
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 56.5,
+        "hours_ago": 69.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -3868,6 +4087,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
         "is_live": false,
         "broadcast_title": "",
         "broadcast_time": "",
@@ -3902,7 +4127,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 26.5,
+        "hours_ago": 39.3,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -3959,6 +4184,12 @@ window.GAMES_DATA = {
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "5SPORT (ערוץ 5)",
+        "channel_code": "5SPORT",
+        "channel_number": "אפיק 55",
+        "is_free_tier": true,
+        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+        "tier_type": "FREE",
         "is_live": true,
         "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
         "broadcast_time": "05:00",

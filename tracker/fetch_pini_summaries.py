@@ -38,21 +38,79 @@ def save_cached_videos(videos):
     except Exception as e:
         logger.warning(f"Failed to save pini_videos_cache.json: {e}")
 
+def fetch_videos_via_youtube_api(api_key):
+    """
+    Fetches videos using official Google YouTube Data API v3 (costs only 1 quota unit).
+    Completely immune to datacenter IP blocking or rate limits.
+    """
+    # Uploads playlist ID for UCQDaEuX375Wfhz5Q3JGHu5w is UUQDaEuX375Wfhz5Q3JGHu5w
+    uploads_playlist_id = "UU" + CHANNEL_ID[2:]
+    url = f"https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId={uploads_playlist_id}&maxResults=20&key={api_key}"
+    try:
+        resp = requests.get(url, timeout=12)
+        if resp.status_code == 200:
+            data = resp.json()
+            videos = []
+            for item in data.get("items", []):
+                snippet = item.get("snippet", {})
+                title = snippet.get("title", "")
+                published = snippet.get("publishedAt", "")
+                pub_date = published[:10] if len(published) >= 10 else ""
+                video_id = snippet.get("resourceId", {}).get("videoId", "")
+                if not video_id:
+                    continue
+
+                title_lower = title.lower()
+                nba_kws = ["מעקבדיה", "אבדיה", "שרף", "וולף", "שארפ", "nba", "פורטלנד", "ברוקלין", "סקרמנטו", "בלייזרס", "נטס", "קינגס"]
+                is_nba = any(kw in title_lower for kw in nba_kws)
+
+                videos.append({
+                    "title": title,
+                    "link": f"https://www.youtube.com/watch?v={video_id}",
+                    "video_id": video_id,
+                    "thumbnail": f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg",
+                    "published_date": pub_date,
+                    "published_full": published,
+                    "is_nba": is_nba
+                })
+            return videos
+        else:
+            logger.warning(f"YouTube Data API returned status {resp.status_code}: {resp.text[:200]}")
+    except Exception as e:
+        logger.warning(f"YouTube Data API v3 call failed: {e}")
+    return []
+
 def fetch_pini_recent_videos():
     """
     Fetches the latest videos uploaded by Pini Barel on the 'Sport BeEychut Gvoha' channel.
     Returns a list of dicts: [{title, link, published_date, video_id, thumbnail, is_nba}]
-    Saves to and reads from persistent cache so videos are never lost.
+    1. Tries official YouTube Data API v3 if YOUTUBE_API_KEY environment variable is present.
+    2. Falls back to YouTube RSS with human-like browser headers.
+    3. Merges into and reads from persistent cache so videos are never lost.
     """
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "application/rss+xml, application/xml, text/xml, */*"
-    }
-
     cached = load_cached_videos()
     cached_map = {v["video_id"]: v for v in cached if "video_id" in v}
 
-    fetched_videos = []
+    # Method 1: Official YouTube API v3
+    api_key = os.environ.get("YOUTUBE_API_KEY", "").strip()
+    if api_key:
+        api_videos = fetch_videos_via_youtube_api(api_key)
+        if api_videos:
+            for v in api_videos:
+                cached_map[v["video_id"]] = v
+            all_videos = list(cached_map.values())
+            all_videos.sort(key=lambda x: x.get("published_full", x.get("published_date", "")), reverse=True)
+            save_cached_videos(all_videos)
+            return all_videos
+
+    # Method 2: YouTube RSS feed with browser headers
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/xml, text/xml, */*",
+        "Accept-Language": "he,en-US;q=0.9,en;q=0.8",
+        "Referer": "https://www.youtube.com/"
+    }
+
     try:
         resp = requests.get(RSS_URL, headers=headers, timeout=15)
         if resp.status_code == 200:
