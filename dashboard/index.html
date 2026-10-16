@@ -1882,29 +1882,6 @@
             <!-- Dynamically populated cards for all 4 players -->
         </section>
 
-        <!-- Pini Barel Maakavdiya Section -->
-        <section class="pini-section" id="piniSection" style="display: none;">
-            <div class="pini-section-header">
-                <div class="pini-title-box">
-                    <div class="pini-badge-icon">▶️</div>
-                    <div>
-                        <div class="pini-main-title">
-                            <span>מעקבדיה – סיכומי משחקים וניתוחי וידאו</span>
-                            <span class="pini-tag">פיני בראל 🎥</span>
-                        </div>
-                        <div class="pini-sub-title">כל הפרקים והסיכומים הרשמיים מערוץ "ספורט באיכות גבוהה" ביוטיוב</div>
-                    </div>
-                </div>
-                <a href="https://www.youtube.com/@PiniBarel" target="_blank" rel="noopener noreferrer" class="pini-channel-btn">
-                    <span>לערוץ המלא ביוטיוב</span>
-                    <span>◀</span>
-                </a>
-            </div>
-            <div class="pini-videos-grid" id="piniVideosGrid">
-                <!-- Dynamically injected -->
-            </div>
-        </section>
-
         <!-- Smart Toolbar & View Switcher -->
         <div class="controls-bar">
             <div class="view-and-filters">
@@ -1950,6 +1927,29 @@
                 <div class="games-grid" id="upcomingGamesGrid"></div>
                 <div id="upcomingLoadMoreContainer" style="text-align: center; margin-top: 18px; display: none;">
                     <button class="load-more-btn" onclick="toggleUpcomingExpanded()" id="upcomingLoadMoreBtn">הצג עוד משחקים קרובים ▾</button>
+                </div>
+            </section>
+
+            <!-- Pini Barel Maakavdiya Section (Within Cards View) -->
+            <section class="pini-section" id="piniSection" style="display: none;">
+                <div class="pini-section-header">
+                    <div class="pini-title-box">
+                        <div class="pini-badge-icon">▶️</div>
+                        <div>
+                            <div class="pini-main-title">
+                                <span>מעקבדיה – סיכומי משחקים וניתוחי וידאו</span>
+                                <span class="pini-tag">פיני בראל 🎥</span>
+                            </div>
+                            <div class="pini-sub-title">כל הפרקים והסיכומים הרשמיים מערוץ "ספורט באיכות גבוהה" ביוטיוב</div>
+                        </div>
+                    </div>
+                    <a href="https://www.youtube.com/@PiniBarel" target="_blank" rel="noopener noreferrer" class="pini-channel-btn">
+                        <span>לערוץ המלא ביוטיוב</span>
+                        <span>◀</span>
+                    </a>
+                </div>
+                <div class="pini-videos-grid" id="piniVideosGrid">
+                    <!-- Dynamically injected -->
                 </div>
             </section>
 
@@ -2190,6 +2190,12 @@
             const sec = document.getElementById('piniSection');
             const grid = document.getElementById('piniVideosGrid');
             if (!sec || !grid) return;
+
+            // Only display in cards view, never when calendar view is active
+            if (currentView !== 'cards') {
+                sec.style.display = 'none';
+                return;
+            }
 
             const piniData = appData.pini_channel || {};
             const videos = piniData.recent_videos || [];
