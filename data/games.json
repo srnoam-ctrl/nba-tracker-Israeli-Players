@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T07:24:27.408288+03:00",
-  "last_updated_display": "17/10/2026 07:24:27",
+  "last_updated": "2026-10-17T08:34:47.133542+03:00",
+  "last_updated_display": "17/10/2026 08:34:47",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
@@ -175,7 +175,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-17T04:24:36.335327+00:00"
+        "last_updated": "2026-10-17T05:35:25.131857+00:00"
       },
       "total_games": 84,
       "games": [
@@ -257,7 +257,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 218.4,
+            "hours_ago": 219.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -357,7 +357,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 104.4,
+            "hours_ago": 105.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -457,7 +457,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 74.4,
+            "hours_ago": 75.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -508,24 +508,24 @@
             "abbrev": "POR",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
           },
-          "status": "In Progress",
-          "status_detail": "8:29 - 4th Quarter",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "season_type": "קדם עונה (Preseason)",
           "season_type_en": "Preseason",
           "season_type_id": 1,
           "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "channel_code": "5SPORT",
-            "channel_number": "אפיק 55",
-            "is_free_tier": true,
-            "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-            "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
-            "tier_type": "FREE",
+            "channel_name": "5MAX (ערוץ 5 מקס)",
+            "channel_code": "5MAX",
+            "channel_number": "אפיק 60",
+            "is_free_tier": false,
+            "tier_name": "ערוץ בתשלום נוסף",
+            "tier_badge": "🔒 ערוץ בתשלום (אפיק 60)",
+            "tier_type": "PAID",
             "is_live": true,
-            "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
-            "broadcast_time": "05:00",
+            "broadcast_title": "WNBA - פלייאוף: גולדן סטייט - אטלנטה, גמר - משחק 1",
+            "broadcast_time": "22:30",
             "status": "CONFIRMED_BROADCAST",
             "badge": "שידור חי בערוץ הספורט"
           },
@@ -555,8 +555,28 @@
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 3.6,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": true,
+              "minutes": "23",
+              "points": "12",
+              "rebounds": "4",
+              "assists": "3",
+              "steals": "2",
+              "blocks": "1",
+              "fg": "5-15",
+              "three_pt": "0-4",
+              "ft": "2-2",
+              "turnovers": "1",
+              "plus_minus": "-13",
+              "final_scores": {
+                "GS": "128",
+                "POR": "118"
+              }
+            }
           }
         },
         {
@@ -6961,40 +6981,40 @@
         }
       ],
       "next_game": {
-        "id": "401898409",
-        "name": "Portland Trail Blazers at Golden State Warriors",
-        "short_name": "POR @ GS",
-        "utc_date": "2026-10-17T02:00Z",
-        "date_il": "2026-10-17",
+        "id": "401909841",
+        "name": "Phoenix Suns at Portland Trail Blazers",
+        "short_name": "PHX @ POR",
+        "utc_date": "2026-10-22T02:00Z",
+        "date_il": "2026-10-22",
         "time_il": "05:00",
-        "display_datetime_il": "17/10/2026 05:00",
-        "day_name_en": "Saturday",
-        "day_name_he": "יום שבת",
-        "is_home": false,
+        "display_datetime_il": "22/10/2026 05:00",
+        "day_name_en": "Thursday",
+        "day_name_he": "יום חמישי",
+        "is_home": true,
         "opponent": {
-          "id": "9",
-          "name": "Golden State Warriors",
-          "abbrev": "GS",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+          "id": "21",
+          "name": "Phoenix Suns",
+          "abbrev": "PHX",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
         },
         "home_team": {
-          "id": "9",
-          "name": "Golden State Warriors",
-          "abbrev": "GS",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
-        },
-        "away_team": {
           "id": "22",
           "name": "Portland Trail Blazers",
           "abbrev": "POR",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
         },
-        "status": "In Progress",
-        "status_detail": "8:29 - 4th Quarter",
+        "away_team": {
+          "id": "21",
+          "name": "Phoenix Suns",
+          "abbrev": "PHX",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+        },
+        "status": "Scheduled",
+        "status_detail": "Wed, October 21st at 10:00 PM EDT",
         "is_completed": false,
-        "season_type": "קדם עונה (Preseason)",
-        "season_type_en": "Preseason",
-        "season_type_id": 1,
+        "season_type": "עונה סדירה (Regular Season)",
+        "season_type_en": "Regular Season",
+        "season_type_id": 2,
         "us_broadcast": "NBA League Pass",
         "tv_broadcast": {
           "channel_name": "5SPORT (ערוץ 5)",
@@ -7005,7 +7025,7 @@
           "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
           "tier_type": "FREE",
           "is_live": true,
-          "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
+          "broadcast_title": "NBA: פורטלנד טרייל בלייזרס - פיניקס סאנס, עונה סדירה",
           "broadcast_time": "05:00",
           "status": "CONFIRMED_BROADCAST",
           "badge": "שידור חי בערוץ הספורט"
@@ -7062,7 +7082,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-17T04:24:36.444106+00:00"
+        "last_updated": "2026-10-17T05:35:26.277339+00:00"
       },
       "total_games": 84,
       "games": [
@@ -7144,7 +7164,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 245.4,
+            "hours_ago": 246.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7244,7 +7264,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 196.9,
+            "hours_ago": 198.1,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7344,7 +7364,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 101.4,
+            "hours_ago": 102.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7444,7 +7464,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 52.9,
+            "hours_ago": 54.1,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -13959,7 +13979,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-17T04:24:36.499366+00:00"
+        "last_updated": "2026-10-17T05:35:27.163587+00:00"
       },
       "total_games": 84,
       "games": [
@@ -14041,7 +14061,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 245.4,
+            "hours_ago": 246.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14141,7 +14161,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 196.9,
+            "hours_ago": 198.1,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14241,7 +14261,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 101.4,
+            "hours_ago": 102.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14341,7 +14361,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 52.9,
+            "hours_ago": 54.1,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -20866,7 +20886,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-17T04:24:36.604572+00:00"
+        "last_updated": "2026-10-17T05:35:28.512012+00:00"
       },
       "total_games": 85,
       "games": [
@@ -20948,7 +20968,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 266.4,
+            "hours_ago": 267.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21048,7 +21068,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 193.7,
+            "hours_ago": 194.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21148,7 +21168,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 147.9,
+            "hours_ago": 149.1,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21248,7 +21268,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 74.4,
+            "hours_ago": 75.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21348,7 +21368,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 4.4,
+            "hours_ago": 5.6,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -27952,7 +27972,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 266.4,
+          "hours_ago": 267.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28090,7 +28110,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 245.4,
+          "hours_ago": 246.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28114,7 +28134,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 245.4,
+          "hours_ago": 246.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28235,7 +28255,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 218.4,
+          "hours_ago": 219.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28260,7 +28280,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 218.4,
+        "hours_ago": 219.6,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -28397,7 +28417,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 196.9,
+          "hours_ago": 198.1,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28421,7 +28441,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 196.9,
+          "hours_ago": 198.1,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28542,7 +28562,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 193.7,
+          "hours_ago": 194.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28663,7 +28683,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 147.9,
+          "hours_ago": 149.1,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28784,7 +28804,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 104.4,
+          "hours_ago": 105.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28809,7 +28829,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 104.4,
+        "hours_ago": 105.6,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -28946,7 +28966,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 101.4,
+          "hours_ago": 102.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28970,7 +28990,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 101.4,
+          "hours_ago": 102.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29108,7 +29128,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 74.4,
+          "hours_ago": 75.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29132,7 +29152,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 74.4,
+          "hours_ago": 75.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29157,7 +29177,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 74.4,
+        "hours_ago": 75.6,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29294,7 +29314,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 52.9,
+          "hours_ago": 54.1,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -29308,7 +29328,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 52.9,
+          "hours_ago": 54.1,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29429,7 +29449,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 4.4,
+          "hours_ago": 5.6,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -29481,24 +29501,24 @@
         "abbrev": "POR",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
       },
-      "status": "In Progress",
-      "status_detail": "8:29 - 4th Quarter",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "season_type": "קדם עונה (Preseason)",
       "season_type_en": "Preseason",
       "season_type_id": 1,
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "channel_code": "5SPORT",
-        "channel_number": "אפיק 55",
-        "is_free_tier": true,
-        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
-        "tier_type": "FREE",
+        "channel_name": "5MAX (ערוץ 5 מקס)",
+        "channel_code": "5MAX",
+        "channel_number": "אפיק 60",
+        "is_free_tier": false,
+        "tier_name": "ערוץ בתשלום נוסף",
+        "tier_badge": "🔒 ערוץ בתשלום (אפיק 60)",
+        "tier_type": "PAID",
         "is_live": true,
-        "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
-        "broadcast_time": "05:00",
+        "broadcast_title": "WNBA - פלייאוף: גולדן סטייט - אטלנטה, גמר - משחק 1",
+        "broadcast_time": "22:30",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
@@ -29548,13 +29568,53 @@
       },
       "player_boxscores": {
         "deni_avdija": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 3.6,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "23",
+            "points": "12",
+            "rebounds": "4",
+            "assists": "3",
+            "steals": "2",
+            "blocks": "1",
+            "fg": "5-15",
+            "three_pt": "0-4",
+            "ft": "2-2",
+            "turnovers": "1",
+            "plus_minus": "-13",
+            "final_scores": {
+              "GS": "128",
+              "POR": "118"
+            }
+          }
         }
       },
       "player_boxscore": {
-        "available": false,
-        "is_completed": false
+        "available": true,
+        "is_completed": true,
+        "hours_ago": 3.6,
+        "is_spoiler_period": true,
+        "stats": {
+          "has_played": true,
+          "minutes": "23",
+          "points": "12",
+          "rebounds": "4",
+          "assists": "3",
+          "steals": "2",
+          "blocks": "1",
+          "fg": "5-15",
+          "three_pt": "0-4",
+          "ft": "2-2",
+          "turnovers": "1",
+          "plus_minus": "-13",
+          "final_scores": {
+            "GS": "128",
+            "POR": "118"
+          }
+        }
       }
     },
     {
@@ -55243,7 +55303,7 @@
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-10-17T04:24:36.335327+00:00"
+    "last_updated": "2026-10-17T05:35:25.131857+00:00"
   },
   "total_games": 84,
   "games": [
@@ -55325,7 +55385,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 218.4,
+        "hours_ago": 219.6,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55425,7 +55485,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 104.4,
+        "hours_ago": 105.6,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55525,7 +55585,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 74.4,
+        "hours_ago": 75.6,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55576,24 +55636,24 @@
         "abbrev": "POR",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
       },
-      "status": "In Progress",
-      "status_detail": "8:29 - 4th Quarter",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "season_type": "קדם עונה (Preseason)",
       "season_type_en": "Preseason",
       "season_type_id": 1,
       "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "channel_code": "5SPORT",
-        "channel_number": "אפיק 55",
-        "is_free_tier": true,
-        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
-        "tier_type": "FREE",
+        "channel_name": "5MAX (ערוץ 5 מקס)",
+        "channel_code": "5MAX",
+        "channel_number": "אפיק 60",
+        "is_free_tier": false,
+        "tier_name": "ערוץ בתשלום נוסף",
+        "tier_badge": "🔒 ערוץ בתשלום (אפיק 60)",
+        "tier_type": "PAID",
         "is_live": true,
-        "broadcast_title": "NBA: גולדן סטייט - פורטלנד, משחק קדם עונה",
-        "broadcast_time": "05:00",
+        "broadcast_title": "WNBA - פלייאוף: גולדן סטייט - אטלנטה, גמר - משחק 1",
+        "broadcast_time": "22:30",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
@@ -55623,8 +55683,28 @@
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscore": {
-        "available": false,
-        "is_completed": false
+        "available": true,
+        "is_completed": true,
+        "hours_ago": 3.6,
+        "is_spoiler_period": true,
+        "stats": {
+          "has_played": true,
+          "minutes": "23",
+          "points": "12",
+          "rebounds": "4",
+          "assists": "3",
+          "steals": "2",
+          "blocks": "1",
+          "fg": "5-15",
+          "three_pt": "0-4",
+          "ft": "2-2",
+          "turnovers": "1",
+          "plus_minus": "-13",
+          "final_scores": {
+            "GS": "128",
+            "POR": "118"
+          }
+        }
       }
     },
     {

@@ -1270,10 +1270,17 @@
         /* Game Cards Grid */
         .games-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
             gap: 20px;
             width: 100%;
             box-sizing: border-box;
+        }
+
+        @media (max-width: 768px) {
+            .games-grid {
+                grid-template-columns: 1fr !important;
+                gap: 16px;
+            }
         }
 
         .game-card {
@@ -2068,17 +2075,21 @@
         async function loadData() {
             if (window.GAMES_DATA) {
                 applyData(window.GAMES_DATA);
-                return;
             }
 
             try {
-                const res = await fetch('../data/games.json?t=' + Date.now());
-                if (!res.ok) throw new Error("Could not load data/games.json");
-                const data = await res.json();
-                applyData(data);
+                const res = await fetch('../data/games.json?t=' + Date.now(), { cache: 'no-store' });
+                if (res.ok) {
+                    const data = await res.json();
+                    applyData(data);
+                } else if (!window.GAMES_DATA) {
+                    throw new Error("Could not load data/games.json");
+                }
             } catch (err) {
-                console.error(err);
-                document.getElementById('gamesCount').textContent = 'שגיאה בטעינת הנתונים. אנא הרץ את tracker.bat כדי לעדכן.';
+                console.warn("Live fetch fallback:", err);
+                if (!window.GAMES_DATA) {
+                    document.getElementById('gamesCount').textContent = 'שגיאה בטעינת הנתונים. אנא רענן שנית.';
+                }
             }
         }
 
