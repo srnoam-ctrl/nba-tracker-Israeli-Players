@@ -1,6 +1,6 @@
 window.GAMES_DATA = {
-  "last_updated": "2026-10-21T17:25:49.111162+03:00",
-  "last_updated_display": "21/10/2026 17:25:49",
+  "last_updated": "2026-10-21T23:20:06.049457+03:00",
+  "last_updated_display": "21/10/2026 23:20:06",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
@@ -175,7 +175,7 @@ window.GAMES_DATA = {
         "is_playing": "GTD",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "last_updated": "2026-10-21T14:25:58.004217+00:00"
+        "last_updated": "2026-10-21T20:20:16.463885+00:00"
       },
       "total_games": 84,
       "games": [
@@ -257,7 +257,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 324.4,
+            "hours_ago": 330.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -357,7 +357,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 210.4,
+            "hours_ago": 216.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -457,7 +457,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 180.4,
+            "hours_ago": 186.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -557,7 +557,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 108.4,
+            "hours_ago": 114.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -854,7 +854,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
+          "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, DAZN MEM",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -934,7 +934,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
+          "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -1014,7 +1014,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass, KUNP 16",
+          "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -1494,7 +1494,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision, NBC Sports CA",
+          "us_broadcast": "KUNP 16, BlazerVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -1574,7 +1574,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16",
+          "us_broadcast": "KUNP 16, DAZN MIN, BlazerVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -1654,7 +1654,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "BlazerVision",
+          "us_broadcast": "BlazerVision, DAZN MIN",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -1734,7 +1734,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision, MyMi",
+          "us_broadcast": "KUNP 16, BlazerVision, MyMi, Bucks App",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -2134,7 +2134,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "BlazerVision",
+          "us_broadcast": "BlazerVision, GCSEN, Pelicans.com",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -2214,7 +2214,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, DAZN MIN",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -2294,7 +2294,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -3334,7 +3334,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "BlazerVision",
+          "us_broadcast": "BlazerVision, KFAA-TV, MavsTV",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -3414,7 +3414,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, DAZN CHA",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -3654,7 +3654,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision, NBC Sports CA",
+          "us_broadcast": "KUNP 16, BlazerVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -3814,7 +3814,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, WPLG",
+          "us_broadcast": "KUNP 16, BlazerVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -4454,7 +4454,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, DAZN CLE",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -4614,7 +4614,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, DAZN MEM",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -4774,7 +4774,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, KFAA-TV, MavsTV",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -5014,7 +5014,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, GCSEN, Pelicans.com",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -5094,7 +5094,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, DAZN IND",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -5254,7 +5254,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, ClipperVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -5414,7 +5414,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, DAZN CLE",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -5654,7 +5654,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC, NBC Sports BA",
+          "us_broadcast": "NBC",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -5814,7 +5814,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "ESPN, KUNP 16, BlazerVision",
+          "us_broadcast": "ESPN, KUNP 16, BlazerVision, ClipperVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -5974,7 +5974,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision, WPLG",
+          "us_broadcast": "KUNP 16, BlazerVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -6054,7 +6054,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, NBC Sports BA",
+          "us_broadcast": "KUNP 16, BlazerVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -6374,7 +6374,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, MyMi, Bucks App",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -6614,7 +6614,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -6694,7 +6694,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -6774,7 +6774,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision",
+          "us_broadcast": "KUNP 16, BlazerVision, KFAA-TV, MavsTV",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -7082,7 +7082,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-21T14:25:58.109747+00:00"
+        "last_updated": "2026-10-21T20:20:16.610286+00:00"
       },
       "total_games": 84,
       "games": [
@@ -7164,7 +7164,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 351.4,
+            "hours_ago": 357.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7264,7 +7264,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 302.9,
+            "hours_ago": 308.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7364,7 +7364,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 207.4,
+            "hours_ago": 213.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7464,7 +7464,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 158.9,
+            "hours_ago": 164.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7911,7 +7911,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass, DAZN (YES)",
+          "us_broadcast": "NBA League Pass, DAZN (YES), DAZN IND",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -8711,7 +8711,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBCSN",
+          "us_broadcast": "NBCSN, DAZN MIN",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -10791,7 +10791,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "ESPN, DAZN (YES), CHSN",
+          "us_broadcast": "ESPN, DAZN (YES)",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -13979,7 +13979,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-21T14:25:58.170262+00:00"
+        "last_updated": "2026-10-21T20:20:16.680880+00:00"
       },
       "total_games": 84,
       "games": [
@@ -14061,7 +14061,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 351.4,
+            "hours_ago": 357.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14161,7 +14161,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 302.9,
+            "hours_ago": 308.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14261,7 +14261,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 207.4,
+            "hours_ago": 213.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14361,7 +14361,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 158.9,
+            "hours_ago": 164.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14818,7 +14818,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass, DAZN (YES)",
+          "us_broadcast": "NBA League Pass, DAZN (YES), DAZN IND",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -15618,7 +15618,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBCSN",
+          "us_broadcast": "NBCSN, DAZN MIN",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -17698,7 +17698,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "ESPN, DAZN (YES), CHSN",
+          "us_broadcast": "ESPN, DAZN (YES)",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -20886,7 +20886,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-21T14:25:58.256194+00:00"
+        "last_updated": "2026-10-21T20:20:16.798810+00:00"
       },
       "total_games": 85,
       "games": [
@@ -20968,7 +20968,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 372.4,
+            "hours_ago": 378.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21068,7 +21068,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 299.7,
+            "hours_ago": 305.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21168,7 +21168,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 253.9,
+            "hours_ago": 259.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21268,7 +21268,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 180.4,
+            "hours_ago": 186.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21368,7 +21368,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 110.4,
+            "hours_ago": 116.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21425,7 +21425,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass, NBC Sports CA",
+          "us_broadcast": "NBA League Pass, KTLA, ClipperVision",
           "tv_broadcast": {
             "channel_name": "5SPORT (ערוץ 5)",
             "channel_code": "5SPORT",
@@ -21585,7 +21585,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass",
+          "us_broadcast": "NBA League Pass, DAZN MEM",
           "tv_broadcast": {
             "channel_name": "5SPORT (ערוץ 5)",
             "channel_code": "5SPORT",
@@ -21745,7 +21745,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass, NBC Sports CA",
+          "us_broadcast": "NBA League Pass, GCSEN, Pelicans.com",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -21985,7 +21985,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "Spectrum Sports Net, Spectrum Sports Net +, NBC Sports CA",
+          "us_broadcast": "Spectrum Sports Net, Spectrum Sports Net +",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -22225,7 +22225,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -22305,7 +22305,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision, NBC Sports CA",
+          "us_broadcast": "KUNP 16, BlazerVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -22785,7 +22785,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports BA, NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -22865,7 +22865,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "DAZN MIN",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -22945,7 +22945,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "GCSEN, Pelicans.com",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -23105,7 +23105,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "GCSEN, Pelicans.com",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -23265,7 +23265,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "GCSEN, Pelicans.com",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -23345,7 +23345,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "WPLG, NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -23505,7 +23505,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "KFAA-TV, MavsTV",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -23585,7 +23585,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass",
+          "us_broadcast": "KJZZ-TV, Jazz+",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -24225,7 +24225,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "DAZN CHA",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -24385,7 +24385,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass",
+          "us_broadcast": "ClipperVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -24465,7 +24465,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "KUNP 16, BlazerVision, NBC Sports CA",
+          "us_broadcast": "KUNP 16, BlazerVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -24545,7 +24545,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "KJZZ-TV, Jazz+",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -24705,7 +24705,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "MyMi, Bucks App",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -24785,7 +24785,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "Spectrum Sports Net, NBC Sports CA",
+          "us_broadcast": "Spectrum Sports Net, Spectrum Sports Net +",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -25185,7 +25185,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "DAZN MIN",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -25265,7 +25265,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA, Suns Live",
+          "us_broadcast": "Suns Live, Arizona's Family 3TV",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -25345,7 +25345,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -25425,7 +25425,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "MyMi",
+          "us_broadcast": "MyMi, Bucks App",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -25585,7 +25585,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass",
+          "us_broadcast": "DAZN IND",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -25665,7 +25665,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -25745,7 +25745,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass",
+          "us_broadcast": "DAZN IND",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -25825,7 +25825,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass",
+          "us_broadcast": "DAZN CLE",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -25905,7 +25905,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass",
+          "us_broadcast": "DAZN MEM",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -25985,7 +25985,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass",
+          "us_broadcast": "DAZN CHA",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -26305,7 +26305,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -26385,7 +26385,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA, NBC Sports BA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -26545,7 +26545,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "DAZN CLE",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -26785,7 +26785,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -26945,7 +26945,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "CHSN, NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -27025,7 +27025,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -27105,7 +27105,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -27185,7 +27185,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -27265,7 +27265,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "DAZN MIN",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -27585,7 +27585,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "NBA League Pass",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -27665,7 +27665,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass",
+          "us_broadcast": "KFAA-TV, MavsTV",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -27745,7 +27745,7 @@ window.GAMES_DATA = {
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBC Sports CA",
+          "us_broadcast": "ClipperVision",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -27826,7 +27826,7 @@ window.GAMES_DATA = {
         "season_type": "עונה סדירה (Regular Season)",
         "season_type_en": "Regular Season",
         "season_type_id": 2,
-        "us_broadcast": "NBA League Pass, NBC Sports CA",
+        "us_broadcast": "NBA League Pass, KTLA, ClipperVision",
         "tv_broadcast": {
           "channel_name": "5SPORT (ערוץ 5)",
           "channel_code": "5SPORT",
@@ -27972,7 +27972,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 372.4,
+          "hours_ago": 378.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28110,7 +28110,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 351.4,
+          "hours_ago": 357.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28134,7 +28134,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 351.4,
+          "hours_ago": 357.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28255,7 +28255,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 324.4,
+          "hours_ago": 330.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28280,7 +28280,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 324.4,
+        "hours_ago": 330.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -28417,7 +28417,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 302.9,
+          "hours_ago": 308.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28441,7 +28441,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 302.9,
+          "hours_ago": 308.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28562,7 +28562,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 299.7,
+          "hours_ago": 305.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28683,7 +28683,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 253.9,
+          "hours_ago": 259.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28804,7 +28804,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 210.4,
+          "hours_ago": 216.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28829,7 +28829,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 210.4,
+        "hours_ago": 216.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -28966,7 +28966,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 207.4,
+          "hours_ago": 213.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28990,7 +28990,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 207.4,
+          "hours_ago": 213.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29128,7 +29128,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 180.4,
+          "hours_ago": 186.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29152,7 +29152,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 180.4,
+          "hours_ago": 186.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29177,7 +29177,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 180.4,
+        "hours_ago": 186.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29314,7 +29314,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 158.9,
+          "hours_ago": 164.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -29328,7 +29328,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 158.9,
+          "hours_ago": 164.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29449,7 +29449,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 110.4,
+          "hours_ago": 116.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29570,7 +29570,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 108.4,
+          "hours_ago": 114.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29595,7 +29595,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 108.4,
+        "hours_ago": 114.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29879,7 +29879,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, NBC Sports CA",
+      "us_broadcast": "NBA League Pass, KTLA, ClipperVision",
       "tv_broadcast": {
         "channel_name": "5SPORT (ערוץ 5)",
         "channel_code": "5SPORT",
@@ -30350,7 +30350,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass",
+      "us_broadcast": "NBA League Pass, DAZN MEM",
       "tv_broadcast": {
         "channel_name": "5SPORT (ערוץ 5)",
         "channel_code": "5SPORT",
@@ -30779,7 +30779,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, NBC Sports CA",
+      "us_broadcast": "NBA League Pass, GCSEN, Pelicans.com",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -30880,7 +30880,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
+      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, DAZN MEM",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -31107,7 +31107,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
+      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -31313,7 +31313,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, DAZN (YES)",
+      "us_broadcast": "NBA League Pass, DAZN (YES), DAZN IND",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -31658,7 +31658,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, KUNP 16",
+      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -31990,7 +31990,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "Spectrum Sports Net, Spectrum Sports Net +, NBC Sports CA",
+      "us_broadcast": "Spectrum Sports Net, Spectrum Sports Net +",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -32747,7 +32747,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -33180,7 +33180,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision, NBC Sports CA",
+      "us_broadcast": "KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -33651,7 +33651,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16",
+      "us_broadcast": "KUNP 16, DAZN MIN, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -33756,7 +33756,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "BlazerVision",
+      "us_broadcast": "BlazerVision, DAZN MIN",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -34084,7 +34084,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision, MyMi",
+      "us_broadcast": "KUNP 16, BlazerVision, MyMi, Bucks App",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -34723,7 +34723,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBCSN",
+      "us_broadcast": "NBCSN, DAZN MIN",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -35173,7 +35173,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports BA, NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -35623,7 +35623,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "BlazerVision",
+      "us_broadcast": "BlazerVision, GCSEN, Pelicans.com",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -35728,7 +35728,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "DAZN MIN",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -35951,7 +35951,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "GCSEN, Pelicans.com",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -36052,7 +36052,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN MIN",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -36380,7 +36380,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -36712,7 +36712,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "GCSEN, Pelicans.com",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -37490,7 +37490,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "GCSEN, Pelicans.com",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -37818,7 +37818,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "WPLG, NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -38394,7 +38394,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "KFAA-TV, MavsTV",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -38844,7 +38844,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass",
+      "us_broadcast": "KJZZ-TV, Jazz+",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -40547,7 +40547,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "BlazerVision",
+      "us_broadcast": "BlazerVision, KFAA-TV, MavsTV",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -40976,7 +40976,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN CHA",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -41081,7 +41081,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "DAZN CHA",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -41859,7 +41859,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass",
+      "us_broadcast": "ClipperVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -41960,7 +41960,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision, NBC Sports CA",
+      "us_broadcast": "KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -42313,7 +42313,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "KJZZ-TV, Jazz+",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -42414,7 +42414,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, WPLG",
+      "us_broadcast": "KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -42725,7 +42725,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "ESPN, DAZN (YES), CHSN",
+      "us_broadcast": "ESPN, DAZN (YES)",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -42847,7 +42847,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "MyMi, Bucks App",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -43175,7 +43175,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "Spectrum Sports Net, NBC Sports CA",
+      "us_broadcast": "Spectrum Sports Net, Spectrum Sports Net +",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -45059,7 +45059,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN CLE",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -45164,7 +45164,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "DAZN MIN",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -45492,7 +45492,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA, Suns Live",
+      "us_broadcast": "Suns Live, Arizona's Family 3TV",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -45593,7 +45593,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -45816,7 +45816,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN MEM",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -46148,7 +46148,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "MyMi",
+      "us_broadcast": "MyMi, Bucks App",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -46249,7 +46249,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, KFAA-TV, MavsTV",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -46577,7 +46577,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass",
+      "us_broadcast": "DAZN IND",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -46905,7 +46905,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -47111,7 +47111,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, GCSEN, Pelicans.com",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -47338,7 +47338,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass",
+      "us_broadcast": "DAZN IND",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -47439,7 +47439,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN IND",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -47544,7 +47544,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass",
+      "us_broadcast": "DAZN CLE",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -47994,7 +47994,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass",
+      "us_broadcast": "DAZN MEM",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -48095,7 +48095,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass",
+      "us_broadcast": "DAZN CHA",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -48196,7 +48196,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, ClipperVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -48751,7 +48751,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN CLE",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -49512,7 +49512,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -49735,7 +49735,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC, NBC Sports BA",
+      "us_broadcast": "NBC",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -49945,7 +49945,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA, NBC Sports BA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -50391,7 +50391,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "ESPN, KUNP 16, BlazerVision",
+      "us_broadcast": "ESPN, KUNP 16, BlazerVision, ClipperVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -50496,7 +50496,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "DAZN CLE",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -51148,7 +51148,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision, WPLG",
+      "us_broadcast": "KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -51375,7 +51375,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -51476,7 +51476,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, NBC Sports BA",
+      "us_broadcast": "KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -51829,7 +51829,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "CHSN, NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -52157,7 +52157,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -52485,7 +52485,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, MyMi, Bucks App",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -52590,7 +52590,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -52935,7 +52935,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -53263,7 +53263,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "DAZN MIN",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -53692,7 +53692,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -53919,7 +53919,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -54470,7 +54470,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "NBA League Pass",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -54571,7 +54571,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, KFAA-TV, MavsTV",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -54903,7 +54903,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass",
+      "us_broadcast": "KFAA-TV, MavsTV",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -55231,7 +55231,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC Sports CA",
+      "us_broadcast": "ClipperVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -55303,7 +55303,7 @@ window.GAMES_DATA = {
     "is_playing": "GTD",
     "detail": "Injured",
     "source": "ESPN / NBA Official Injury Feed",
-    "last_updated": "2026-10-21T14:25:58.004217+00:00"
+    "last_updated": "2026-10-21T20:20:16.463885+00:00"
   },
   "total_games": 84,
   "games": [
@@ -55385,7 +55385,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 324.4,
+        "hours_ago": 330.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55485,7 +55485,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 210.4,
+        "hours_ago": 216.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55585,7 +55585,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 180.4,
+        "hours_ago": 186.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55685,7 +55685,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 108.4,
+        "hours_ago": 114.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55982,7 +55982,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
+      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, DAZN MEM",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -56062,7 +56062,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
+      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -56142,7 +56142,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, KUNP 16",
+      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -56622,7 +56622,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision, NBC Sports CA",
+      "us_broadcast": "KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -56702,7 +56702,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16",
+      "us_broadcast": "KUNP 16, DAZN MIN, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -56782,7 +56782,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "BlazerVision",
+      "us_broadcast": "BlazerVision, DAZN MIN",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -56862,7 +56862,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision, MyMi",
+      "us_broadcast": "KUNP 16, BlazerVision, MyMi, Bucks App",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -57262,7 +57262,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "BlazerVision",
+      "us_broadcast": "BlazerVision, GCSEN, Pelicans.com",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -57342,7 +57342,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN MIN",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -57422,7 +57422,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -58462,7 +58462,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "BlazerVision",
+      "us_broadcast": "BlazerVision, KFAA-TV, MavsTV",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -58542,7 +58542,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN CHA",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -58782,7 +58782,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision, NBC Sports CA",
+      "us_broadcast": "KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -58942,7 +58942,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, WPLG",
+      "us_broadcast": "KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -59582,7 +59582,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN CLE",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -59742,7 +59742,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN MEM",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -59902,7 +59902,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, KFAA-TV, MavsTV",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -60142,7 +60142,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, GCSEN, Pelicans.com",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -60222,7 +60222,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN IND",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -60382,7 +60382,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, ClipperVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -60542,7 +60542,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, DAZN CLE",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -60782,7 +60782,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBC, NBC Sports BA",
+      "us_broadcast": "NBC",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -60942,7 +60942,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "ESPN, KUNP 16, BlazerVision",
+      "us_broadcast": "ESPN, KUNP 16, BlazerVision, ClipperVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -61102,7 +61102,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision, WPLG",
+      "us_broadcast": "KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -61182,7 +61182,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, NBC Sports BA",
+      "us_broadcast": "KUNP 16, BlazerVision",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -61502,7 +61502,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, MyMi, Bucks App",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -61742,7 +61742,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -61822,7 +61822,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, KJZZ-TV, Jazz+",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -61902,7 +61902,7 @@ window.GAMES_DATA = {
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "KUNP 16, BlazerVision",
+      "us_broadcast": "KUNP 16, BlazerVision, KFAA-TV, MavsTV",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
