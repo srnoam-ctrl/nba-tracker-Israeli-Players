@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T17:28:34.476310+03:00",
-  "last_updated_display": "23/10/2026 17:28:34",
+  "last_updated": "2026-10-23T23:18:38.085334+03:00",
+  "last_updated_display": "23/10/2026 23:18:38",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
@@ -175,7 +175,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-23T14:28:43.374786+00:00"
+        "last_updated": "2026-10-23T20:18:47.553158+00:00"
       },
       "total_games": 84,
       "games": [
@@ -257,7 +257,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 372.5,
+            "hours_ago": 378.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -357,7 +357,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 258.5,
+            "hours_ago": 264.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -457,7 +457,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 228.5,
+            "hours_ago": 234.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -557,7 +557,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 156.5,
+            "hours_ago": 162.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -657,7 +657,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 36.5,
+            "hours_ago": 42.3,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -1034,7 +1034,7 @@
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
-          "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
+          "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, ALT2/KTVD",
           "tv_broadcast": {
             "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
             "channel_code": "FUTURE",
@@ -7102,7 +7102,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-23T14:28:43.523766+00:00"
+        "last_updated": "2026-10-23T20:18:47.655211+00:00"
       },
       "total_games": 84,
       "games": [
@@ -7184,7 +7184,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 399.5,
+            "hours_ago": 405.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7284,7 +7284,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 351.0,
+            "hours_ago": 356.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7384,7 +7384,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 255.5,
+            "hours_ago": 261.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7484,7 +7484,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 207.0,
+            "hours_ago": 212.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7574,7 +7574,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 39.0,
+            "hours_ago": 44.8,
             "is_spoiler_period": true,
             "stats": {
               "has_played": false,
@@ -14009,7 +14009,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-23T14:28:43.590999+00:00"
+        "last_updated": "2026-10-23T20:18:47.711562+00:00"
       },
       "total_games": 84,
       "games": [
@@ -14091,7 +14091,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 399.5,
+            "hours_ago": 405.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14191,7 +14191,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 351.0,
+            "hours_ago": 356.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14291,7 +14291,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 255.5,
+            "hours_ago": 261.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14391,7 +14391,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 207.0,
+            "hours_ago": 212.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14491,7 +14491,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 39.0,
+            "hours_ago": 44.8,
             "is_spoiler_period": true,
             "stats": {
               "has_played": false,
@@ -20926,7 +20926,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-23T14:28:43.721962+00:00"
+        "last_updated": "2026-10-23T20:18:47.800082+00:00"
       },
       "total_games": 85,
       "games": [
@@ -20965,7 +20965,7 @@
           "season_type": "קדם עונה (Preseason)",
           "season_type_en": "Preseason",
           "season_type_id": 1,
-          "us_broadcast": "NBA TV, Kings +, Spectrum Sports Net, Spectrum Sports Net +",
+          "us_broadcast": "NBA TV, Kings+, Spectrum Sports Net, Spectrum Sports Net +",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
             "channel_code": "LEAGUE_PASS",
@@ -21008,7 +21008,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 420.5,
+            "hours_ago": 426.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21065,7 +21065,7 @@
           "season_type": "קדם עונה (Preseason)",
           "season_type_en": "Preseason",
           "season_type_id": 1,
-          "us_broadcast": "ESPN2, Spectrum Sports Net, Spectrum Sports Net +, Kings +",
+          "us_broadcast": "ESPN2, Spectrum Sports Net, Spectrum Sports Net +, Kings+",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
             "channel_code": "LEAGUE_PASS",
@@ -21108,7 +21108,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 347.7,
+            "hours_ago": 353.6,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21165,7 +21165,7 @@
           "season_type": "קדם עונה (Preseason)",
           "season_type_en": "Preseason",
           "season_type_id": 1,
-          "us_broadcast": "Kings +",
+          "us_broadcast": "Kings+",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
             "channel_code": "LEAGUE_PASS",
@@ -21208,7 +21208,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 302.0,
+            "hours_ago": 307.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21308,7 +21308,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 228.5,
+            "hours_ago": 234.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21365,7 +21365,7 @@
           "season_type": "קדם עונה (Preseason)",
           "season_type_en": "Preseason",
           "season_type_id": 1,
-          "us_broadcast": "DAZN SAS, Kings +",
+          "us_broadcast": "DAZN SAS, Kings+",
           "tv_broadcast": {
             "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
             "channel_code": "LEAGUE_PASS",
@@ -21408,7 +21408,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 158.5,
+            "hours_ago": 164.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21508,7 +21508,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 36.0,
+            "hours_ago": 41.8,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -27969,7 +27969,7 @@
       "season_type": "קדם עונה (Preseason)",
       "season_type_en": "Preseason",
       "season_type_id": 1,
-      "us_broadcast": "NBA TV, Kings +, Spectrum Sports Net, Spectrum Sports Net +",
+      "us_broadcast": "NBA TV, Kings+, Spectrum Sports Net, Spectrum Sports Net +",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
         "channel_code": "LEAGUE_PASS",
@@ -28032,7 +28032,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 420.5,
+          "hours_ago": 426.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28170,7 +28170,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 399.5,
+          "hours_ago": 405.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28194,7 +28194,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 399.5,
+          "hours_ago": 405.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28315,7 +28315,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 372.5,
+          "hours_ago": 378.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28340,7 +28340,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 372.5,
+        "hours_ago": 378.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -28477,7 +28477,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 351.0,
+          "hours_ago": 356.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28501,7 +28501,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 351.0,
+          "hours_ago": 356.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28559,7 +28559,7 @@
       "season_type": "קדם עונה (Preseason)",
       "season_type_en": "Preseason",
       "season_type_id": 1,
-      "us_broadcast": "ESPN2, Spectrum Sports Net, Spectrum Sports Net +, Kings +",
+      "us_broadcast": "ESPN2, Spectrum Sports Net, Spectrum Sports Net +, Kings+",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
         "channel_code": "LEAGUE_PASS",
@@ -28622,7 +28622,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 347.7,
+          "hours_ago": 353.6,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28680,7 +28680,7 @@
       "season_type": "קדם עונה (Preseason)",
       "season_type_en": "Preseason",
       "season_type_id": 1,
-      "us_broadcast": "Kings +",
+      "us_broadcast": "Kings+",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
         "channel_code": "LEAGUE_PASS",
@@ -28743,7 +28743,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 302.0,
+          "hours_ago": 307.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28864,7 +28864,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 258.5,
+          "hours_ago": 264.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28889,7 +28889,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 258.5,
+        "hours_ago": 264.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29026,7 +29026,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 255.5,
+          "hours_ago": 261.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29050,7 +29050,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 255.5,
+          "hours_ago": 261.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29188,7 +29188,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 228.5,
+          "hours_ago": 234.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29212,7 +29212,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 228.5,
+          "hours_ago": 234.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29237,7 +29237,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 228.5,
+        "hours_ago": 234.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29374,7 +29374,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 207.0,
+          "hours_ago": 212.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -29388,7 +29388,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 207.0,
+          "hours_ago": 212.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29446,7 +29446,7 @@
       "season_type": "קדם עונה (Preseason)",
       "season_type_en": "Preseason",
       "season_type_id": 1,
-      "us_broadcast": "DAZN SAS, Kings +",
+      "us_broadcast": "DAZN SAS, Kings+",
       "tv_broadcast": {
         "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
         "channel_code": "LEAGUE_PASS",
@@ -29509,7 +29509,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 158.5,
+          "hours_ago": 164.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29630,7 +29630,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 156.5,
+          "hours_ago": 162.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29655,7 +29655,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 156.5,
+        "hours_ago": 162.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29792,7 +29792,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 39.0,
+          "hours_ago": 44.8,
           "is_spoiler_period": true,
           "stats": {
             "has_played": false,
@@ -29806,7 +29806,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 39.0,
+          "hours_ago": 44.8,
           "is_spoiler_period": true,
           "stats": {
             "has_played": false,
@@ -29917,7 +29917,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 36.5,
+          "hours_ago": 42.3,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -29942,7 +29942,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 36.5,
+        "hours_ago": 42.3,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -30062,7 +30062,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 36.0,
+          "hours_ago": 41.8,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -31798,7 +31798,7 @@
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
+      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, ALT2/KTVD",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
@@ -55443,7 +55443,7 @@
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-10-23T14:28:43.374786+00:00"
+    "last_updated": "2026-10-23T20:18:47.553158+00:00"
   },
   "total_games": 84,
   "games": [
@@ -55525,7 +55525,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 372.5,
+        "hours_ago": 378.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55625,7 +55625,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 258.5,
+        "hours_ago": 264.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55725,7 +55725,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 228.5,
+        "hours_ago": 234.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55825,7 +55825,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 156.5,
+        "hours_ago": 162.3,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -55925,7 +55925,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 36.5,
+        "hours_ago": 42.3,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -56302,7 +56302,7 @@
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
-      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision",
+      "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, ALT2/KTVD",
       "tv_broadcast": {
         "channel_name": "לוח שידורים טרם נפתח (יעודכן כ-7 ימים לפני המשחק)",
         "channel_code": "FUTURE",
