@@ -185,6 +185,13 @@ class MainActivity : AppCompatActivity() {
         )
     }
 
+    override fun onResume() {
+        super.onResume()
+        if (::webView.isInitialized) {
+            webView.evaluateJavascript("if (typeof loadData === 'function') { loadData(); }", null)
+        }
+    }
+
     @Deprecated("Deprecated in Java")
     override fun onBackPressed() {
         if (webView.canGoBack()) {

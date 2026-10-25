@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-    <script src="../data/games_data.js"></script>
+    <script src="../data/games_data.js?v=20261025"></script>
     <style>
         :root {
             --sport5-red: #D71920;
@@ -2072,24 +2072,36 @@
             renderView();
         }
 
+        let lastSuccessfulSync = Date.now();
+        let isLoadingData = false;
+
         async function loadData() {
-            if (window.GAMES_DATA) {
+            if (isLoadingData) return;
+            isLoadingData = true;
+
+            if (window.GAMES_DATA && !appData) {
                 applyData(window.GAMES_DATA);
             }
 
             try {
-                const res = await fetch('../data/games.json?t=' + Date.now(), { cache: 'no-store' });
+                const timestamp = Date.now();
+                const res = await fetch(`../data/games.json?t=${timestamp}`);
                 if (res.ok) {
                     const data = await res.json();
                     applyData(data);
-                } else if (!window.GAMES_DATA) {
-                    throw new Error("Could not load data/games.json");
+                    lastSuccessfulSync = Date.now();
+                } else if (!appData && window.GAMES_DATA) {
+                    applyData(window.GAMES_DATA);
                 }
             } catch (err) {
                 console.warn("Live fetch fallback:", err);
-                if (!window.GAMES_DATA) {
+                if (!appData && window.GAMES_DATA) {
+                    applyData(window.GAMES_DATA);
+                } else if (!appData) {
                     document.getElementById('gamesCount').textContent = 'שגיאה בטעינת הנתונים. אנא רענן שנית.';
                 }
+            } finally {
+                isLoadingData = false;
             }
         }
 
@@ -2767,7 +2779,16 @@
             const upcoming = filtered.filter(g => !g.is_completed).sort((a, b) => new Date(a.utc_date) - new Date(b.utc_date));
             const past = filtered.filter(g => g.is_completed).sort((a, b) => new Date(b.utc_date) - new Date(a.utc_date));
 
-            document.getElementById('gamesCount').textContent = `מציג ${filtered.length} משחקים (${upcoming.length} קרובים, ${past.length} הסתיימו)`;
+            const totalUpcomingCount = games.filter(g => !g.is_completed).length;
+            const totalPastCount = games.filter(g => g.is_completed).length;
+
+            if (currentFilter === 'upcoming') {
+                document.getElementById('gamesCount').textContent = `מציג ${upcoming.length} משחקים קרובים (${totalPastCount} הסתיימו)`;
+            } else if (currentFilter === 'completed') {
+                document.getElementById('gamesCount').textContent = `מציג ${past.length} משחקים שהסתיימו (${totalUpcomingCount} קרובים)`;
+            } else {
+                document.getElementById('gamesCount').textContent = `מציג ${filtered.length} משחקים (${upcoming.length} קרובים, ${past.length} הסתיימו)`;
+            }
 
             if (filtered.length === 0) {
                 spotlightSection.style.display = 'none';
@@ -2971,13 +2992,37 @@
             }
         }
 
+        // Auto-refresh when user resumes the app or returns to tab
+        document.addEventListener('visibilitychange', () => {
+            if (document.visibilityState === 'visible') {
+                if (Date.now() - lastSuccessfulSync > 2 * 60 * 1000) {
+                    loadData();
+                }
+            }
+        });
+
+        window.addEventListener('focus', () => {
+            if (Date.now() - lastSuccessfulSync > 2 * 60 * 1000) {
+                loadData();
+            }
+        });
+
+        // Periodic background poll every 5 minutes while active
+        setInterval(() => {
+            if (document.visibilityState === 'visible') {
+                loadData();
+            }
+        }, 5 * 60 * 1000);
+
         // Initialize on page load
         loadData();
 
         // Register Service Worker for PWA (Android / mobile install)
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('sw.js').catch(() => {});
+                navigator.serviceWorker.register('sw.js').then((reg) => {
+                    reg.update().catch(() => {});
+                }).catch(() => {});
             });
         }
     </script>
