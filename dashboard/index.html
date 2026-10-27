@@ -1968,7 +1968,7 @@
                         <div>
                             <div class="accordion-main-title">
                                 <span>תוצאות ומשחקים שהסתיימו</span>
-                                <span class="accordion-count-badge" id="pastCountBadge">0 משחקים</span>
+                                <span class="accordion-count-badge" id="pastCountBadge"></span>
                             </div>
                             <div class="accordion-sub-title" id="pastAccordionSub">לחץ להרחבת היסטוריית התוצאות והסטטיסטיקות (מוגן בספוילר)</div>
                         </div>
@@ -2035,6 +2035,7 @@
         let currentFilter = 'upcoming'; // 'upcoming' (default), 'broadcast', 'all', 'completed', 'home', 'away'
         let isPastExpanded = false; // Collapsed by default to prevent scroll fatigue
         let isPastAllExpanded = false;
+        let isUpcomingExpanded = false;
         const _initialDate = new Date();
         let calendarYear = _initialDate.getFullYear();
         let calendarMonth = _initialDate.getMonth(); // 0-indexed
@@ -2760,24 +2761,25 @@
             upcomingGrid.innerHTML = '';
             pastGrid.innerHTML = '';
 
-            // Apply quick filters
-            const filtered = games.filter(g => {
-                if (currentFilter === 'broadcast') {
-                    return g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST';
-                }
-                if (currentFilter === 'free_tv') {
-                    return g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST' && g.tv_broadcast.is_free_tier === true;
-                }
-                if (currentFilter === 'home') return g.is_home === true;
-                if (currentFilter === 'away') return g.is_home === false;
-                if (currentFilter === 'upcoming') return !g.is_completed;
-                if (currentFilter === 'completed') return g.is_completed;
-                return true;
-            });
+            // Partition into upcoming and past
+            let upcoming = games.filter(g => !g.is_completed).sort((a, b) => new Date(a.utc_date) - new Date(b.utc_date));
+            let past = games.filter(g => g.is_completed).sort((a, b) => new Date(b.utc_date) - new Date(a.utc_date));
 
-            // Split into upcoming and past
-            const upcoming = filtered.filter(g => !g.is_completed).sort((a, b) => new Date(a.utc_date) - new Date(b.utc_date));
-            const past = filtered.filter(g => g.is_completed).sort((a, b) => new Date(b.utc_date) - new Date(a.utc_date));
+            if (currentFilter === 'broadcast') {
+                upcoming = upcoming.filter(g => g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST');
+                past = past.filter(g => g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST');
+            } else if (currentFilter === 'free_tv') {
+                upcoming = upcoming.filter(g => g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST' && g.tv_broadcast.is_free_tier === true);
+                past = past.filter(g => g.tv_broadcast && g.tv_broadcast.status === 'CONFIRMED_BROADCAST' && g.tv_broadcast.is_free_tier === true);
+            } else if (currentFilter === 'home') {
+                upcoming = upcoming.filter(g => g.is_home === true);
+                past = past.filter(g => g.is_home === true);
+            } else if (currentFilter === 'away') {
+                upcoming = upcoming.filter(g => g.is_home === false);
+                past = past.filter(g => g.is_home === false);
+            } else if (currentFilter === 'completed') {
+                upcoming = [];
+            }
 
             const totalUpcomingCount = games.filter(g => !g.is_completed).length;
             const totalPastCount = games.filter(g => g.is_completed).length;
@@ -2787,10 +2789,10 @@
             } else if (currentFilter === 'completed') {
                 document.getElementById('gamesCount').textContent = `מציג ${past.length} משחקים שהסתיימו (${totalUpcomingCount} קרובים)`;
             } else {
-                document.getElementById('gamesCount').textContent = `מציג ${filtered.length} משחקים (${upcoming.length} קרובים, ${past.length} הסתיימו)`;
+                document.getElementById('gamesCount').textContent = `מציג ${upcoming.length + past.length} משחקים (${upcoming.length} קרובים, ${past.length} הסתיימו)`;
             }
 
-            if (filtered.length === 0) {
+            if (upcoming.length === 0 && past.length === 0) {
                 spotlightSection.style.display = 'none';
                 upcomingSection.style.display = 'block';
                 pastSection.style.display = 'none';
@@ -2841,9 +2843,7 @@
             }
 
             // 3. Collapsible Past Section
-            if (currentFilter === 'upcoming') {
-                pastSection.style.display = 'none';
-            } else if (past.length === 0) {
+            if (past.length === 0) {
                 pastSection.style.display = 'none';
             } else {
                 pastSection.style.display = 'block';
