@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T12:37:36.952548+02:00",
-  "last_updated_display": "30/10/2026 12:37:36",
+  "last_updated": "2026-10-30T16:45:00.236499+02:00",
+  "last_updated_display": "30/10/2026 16:45:00",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
@@ -175,7 +175,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-30T10:37:44.808775+00:00"
+        "last_updated": "2026-10-30T14:45:08.249094+00:00"
       },
       "total_games": 84,
       "games": [
@@ -257,7 +257,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 536.6,
+            "hours_ago": 540.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -357,7 +357,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 422.6,
+            "hours_ago": 426.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -457,7 +457,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 392.6,
+            "hours_ago": 396.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -557,7 +557,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 320.6,
+            "hours_ago": 324.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -657,7 +657,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 200.6,
+            "hours_ago": 204.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -757,7 +757,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 152.6,
+            "hours_ago": 156.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -857,7 +857,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 55.6,
+            "hours_ago": 59.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -916,16 +916,16 @@
           "season_type_id": 2,
           "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, DAZN MEM",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "channel_code": "5SPORT",
-            "channel_number": "אפיק 55",
+            "channel_name": "5PLUS (ערוץ 5 פלוס)",
+            "channel_code": "5PLUS",
+            "channel_number": "אפיק 56",
             "is_free_tier": true,
-            "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-            "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+            "tier_name": "ערוץ פתוח בסיסי (בחבילת הבסיס)",
+            "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 56)",
             "tier_type": "FREE",
             "is_live": true,
-            "broadcast_title": "מעקבדיה: פורטלנד - ממפיס (מוקלט)",
-            "broadcast_time": "12:00",
+            "broadcast_title": "NBA: יוטה - פורטלנד, עונה סדירה",
+            "broadcast_time": "21:00",
             "status": "CONFIRMED_BROADCAST",
             "badge": "שידור חי בערוץ הספורט"
           },
@@ -957,7 +957,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 8.6,
+            "hours_ago": 12.8,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -7162,7 +7162,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-30T10:37:44.896270+00:00"
+        "last_updated": "2026-10-30T14:45:08.340062+00:00"
       },
       "total_games": 84,
       "games": [
@@ -7244,7 +7244,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 563.6,
+            "hours_ago": 567.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7344,7 +7344,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 515.1,
+            "hours_ago": 519.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7444,7 +7444,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 419.6,
+            "hours_ago": 423.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7544,7 +7544,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 371.1,
+            "hours_ago": 375.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7634,7 +7634,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 203.1,
+            "hours_ago": 207.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7724,7 +7724,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 131.1,
+            "hours_ago": 135.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7814,7 +7814,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 108.6,
+            "hours_ago": 112.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14099,7 +14099,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-30T10:37:44.949879+00:00"
+        "last_updated": "2026-10-30T14:45:08.438960+00:00"
       },
       "total_games": 84,
       "games": [
@@ -14181,7 +14181,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 563.6,
+            "hours_ago": 567.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14281,7 +14281,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 515.1,
+            "hours_ago": 519.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14381,7 +14381,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 419.6,
+            "hours_ago": 423.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14481,7 +14481,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 371.1,
+            "hours_ago": 375.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14581,7 +14581,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 203.1,
+            "hours_ago": 207.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -14671,7 +14671,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 131.1,
+            "hours_ago": 135.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -14761,7 +14761,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 108.6,
+            "hours_ago": 112.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14861,7 +14861,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 59.1,
+            "hours_ago": 63.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -21056,7 +21056,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-10-30T10:37:45.100906+00:00"
+        "last_updated": "2026-10-30T14:45:08.522336+00:00"
       },
       "total_games": 85,
       "games": [
@@ -21138,7 +21138,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 584.6,
+            "hours_ago": 588.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21238,7 +21238,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 511.9,
+            "hours_ago": 516.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21338,7 +21338,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 466.1,
+            "hours_ago": 470.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21438,7 +21438,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 392.6,
+            "hours_ago": 396.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21538,7 +21538,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 322.6,
+            "hours_ago": 326.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21638,7 +21638,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 200.1,
+            "hours_ago": 204.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21738,7 +21738,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 152.6,
+            "hours_ago": 156.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21838,7 +21838,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 105.6,
+            "hours_ago": 109.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21938,7 +21938,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 58.6,
+            "hours_ago": 62.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22038,7 +22038,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 10.6,
+            "hours_ago": 14.8,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -28242,7 +28242,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 584.6,
+          "hours_ago": 588.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28380,7 +28380,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 563.6,
+          "hours_ago": 567.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28404,7 +28404,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 563.6,
+          "hours_ago": 567.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28525,7 +28525,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 536.6,
+          "hours_ago": 540.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28550,7 +28550,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 536.6,
+        "hours_ago": 540.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -28687,7 +28687,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 515.1,
+          "hours_ago": 519.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28711,7 +28711,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 515.1,
+          "hours_ago": 519.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28832,7 +28832,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 511.9,
+          "hours_ago": 516.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28953,7 +28953,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 466.1,
+          "hours_ago": 470.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29074,7 +29074,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 422.6,
+          "hours_ago": 426.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29099,7 +29099,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 422.6,
+        "hours_ago": 426.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29236,7 +29236,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 419.6,
+          "hours_ago": 423.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29260,7 +29260,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 419.6,
+          "hours_ago": 423.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29398,7 +29398,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 392.6,
+          "hours_ago": 396.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29422,7 +29422,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 392.6,
+          "hours_ago": 396.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29447,7 +29447,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 392.6,
+        "hours_ago": 396.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29584,7 +29584,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 371.1,
+          "hours_ago": 375.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -29598,7 +29598,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 371.1,
+          "hours_ago": 375.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29719,7 +29719,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 322.6,
+          "hours_ago": 326.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29840,7 +29840,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 320.6,
+          "hours_ago": 324.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29865,7 +29865,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 320.6,
+        "hours_ago": 324.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30002,7 +30002,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 203.1,
+          "hours_ago": 207.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30016,7 +30016,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 203.1,
+          "hours_ago": 207.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30127,7 +30127,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 200.6,
+          "hours_ago": 204.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30152,7 +30152,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 200.6,
+        "hours_ago": 204.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30272,7 +30272,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 200.1,
+          "hours_ago": 204.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30410,7 +30410,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 152.6,
+          "hours_ago": 156.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30434,7 +30434,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 152.6,
+          "hours_ago": 156.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30459,7 +30459,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 152.6,
+        "hours_ago": 156.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30596,7 +30596,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 131.1,
+          "hours_ago": 135.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30610,7 +30610,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 131.1,
+          "hours_ago": 135.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30738,7 +30738,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 108.6,
+          "hours_ago": 112.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30762,7 +30762,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 108.6,
+          "hours_ago": 112.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30883,7 +30883,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 105.6,
+          "hours_ago": 109.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31025,7 +31025,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 59.1,
+          "hours_ago": 63.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -31136,7 +31136,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 58.6,
+          "hours_ago": 62.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31257,7 +31257,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 55.6,
+          "hours_ago": 59.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31282,7 +31282,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 55.6,
+        "hours_ago": 59.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -31402,7 +31402,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 10.6,
+          "hours_ago": 14.8,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -31462,16 +31462,16 @@
       "season_type_id": 2,
       "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, DAZN MEM",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "channel_code": "5SPORT",
-        "channel_number": "אפיק 55",
+        "channel_name": "5PLUS (ערוץ 5 פלוס)",
+        "channel_code": "5PLUS",
+        "channel_number": "אפיק 56",
         "is_free_tier": true,
-        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+        "tier_name": "ערוץ פתוח בסיסי (בחבילת הבסיס)",
+        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 56)",
         "tier_type": "FREE",
         "is_live": true,
-        "broadcast_title": "מעקבדיה: פורטלנד - ממפיס (מוקלט)",
-        "broadcast_time": "12:00",
+        "broadcast_title": "NBA: יוטה - פורטלנד, עונה סדירה",
+        "broadcast_time": "21:00",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
@@ -31523,7 +31523,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 8.6,
+          "hours_ago": 12.8,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -31548,7 +31548,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 8.6,
+        "hours_ago": 12.8,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -55923,7 +55923,7 @@
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-10-30T10:37:44.808775+00:00"
+    "last_updated": "2026-10-30T14:45:08.249094+00:00"
   },
   "total_games": 84,
   "games": [
@@ -56005,7 +56005,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 536.6,
+        "hours_ago": 540.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56105,7 +56105,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 422.6,
+        "hours_ago": 426.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56205,7 +56205,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 392.6,
+        "hours_ago": 396.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56305,7 +56305,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 320.6,
+        "hours_ago": 324.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56405,7 +56405,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 200.6,
+        "hours_ago": 204.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56505,7 +56505,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 152.6,
+        "hours_ago": 156.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56605,7 +56605,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 55.6,
+        "hours_ago": 59.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56664,16 +56664,16 @@
       "season_type_id": 2,
       "us_broadcast": "NBA League Pass, KUNP 16, BlazerVision, DAZN MEM",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "channel_code": "5SPORT",
-        "channel_number": "אפיק 55",
+        "channel_name": "5PLUS (ערוץ 5 פלוס)",
+        "channel_code": "5PLUS",
+        "channel_number": "אפיק 56",
         "is_free_tier": true,
-        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+        "tier_name": "ערוץ פתוח בסיסי (בחבילת הבסיס)",
+        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 56)",
         "tier_type": "FREE",
         "is_live": true,
-        "broadcast_title": "מעקבדיה: פורטלנד - ממפיס (מוקלט)",
-        "broadcast_time": "12:00",
+        "broadcast_title": "NBA: יוטה - פורטלנד, עונה סדירה",
+        "broadcast_time": "21:00",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
@@ -56705,7 +56705,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 8.6,
+        "hours_ago": 12.8,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
