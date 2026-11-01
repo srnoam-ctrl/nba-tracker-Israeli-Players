@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-    <script src="../data/games_data.js?v=20261025"></script>
+    <script src="../data/games_data.js"></script>
     <style>
         :root {
             --sport5-red: #D71920;
@@ -2086,7 +2086,7 @@
 
             try {
                 const timestamp = Date.now();
-                const res = await fetch(`../data/games.json?t=${timestamp}`);
+                const res = await fetch(`../data/games.json?t=${timestamp}`, { cache: 'no-store' });
                 if (res.ok) {
                     const data = await res.json();
                     applyData(data);

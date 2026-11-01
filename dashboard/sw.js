@@ -1,5 +1,5 @@
 // Service Worker for NBA Israelis Tracker PWA
-const CACHE_NAME = 'nba-israelis-v2';
+const CACHE_NAME = 'nba-israelis-v3';
 const ASSETS_TO_CACHE = [
   './index.html',
   './favicon.svg',
@@ -29,9 +29,11 @@ self.addEventListener('fetch', (event) => {
   const url = event.request.url;
 
   // CRITICAL: Dynamic data files (games.json, games_data.js) MUST NEVER be cached by Service Worker!
-  // Always fetch fresh from network directly to ensure live boxscores, game statuses and broadcasts.
+  // Always fetch fresh from network directly with no-store to ensure live boxscores, game statuses and broadcasts.
   if (url.includes('/data/') || url.includes('.json') || url.includes('games_data.js')) {
-    event.respondWith(fetch(event.request));
+    event.respondWith(
+      fetch(event.request, { cache: 'no-store' }).catch(() => caches.match(event.request))
+    );
     return;
   }
 

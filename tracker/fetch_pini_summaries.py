@@ -111,6 +111,7 @@ def fetch_pini_recent_videos():
         "Referer": "https://www.youtube.com/"
     }
 
+    fetched_videos = []
     try:
         resp = requests.get(RSS_URL, headers=headers, timeout=15)
         if resp.status_code == 200:
