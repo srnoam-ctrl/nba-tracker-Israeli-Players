@@ -1,6 +1,6 @@
 window.GAMES_DATA = {
-  "last_updated": "2026-11-01T22:23:23.101198+02:00",
-  "last_updated_display": "01/11/2026 22:23:23",
+  "last_updated": "2026-11-02T05:43:10.982414+02:00",
+  "last_updated_display": "02/11/2026 05:43:10",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
@@ -283,7 +283,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-01T20:23:34.354305+00:00"
+        "last_updated": "2026-11-02T03:43:17.273150+00:00"
       },
       "total_games": 84,
       "games": [
@@ -365,7 +365,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 594.4,
+            "hours_ago": 601.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -465,7 +465,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 480.4,
+            "hours_ago": 487.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -565,7 +565,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 450.4,
+            "hours_ago": 457.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -665,7 +665,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 378.4,
+            "hours_ago": 385.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -765,7 +765,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 258.4,
+            "hours_ago": 265.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -865,7 +865,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 210.4,
+            "hours_ago": 217.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -965,7 +965,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 113.4,
+            "hours_ago": 120.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1065,7 +1065,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 66.4,
+            "hours_ago": 73.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1165,7 +1165,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 25.4,
+            "hours_ago": 32.7,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -7290,7 +7290,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-01T20:23:34.531053+00:00"
+        "last_updated": "2026-11-02T03:43:17.404246+00:00"
       },
       "total_games": 84,
       "games": [
@@ -7372,7 +7372,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 621.4,
+            "hours_ago": 628.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7472,7 +7472,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 572.9,
+            "hours_ago": 580.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7572,7 +7572,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 477.4,
+            "hours_ago": 484.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7672,7 +7672,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 428.9,
+            "hours_ago": 436.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7762,7 +7762,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 260.9,
+            "hours_ago": 268.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7852,7 +7852,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 188.9,
+            "hours_ago": 196.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7942,7 +7942,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 166.4,
+            "hours_ago": 173.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -8153,24 +8153,24 @@ window.GAMES_DATA = {
             "abbrev": "BKN",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Sun, November 1st at 5:00 PM EST",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
           "us_broadcast": "NBA League Pass, DAZN (YES), DAZN IND",
           "tv_broadcast": {
-            "channel_name": "5LIVE (ערוץ 5 לייב)",
-            "channel_code": "5LIVE",
-            "channel_number": "אפיק 58",
+            "channel_name": "5STARS (ערוץ 5 כוכבים)",
+            "channel_code": "5STARS",
+            "channel_number": "אפיק 59",
             "is_free_tier": false,
             "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-            "tier_badge": "🔒 ערוץ בתשלום (אפיק 58)",
+            "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
             "tier_type": "PAID",
             "is_live": true,
-            "broadcast_title": "NBA: אינדיאנה  - ברוקלין , עונה סדירה",
-            "broadcast_time": "00:00",
+            "broadcast_title": "NBA: ניו יורק ניקס - ברוקלין , עונה סדירה",
+            "broadcast_time": "02:30",
             "status": "CONFIRMED_BROADCAST",
             "badge": "שידור חי בערוץ הספורט"
           },
@@ -8201,7 +8201,7 @@ window.GAMES_DATA = {
           },
           "player_boxscore": {
             "available": false,
-            "is_completed": false
+            "is_completed": true
           }
         },
         {
@@ -14126,27 +14126,27 @@ window.GAMES_DATA = {
         }
       ],
       "next_game": {
-        "id": "401909904",
-        "name": "Brooklyn Nets at Indiana Pacers",
-        "short_name": "BKN @ IND",
-        "utc_date": "2026-11-01T22:00Z",
-        "date_il": "2026-11-02",
-        "time_il": "00:00",
-        "display_datetime_il": "02/11/2026 00:00",
-        "day_name_en": "Monday",
-        "day_name_he": "יום שני",
+        "id": "401909910",
+        "name": "Brooklyn Nets at New York Knicks",
+        "short_name": "BKN @ NY",
+        "utc_date": "2026-11-03T00:30Z",
+        "date_il": "2026-11-03",
+        "time_il": "02:30",
+        "display_datetime_il": "03/11/2026 02:30",
+        "day_name_en": "Tuesday",
+        "day_name_he": "יום שלישי",
         "is_home": false,
         "opponent": {
-          "id": "11",
-          "name": "Indiana Pacers",
-          "abbrev": "IND",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+          "id": "18",
+          "name": "New York Knicks",
+          "abbrev": "NY",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png"
         },
         "home_team": {
-          "id": "11",
-          "name": "Indiana Pacers",
-          "abbrev": "IND",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+          "id": "18",
+          "name": "New York Knicks",
+          "abbrev": "NY",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png"
         },
         "away_team": {
           "id": "17",
@@ -14155,23 +14155,23 @@ window.GAMES_DATA = {
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
         },
         "status": "Scheduled",
-        "status_detail": "Sun, November 1st at 5:00 PM EST",
+        "status_detail": "Mon, November 2nd at 7:30 PM EST",
         "is_completed": false,
         "season_type": "עונה סדירה (Regular Season)",
         "season_type_en": "Regular Season",
         "season_type_id": 2,
-        "us_broadcast": "NBA League Pass, DAZN (YES), DAZN IND",
+        "us_broadcast": "NBA League Pass, DAZN (YES)",
         "tv_broadcast": {
-          "channel_name": "5LIVE (ערוץ 5 לייב)",
-          "channel_code": "5LIVE",
-          "channel_number": "אפיק 58",
+          "channel_name": "5STARS (ערוץ 5 כוכבים)",
+          "channel_code": "5STARS",
+          "channel_number": "אפיק 59",
           "is_free_tier": false,
           "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-          "tier_badge": "🔒 ערוץ בתשלום (אפיק 58)",
+          "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
           "tier_type": "PAID",
           "is_live": true,
-          "broadcast_title": "NBA: אינדיאנה  - ברוקלין , עונה סדירה",
-          "broadcast_time": "00:00",
+          "broadcast_title": "NBA: ניו יורק ניקס - ברוקלין , עונה סדירה",
+          "broadcast_time": "02:30",
           "status": "CONFIRMED_BROADCAST",
           "badge": "שידור חי בערוץ הספורט"
         },
@@ -14227,7 +14227,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-01T20:23:34.676432+00:00"
+        "last_updated": "2026-11-02T03:43:17.487370+00:00"
       },
       "total_games": 84,
       "games": [
@@ -14309,7 +14309,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 621.4,
+            "hours_ago": 628.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14409,7 +14409,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 572.9,
+            "hours_ago": 580.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14509,7 +14509,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 477.4,
+            "hours_ago": 484.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14609,7 +14609,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 428.9,
+            "hours_ago": 436.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14709,7 +14709,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 260.9,
+            "hours_ago": 268.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -14799,7 +14799,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 188.9,
+            "hours_ago": 196.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -14889,7 +14889,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 166.4,
+            "hours_ago": 173.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14989,7 +14989,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 116.9,
+            "hours_ago": 124.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15079,8 +15079,8 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 44.9,
-            "is_spoiler_period": true,
+            "hours_ago": 52.2,
+            "is_spoiler_period": false,
             "stats": {
               "has_played": true,
               "minutes": "12",
@@ -15130,24 +15130,24 @@ window.GAMES_DATA = {
             "abbrev": "BKN",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Sun, November 1st at 5:00 PM EST",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
           "us_broadcast": "NBA League Pass, DAZN (YES), DAZN IND",
           "tv_broadcast": {
-            "channel_name": "5LIVE (ערוץ 5 לייב)",
-            "channel_code": "5LIVE",
-            "channel_number": "אפיק 58",
+            "channel_name": "5STARS (ערוץ 5 כוכבים)",
+            "channel_code": "5STARS",
+            "channel_number": "אפיק 59",
             "is_free_tier": false,
             "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-            "tier_badge": "🔒 ערוץ בתשלום (אפיק 58)",
+            "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
             "tier_type": "PAID",
             "is_live": true,
-            "broadcast_title": "NBA: אינדיאנה  - ברוקלין , עונה סדירה",
-            "broadcast_time": "00:00",
+            "broadcast_title": "NBA: ניו יורק ניקס - ברוקלין , עונה סדירה",
+            "broadcast_time": "02:30",
             "status": "CONFIRMED_BROADCAST",
             "badge": "שידור חי בערוץ הספורט"
           },
@@ -15177,8 +15177,18 @@ window.GAMES_DATA = {
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 5.7,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": false,
+              "dnp_reason": "COACH'S DECISION",
+              "final_scores": {
+                "IND": "90",
+                "BKN": "98"
+              }
+            }
           }
         },
         {
@@ -21103,27 +21113,27 @@ window.GAMES_DATA = {
         }
       ],
       "next_game": {
-        "id": "401909904",
-        "name": "Brooklyn Nets at Indiana Pacers",
-        "short_name": "BKN @ IND",
-        "utc_date": "2026-11-01T22:00Z",
-        "date_il": "2026-11-02",
-        "time_il": "00:00",
-        "display_datetime_il": "02/11/2026 00:00",
-        "day_name_en": "Monday",
-        "day_name_he": "יום שני",
+        "id": "401909910",
+        "name": "Brooklyn Nets at New York Knicks",
+        "short_name": "BKN @ NY",
+        "utc_date": "2026-11-03T00:30Z",
+        "date_il": "2026-11-03",
+        "time_il": "02:30",
+        "display_datetime_il": "03/11/2026 02:30",
+        "day_name_en": "Tuesday",
+        "day_name_he": "יום שלישי",
         "is_home": false,
         "opponent": {
-          "id": "11",
-          "name": "Indiana Pacers",
-          "abbrev": "IND",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+          "id": "18",
+          "name": "New York Knicks",
+          "abbrev": "NY",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png"
         },
         "home_team": {
-          "id": "11",
-          "name": "Indiana Pacers",
-          "abbrev": "IND",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+          "id": "18",
+          "name": "New York Knicks",
+          "abbrev": "NY",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png"
         },
         "away_team": {
           "id": "17",
@@ -21132,23 +21142,23 @@ window.GAMES_DATA = {
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
         },
         "status": "Scheduled",
-        "status_detail": "Sun, November 1st at 5:00 PM EST",
+        "status_detail": "Mon, November 2nd at 7:30 PM EST",
         "is_completed": false,
         "season_type": "עונה סדירה (Regular Season)",
         "season_type_en": "Regular Season",
         "season_type_id": 2,
-        "us_broadcast": "NBA League Pass, DAZN (YES), DAZN IND",
+        "us_broadcast": "NBA League Pass, DAZN (YES)",
         "tv_broadcast": {
-          "channel_name": "5LIVE (ערוץ 5 לייב)",
-          "channel_code": "5LIVE",
-          "channel_number": "אפיק 58",
+          "channel_name": "5STARS (ערוץ 5 כוכבים)",
+          "channel_code": "5STARS",
+          "channel_number": "אפיק 59",
           "is_free_tier": false,
           "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-          "tier_badge": "🔒 ערוץ בתשלום (אפיק 58)",
+          "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
           "tier_type": "PAID",
           "is_live": true,
-          "broadcast_title": "NBA: אינדיאנה  - ברוקלין , עונה סדירה",
-          "broadcast_time": "00:00",
+          "broadcast_title": "NBA: ניו יורק ניקס - ברוקלין , עונה סדירה",
+          "broadcast_time": "02:30",
           "status": "CONFIRMED_BROADCAST",
           "badge": "שידור חי בערוץ הספורט"
         },
@@ -21204,7 +21214,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-01T20:23:34.969527+00:00"
+        "last_updated": "2026-11-02T03:43:17.578587+00:00"
       },
       "total_games": 85,
       "games": [
@@ -21286,7 +21296,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 642.4,
+            "hours_ago": 649.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21386,7 +21396,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 569.6,
+            "hours_ago": 577.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21486,7 +21496,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 523.9,
+            "hours_ago": 531.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21586,7 +21596,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 450.4,
+            "hours_ago": 457.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21686,7 +21696,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 380.4,
+            "hours_ago": 387.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21786,7 +21796,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 257.9,
+            "hours_ago": 265.2,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21886,7 +21896,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 210.4,
+            "hours_ago": 217.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21986,7 +21996,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 163.4,
+            "hours_ago": 170.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22086,7 +22096,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 116.4,
+            "hours_ago": 123.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22186,7 +22196,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 68.4,
+            "hours_ago": 75.7,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22286,7 +22296,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 20.4,
+            "hours_ago": 27.7,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -28410,7 +28420,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 642.4,
+          "hours_ago": 649.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28548,7 +28558,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 621.4,
+          "hours_ago": 628.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28572,7 +28582,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 621.4,
+          "hours_ago": 628.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28693,7 +28703,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 594.4,
+          "hours_ago": 601.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28718,7 +28728,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 594.4,
+        "hours_ago": 601.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -28855,7 +28865,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 572.9,
+          "hours_ago": 580.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28879,7 +28889,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 572.9,
+          "hours_ago": 580.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29000,7 +29010,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 569.6,
+          "hours_ago": 577.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29121,7 +29131,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 523.9,
+          "hours_ago": 531.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29242,7 +29252,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 480.4,
+          "hours_ago": 487.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29267,7 +29277,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 480.4,
+        "hours_ago": 487.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29404,7 +29414,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 477.4,
+          "hours_ago": 484.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29428,7 +29438,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 477.4,
+          "hours_ago": 484.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29566,7 +29576,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 450.4,
+          "hours_ago": 457.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29590,7 +29600,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 450.4,
+          "hours_ago": 457.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29615,7 +29625,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 450.4,
+        "hours_ago": 457.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29752,7 +29762,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 428.9,
+          "hours_ago": 436.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -29766,7 +29776,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 428.9,
+          "hours_ago": 436.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29887,7 +29897,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 380.4,
+          "hours_ago": 387.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30008,7 +30018,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 378.4,
+          "hours_ago": 385.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30033,7 +30043,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 378.4,
+        "hours_ago": 385.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30170,7 +30180,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 260.9,
+          "hours_ago": 268.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30184,7 +30194,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 260.9,
+          "hours_ago": 268.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30295,7 +30305,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 258.4,
+          "hours_ago": 265.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30320,7 +30330,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 258.4,
+        "hours_ago": 265.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30440,7 +30450,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 257.9,
+          "hours_ago": 265.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30578,7 +30588,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 210.4,
+          "hours_ago": 217.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30602,7 +30612,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 210.4,
+          "hours_ago": 217.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30627,7 +30637,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 210.4,
+        "hours_ago": 217.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30764,7 +30774,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 188.9,
+          "hours_ago": 196.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30778,7 +30788,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 188.9,
+          "hours_ago": 196.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30906,7 +30916,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 166.4,
+          "hours_ago": 173.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30930,7 +30940,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 166.4,
+          "hours_ago": 173.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31051,7 +31061,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 163.4,
+          "hours_ago": 170.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31193,7 +31203,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 116.9,
+          "hours_ago": 124.2,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -31304,7 +31314,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 116.4,
+          "hours_ago": 123.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31425,7 +31435,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 113.4,
+          "hours_ago": 120.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31450,7 +31460,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 113.4,
+        "hours_ago": 120.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -31570,7 +31580,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 68.4,
+          "hours_ago": 75.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31691,7 +31701,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 66.4,
+          "hours_ago": 73.7,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31716,7 +31726,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 66.4,
+        "hours_ago": 73.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -31857,8 +31867,8 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 44.9,
-          "is_spoiler_period": true,
+          "hours_ago": 52.2,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "12",
@@ -31978,7 +31988,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 25.4,
+          "hours_ago": 32.7,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -32003,7 +32013,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 25.4,
+        "hours_ago": 32.7,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -32123,7 +32133,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 20.4,
+          "hours_ago": 27.7,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -32175,24 +32185,24 @@ window.GAMES_DATA = {
         "abbrev": "BKN",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Sun, November 1st at 5:00 PM EST",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
       "us_broadcast": "NBA League Pass, DAZN (YES), DAZN IND",
       "tv_broadcast": {
-        "channel_name": "5LIVE (ערוץ 5 לייב)",
-        "channel_code": "5LIVE",
-        "channel_number": "אפיק 58",
+        "channel_name": "5STARS (ערוץ 5 כוכבים)",
+        "channel_code": "5STARS",
+        "channel_number": "אפיק 59",
         "is_free_tier": false,
         "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-        "tier_badge": "🔒 ערוץ בתשלום (אפיק 58)",
+        "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
         "tier_type": "PAID",
         "is_live": true,
-        "broadcast_title": "NBA: אינדיאנה  - ברוקלין , עונה סדירה",
-        "broadcast_time": "00:00",
+        "broadcast_title": "NBA: ניו יורק ניקס - ברוקלין , עונה סדירה",
+        "broadcast_time": "02:30",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
@@ -32260,11 +32270,21 @@ window.GAMES_DATA = {
       "player_boxscores": {
         "ben_saraf": {
           "available": false,
-          "is_completed": false
+          "is_completed": true
         },
         "danny_wolf": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 5.7,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": false,
+            "dnp_reason": "COACH'S DECISION",
+            "final_scores": {
+              "IND": "90",
+              "BKN": "98"
+            }
+          }
         }
       }
     },
@@ -56171,7 +56191,7 @@ window.GAMES_DATA = {
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-11-01T20:23:34.354305+00:00"
+    "last_updated": "2026-11-02T03:43:17.273150+00:00"
   },
   "total_games": 84,
   "games": [
@@ -56253,7 +56273,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 594.4,
+        "hours_ago": 601.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56353,7 +56373,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 480.4,
+        "hours_ago": 487.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56453,7 +56473,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 450.4,
+        "hours_ago": 457.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56553,7 +56573,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 378.4,
+        "hours_ago": 385.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56653,7 +56673,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 258.4,
+        "hours_ago": 265.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56753,7 +56773,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 210.4,
+        "hours_ago": 217.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56853,7 +56873,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 113.4,
+        "hours_ago": 120.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56953,7 +56973,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 66.4,
+        "hours_ago": 73.7,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57053,7 +57073,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 25.4,
+        "hours_ago": 32.7,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
