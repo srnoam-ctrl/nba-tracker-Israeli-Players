@@ -1,6 +1,6 @@
 window.GAMES_DATA = {
-  "last_updated": "2026-11-07T10:40:10.103987+02:00",
-  "last_updated_display": "07/11/2026 10:40:10",
+  "last_updated": "2026-11-07T12:30:40.110302+02:00",
+  "last_updated_display": "07/11/2026 12:30:40",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
@@ -292,7 +292,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-07T08:40:19.999902+00:00"
+        "last_updated": "2026-11-07T10:30:53.615688+00:00"
       },
       "total_games": 84,
       "games": [
@@ -374,7 +374,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 726.7,
+            "hours_ago": 728.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -474,7 +474,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 612.7,
+            "hours_ago": 614.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -574,7 +574,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 582.7,
+            "hours_ago": 584.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -674,7 +674,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 510.7,
+            "hours_ago": 512.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -774,7 +774,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 390.7,
+            "hours_ago": 392.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -874,7 +874,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 342.7,
+            "hours_ago": 344.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -974,7 +974,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 245.7,
+            "hours_ago": 247.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1074,7 +1074,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 198.7,
+            "hours_ago": 200.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1174,7 +1174,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 157.7,
+            "hours_ago": 159.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1274,7 +1274,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 102.7,
+            "hours_ago": 104.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1374,7 +1374,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 54.7,
+            "hours_ago": 56.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1474,7 +1474,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 5.7,
+            "hours_ago": 7.5,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -7359,7 +7359,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-07T08:40:20.121977+00:00"
+        "last_updated": "2026-11-07T10:30:53.721696+00:00"
       },
       "total_games": 84,
       "games": [
@@ -7441,7 +7441,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 753.7,
+            "hours_ago": 755.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7541,7 +7541,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 705.2,
+            "hours_ago": 707.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7641,7 +7641,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 609.7,
+            "hours_ago": 611.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7741,7 +7741,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 561.2,
+            "hours_ago": 563.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7831,7 +7831,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 393.2,
+            "hours_ago": 395.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7921,7 +7921,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 321.2,
+            "hours_ago": 323.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -8011,7 +8011,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 298.7,
+            "hours_ago": 300.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14296,7 +14296,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-07T08:40:20.245946+00:00"
+        "last_updated": "2026-11-07T10:30:53.762786+00:00"
       },
       "total_games": 84,
       "games": [
@@ -14378,7 +14378,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 753.7,
+            "hours_ago": 755.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14478,7 +14478,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 705.2,
+            "hours_ago": 707.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14578,7 +14578,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 609.7,
+            "hours_ago": 611.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14678,7 +14678,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 561.2,
+            "hours_ago": 563.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14778,7 +14778,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 393.2,
+            "hours_ago": 395.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -14868,7 +14868,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 321.2,
+            "hours_ago": 323.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -14958,7 +14958,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 298.7,
+            "hours_ago": 300.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -15058,7 +15058,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 249.2,
+            "hours_ago": 251.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15148,7 +15148,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 177.2,
+            "hours_ago": 179.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -15248,7 +15248,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 130.7,
+            "hours_ago": 132.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15338,7 +15338,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 104.2,
+            "hours_ago": 106.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15428,7 +15428,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 56.2,
+            "hours_ago": 58.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21313,7 +21313,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-07T08:40:20.348787+00:00"
+        "last_updated": "2026-11-07T10:30:53.866725+00:00"
       },
       "total_games": 85,
       "games": [
@@ -21395,7 +21395,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 774.7,
+            "hours_ago": 776.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21495,7 +21495,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 701.9,
+            "hours_ago": 703.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21595,7 +21595,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 656.2,
+            "hours_ago": 658.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21695,7 +21695,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 582.7,
+            "hours_ago": 584.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21795,7 +21795,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 512.7,
+            "hours_ago": 514.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21895,7 +21895,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 390.2,
+            "hours_ago": 392.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21995,7 +21995,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 342.7,
+            "hours_ago": 344.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22095,7 +22095,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 295.7,
+            "hours_ago": 297.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22195,7 +22195,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 248.7,
+            "hours_ago": 250.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22295,7 +22295,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 200.7,
+            "hours_ago": 202.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22395,7 +22395,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 152.7,
+            "hours_ago": 154.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22495,7 +22495,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 103.7,
+            "hours_ago": 105.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22595,7 +22595,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 53.7,
+            "hours_ago": 55.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22695,7 +22695,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 5.7,
+            "hours_ago": 7.5,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -28579,7 +28579,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 774.7,
+          "hours_ago": 776.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28717,7 +28717,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 753.7,
+          "hours_ago": 755.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28741,7 +28741,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 753.7,
+          "hours_ago": 755.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28862,7 +28862,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 726.7,
+          "hours_ago": 728.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28887,7 +28887,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 726.7,
+        "hours_ago": 728.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29024,7 +29024,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 705.2,
+          "hours_ago": 707.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29048,7 +29048,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 705.2,
+          "hours_ago": 707.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29169,7 +29169,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 701.9,
+          "hours_ago": 703.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29290,7 +29290,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 656.2,
+          "hours_ago": 658.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29411,7 +29411,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 612.7,
+          "hours_ago": 614.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29436,7 +29436,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 612.7,
+        "hours_ago": 614.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29573,7 +29573,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 609.7,
+          "hours_ago": 611.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29597,7 +29597,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 609.7,
+          "hours_ago": 611.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29735,7 +29735,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 582.7,
+          "hours_ago": 584.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29759,7 +29759,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 582.7,
+          "hours_ago": 584.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29784,7 +29784,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 582.7,
+        "hours_ago": 584.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29921,7 +29921,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 561.2,
+          "hours_ago": 563.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -29935,7 +29935,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 561.2,
+          "hours_ago": 563.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30056,7 +30056,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 512.7,
+          "hours_ago": 514.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30177,7 +30177,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 510.7,
+          "hours_ago": 512.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30202,7 +30202,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 510.7,
+        "hours_ago": 512.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30339,7 +30339,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 393.2,
+          "hours_ago": 395.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30353,7 +30353,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 393.2,
+          "hours_ago": 395.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30464,7 +30464,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 390.7,
+          "hours_ago": 392.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30489,7 +30489,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 390.7,
+        "hours_ago": 392.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30609,7 +30609,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 390.2,
+          "hours_ago": 392.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30747,7 +30747,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 342.7,
+          "hours_ago": 344.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30771,7 +30771,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 342.7,
+          "hours_ago": 344.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30796,7 +30796,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 342.7,
+        "hours_ago": 344.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30933,7 +30933,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 321.2,
+          "hours_ago": 323.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30947,7 +30947,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 321.2,
+          "hours_ago": 323.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -31075,7 +31075,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 298.7,
+          "hours_ago": 300.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31099,7 +31099,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 298.7,
+          "hours_ago": 300.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31220,7 +31220,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 295.7,
+          "hours_ago": 297.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31362,7 +31362,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 249.2,
+          "hours_ago": 251.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -31473,7 +31473,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 248.7,
+          "hours_ago": 250.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31594,7 +31594,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 245.7,
+          "hours_ago": 247.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31619,7 +31619,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 245.7,
+        "hours_ago": 247.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -31739,7 +31739,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 200.7,
+          "hours_ago": 202.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31860,7 +31860,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 198.7,
+          "hours_ago": 200.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31885,7 +31885,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 198.7,
+        "hours_ago": 200.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -32026,7 +32026,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 177.2,
+          "hours_ago": 179.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32147,7 +32147,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 157.7,
+          "hours_ago": 159.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32172,7 +32172,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 157.7,
+        "hours_ago": 159.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -32292,7 +32292,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 152.7,
+          "hours_ago": 154.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32434,7 +32434,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 130.7,
+          "hours_ago": 132.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -32566,7 +32566,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 104.2,
+          "hours_ago": 106.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -32677,7 +32677,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 103.7,
+          "hours_ago": 105.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32798,7 +32798,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 102.7,
+          "hours_ago": 104.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32823,7 +32823,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 102.7,
+        "hours_ago": 104.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -32964,7 +32964,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 56.2,
+          "hours_ago": 58.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33085,7 +33085,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 54.7,
+          "hours_ago": 56.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33110,7 +33110,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 54.7,
+        "hours_ago": 56.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -33230,7 +33230,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 53.7,
+          "hours_ago": 55.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33351,7 +33351,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 5.7,
+          "hours_ago": 7.5,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -33376,7 +33376,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 5.7,
+        "hours_ago": 7.5,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -33496,7 +33496,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 5.7,
+          "hours_ago": 7.5,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -56560,7 +56560,7 @@ window.GAMES_DATA = {
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-11-07T08:40:19.999902+00:00"
+    "last_updated": "2026-11-07T10:30:53.615688+00:00"
   },
   "total_games": 84,
   "games": [
@@ -56642,7 +56642,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 726.7,
+        "hours_ago": 728.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56742,7 +56742,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 612.7,
+        "hours_ago": 614.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56842,7 +56842,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 582.7,
+        "hours_ago": 584.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56942,7 +56942,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 510.7,
+        "hours_ago": 512.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57042,7 +57042,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 390.7,
+        "hours_ago": 392.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57142,7 +57142,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 342.7,
+        "hours_ago": 344.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57242,7 +57242,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 245.7,
+        "hours_ago": 247.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57342,7 +57342,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 198.7,
+        "hours_ago": 200.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57442,7 +57442,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 157.7,
+        "hours_ago": 159.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57542,7 +57542,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 102.7,
+        "hours_ago": 104.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57642,7 +57642,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 54.7,
+        "hours_ago": 56.5,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57742,7 +57742,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 5.7,
+        "hours_ago": 7.5,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
