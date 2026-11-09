@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T01:24:18.539866+02:00",
-  "last_updated_display": "09/11/2026 01:24:18",
+  "last_updated": "2026-11-09T12:50:29.365469+02:00",
+  "last_updated_display": "09/11/2026 12:50:29",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
@@ -301,7 +301,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-08T23:24:27.913507+00:00"
+        "last_updated": "2026-11-09T10:50:40.324510+00:00"
       },
       "total_games": 84,
       "games": [
@@ -383,7 +383,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 765.4,
+            "hours_ago": 776.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -483,7 +483,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 651.4,
+            "hours_ago": 662.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -583,7 +583,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 621.4,
+            "hours_ago": 632.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -683,7 +683,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 549.4,
+            "hours_ago": 560.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -783,7 +783,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 429.4,
+            "hours_ago": 440.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -883,7 +883,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 381.4,
+            "hours_ago": 392.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -983,7 +983,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 284.4,
+            "hours_ago": 295.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1083,7 +1083,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 237.4,
+            "hours_ago": 248.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1183,7 +1183,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 196.4,
+            "hours_ago": 207.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1283,7 +1283,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 141.4,
+            "hours_ago": 152.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1383,7 +1383,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 93.4,
+            "hours_ago": 104.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1483,8 +1483,8 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 44.4,
-            "is_spoiler_period": true,
+            "hours_ago": 55.8,
+            "is_spoiler_period": false,
             "stats": {
               "has_played": true,
               "minutes": "39",
@@ -1583,7 +1583,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 20.4,
+            "hours_ago": 31.8,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -7388,7 +7388,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-08T23:24:28.111816+00:00"
+        "last_updated": "2026-11-09T10:50:40.579319+00:00"
       },
       "total_games": 84,
       "games": [
@@ -7470,7 +7470,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 792.4,
+            "hours_ago": 803.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7570,7 +7570,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 743.9,
+            "hours_ago": 755.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7670,7 +7670,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 648.4,
+            "hours_ago": 659.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7770,7 +7770,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 599.9,
+            "hours_ago": 611.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7860,7 +7860,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 431.9,
+            "hours_ago": 443.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -7950,7 +7950,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 359.9,
+            "hours_ago": 371.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -8040,7 +8040,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 337.4,
+            "hours_ago": 348.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -8499,18 +8499,18 @@
           "season_type_id": 2,
           "us_broadcast": "DAZN (YES)",
           "tv_broadcast": {
-            "channel_name": "5STARS (ערוץ 5 כוכבים)",
-            "channel_code": "5STARS",
-            "channel_number": "אפיק 59",
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
             "is_free_tier": false,
-            "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-            "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-            "tier_type": "PAID",
-            "is_live": true,
-            "broadcast_title": "NBA: דאלאס מאבריקס - ברוקלין נטס, עונה סדירה",
-            "broadcast_time": "02:30",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -8571,26 +8571,26 @@
             "abbrev": "BKN",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Sun, November 8th at 7:30 PM EST",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
           "us_broadcast": "DAZN (YES), KFAA-TV, MavsTV",
           "tv_broadcast": {
-            "channel_name": "5STARS (ערוץ 5 כוכבים)",
-            "channel_code": "5STARS",
-            "channel_number": "אפיק 59",
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
             "is_free_tier": false,
-            "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-            "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-            "tier_type": "PAID",
-            "is_live": true,
-            "broadcast_title": "NBA: דאלאס מאבריקס - ברוקלין נטס, עונה סדירה",
-            "broadcast_time": "02:30",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -8619,7 +8619,7 @@
           },
           "player_boxscore": {
             "available": false,
-            "is_completed": false
+            "is_completed": true
           }
         },
         {
@@ -14224,27 +14224,27 @@
         }
       ],
       "next_game": {
-        "id": "401909948",
-        "name": "Brooklyn Nets at Dallas Mavericks",
-        "short_name": "BKN @ DAL",
-        "utc_date": "2026-11-09T00:30Z",
-        "date_il": "2026-11-09",
-        "time_il": "02:30",
-        "display_datetime_il": "09/11/2026 02:30",
-        "day_name_en": "Monday",
-        "day_name_he": "יום שני",
+        "id": "401909972",
+        "name": "Brooklyn Nets at New Orleans Pelicans",
+        "short_name": "BKN @ NO",
+        "utc_date": "2026-11-12T01:00Z",
+        "date_il": "2026-11-12",
+        "time_il": "03:00",
+        "display_datetime_il": "12/11/2026 03:00",
+        "day_name_en": "Thursday",
+        "day_name_he": "יום חמישי",
         "is_home": false,
         "opponent": {
-          "id": "6",
-          "name": "Dallas Mavericks",
-          "abbrev": "DAL",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+          "id": "3",
+          "name": "New Orleans Pelicans",
+          "abbrev": "NO",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png"
         },
         "home_team": {
-          "id": "6",
-          "name": "Dallas Mavericks",
-          "abbrev": "DAL",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+          "id": "3",
+          "name": "New Orleans Pelicans",
+          "abbrev": "NO",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png"
         },
         "away_team": {
           "id": "17",
@@ -14253,23 +14253,23 @@
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
         },
         "status": "Scheduled",
-        "status_detail": "Sun, November 8th at 7:30 PM EST",
+        "status_detail": "Wed, November 11th at 8:00 PM EST",
         "is_completed": false,
         "season_type": "עונה סדירה (Regular Season)",
         "season_type_en": "Regular Season",
         "season_type_id": 2,
-        "us_broadcast": "DAZN (YES), KFAA-TV, MavsTV",
+        "us_broadcast": "DAZN (YES), GCSEN, Pelicans.com",
         "tv_broadcast": {
-          "channel_name": "5STARS (ערוץ 5 כוכבים)",
-          "channel_code": "5STARS",
-          "channel_number": "אפיק 59",
-          "is_free_tier": false,
-          "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-          "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-          "tier_type": "PAID",
+          "channel_name": "5SPORT (ערוץ 5)",
+          "channel_code": "5SPORT",
+          "channel_number": "אפיק 55",
+          "is_free_tier": true,
+          "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+          "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+          "tier_type": "FREE",
           "is_live": true,
-          "broadcast_title": "NBA: דאלאס מאבריקס - ברוקלין נטס, עונה סדירה",
-          "broadcast_time": "02:30",
+          "broadcast_title": "NBA: פילדלפיה - בוסטון, עונה סדירה",
+          "broadcast_time": "03:00",
           "status": "CONFIRMED_BROADCAST",
           "badge": "שידור חי בערוץ הספורט"
         },
@@ -14325,7 +14325,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-08T23:24:28.242728+00:00"
+        "last_updated": "2026-11-09T10:50:40.661949+00:00"
       },
       "total_games": 84,
       "games": [
@@ -14407,7 +14407,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 792.4,
+            "hours_ago": 803.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14507,7 +14507,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 743.9,
+            "hours_ago": 755.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14607,7 +14607,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 648.4,
+            "hours_ago": 659.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14707,7 +14707,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 599.9,
+            "hours_ago": 611.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14807,7 +14807,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 431.9,
+            "hours_ago": 443.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -14897,7 +14897,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 359.9,
+            "hours_ago": 371.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -14987,7 +14987,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 337.4,
+            "hours_ago": 348.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -15087,7 +15087,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 287.9,
+            "hours_ago": 299.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15177,7 +15177,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 215.9,
+            "hours_ago": 227.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -15277,7 +15277,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 169.4,
+            "hours_ago": 180.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15367,7 +15367,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 142.9,
+            "hours_ago": 154.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15457,7 +15457,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 94.9,
+            "hours_ago": 106.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -15516,18 +15516,18 @@
           "season_type_id": 2,
           "us_broadcast": "DAZN (YES)",
           "tv_broadcast": {
-            "channel_name": "5STARS (ערוץ 5 כוכבים)",
-            "channel_code": "5STARS",
-            "channel_number": "אפיק 59",
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
             "is_free_tier": false,
-            "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-            "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-            "tier_type": "PAID",
-            "is_live": true,
-            "broadcast_title": "NBA: דאלאס מאבריקס - ברוקלין נטס, עונה סדירה",
-            "broadcast_time": "02:30",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -15557,7 +15557,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 22.9,
+            "hours_ago": 34.3,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -15608,26 +15608,26 @@
             "abbrev": "BKN",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Sun, November 8th at 7:30 PM EST",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
           "us_broadcast": "DAZN (YES), KFAA-TV, MavsTV",
           "tv_broadcast": {
-            "channel_name": "5STARS (ערוץ 5 כוכבים)",
-            "channel_code": "5STARS",
-            "channel_number": "אפיק 59",
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
             "is_free_tier": false,
-            "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-            "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-            "tier_type": "PAID",
-            "is_live": true,
-            "broadcast_title": "NBA: דאלאס מאבריקס - ברוקלין נטס, עונה סדירה",
-            "broadcast_time": "02:30",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -15655,8 +15655,28 @@
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 10.3,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": true,
+              "minutes": "36",
+              "points": "10",
+              "rebounds": "3",
+              "assists": "2",
+              "steals": "1",
+              "blocks": "0",
+              "fg": "2-7",
+              "three_pt": "1-3",
+              "ft": "5-6",
+              "turnovers": "1",
+              "plus_minus": "-29",
+              "final_scores": {
+                "DAL": "130",
+                "BKN": "93"
+              }
+            }
           }
         },
         {
@@ -21261,27 +21281,27 @@
         }
       ],
       "next_game": {
-        "id": "401909948",
-        "name": "Brooklyn Nets at Dallas Mavericks",
-        "short_name": "BKN @ DAL",
-        "utc_date": "2026-11-09T00:30Z",
-        "date_il": "2026-11-09",
-        "time_il": "02:30",
-        "display_datetime_il": "09/11/2026 02:30",
-        "day_name_en": "Monday",
-        "day_name_he": "יום שני",
+        "id": "401909972",
+        "name": "Brooklyn Nets at New Orleans Pelicans",
+        "short_name": "BKN @ NO",
+        "utc_date": "2026-11-12T01:00Z",
+        "date_il": "2026-11-12",
+        "time_il": "03:00",
+        "display_datetime_il": "12/11/2026 03:00",
+        "day_name_en": "Thursday",
+        "day_name_he": "יום חמישי",
         "is_home": false,
         "opponent": {
-          "id": "6",
-          "name": "Dallas Mavericks",
-          "abbrev": "DAL",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+          "id": "3",
+          "name": "New Orleans Pelicans",
+          "abbrev": "NO",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png"
         },
         "home_team": {
-          "id": "6",
-          "name": "Dallas Mavericks",
-          "abbrev": "DAL",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+          "id": "3",
+          "name": "New Orleans Pelicans",
+          "abbrev": "NO",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png"
         },
         "away_team": {
           "id": "17",
@@ -21290,23 +21310,23 @@
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
         },
         "status": "Scheduled",
-        "status_detail": "Sun, November 8th at 7:30 PM EST",
+        "status_detail": "Wed, November 11th at 8:00 PM EST",
         "is_completed": false,
         "season_type": "עונה סדירה (Regular Season)",
         "season_type_en": "Regular Season",
         "season_type_id": 2,
-        "us_broadcast": "DAZN (YES), KFAA-TV, MavsTV",
+        "us_broadcast": "DAZN (YES), GCSEN, Pelicans.com",
         "tv_broadcast": {
-          "channel_name": "5STARS (ערוץ 5 כוכבים)",
-          "channel_code": "5STARS",
-          "channel_number": "אפיק 59",
-          "is_free_tier": false,
-          "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-          "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-          "tier_type": "PAID",
+          "channel_name": "5SPORT (ערוץ 5)",
+          "channel_code": "5SPORT",
+          "channel_number": "אפיק 55",
+          "is_free_tier": true,
+          "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+          "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+          "tier_type": "FREE",
           "is_live": true,
-          "broadcast_title": "NBA: דאלאס מאבריקס - ברוקלין נטס, עונה סדירה",
-          "broadcast_time": "02:30",
+          "broadcast_title": "NBA: פילדלפיה - בוסטון, עונה סדירה",
+          "broadcast_time": "03:00",
           "status": "CONFIRMED_BROADCAST",
           "badge": "שידור חי בערוץ הספורט"
         },
@@ -21362,7 +21382,7 @@
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-08T23:24:28.392305+00:00"
+        "last_updated": "2026-11-09T10:50:40.806422+00:00"
       },
       "total_games": 85,
       "games": [
@@ -21444,7 +21464,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 813.4,
+            "hours_ago": 824.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21544,7 +21564,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 740.7,
+            "hours_ago": 752.1,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21644,7 +21664,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 694.9,
+            "hours_ago": 706.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21744,7 +21764,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 621.4,
+            "hours_ago": 632.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21844,7 +21864,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 551.4,
+            "hours_ago": 562.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21944,7 +21964,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 428.9,
+            "hours_ago": 440.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22044,7 +22064,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 381.4,
+            "hours_ago": 392.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22144,7 +22164,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 334.4,
+            "hours_ago": 345.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22244,7 +22264,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 287.4,
+            "hours_ago": 298.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22344,7 +22364,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 239.4,
+            "hours_ago": 250.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22444,7 +22464,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 191.4,
+            "hours_ago": 202.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22544,7 +22564,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 142.4,
+            "hours_ago": 153.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22644,7 +22664,7 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 92.4,
+            "hours_ago": 103.8,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22744,8 +22764,8 @@
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 44.4,
-            "is_spoiler_period": true,
+            "hours_ago": 55.8,
+            "is_spoiler_period": false,
             "stats": {
               "has_played": true,
               "minutes": "31",
@@ -22795,9 +22815,9 @@
             "abbrev": "MIA",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Sun, November 8th at 9:00 PM EST",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
@@ -22842,8 +22862,28 @@
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 8.8,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": true,
+              "minutes": "12",
+              "points": "5",
+              "rebounds": "1",
+              "assists": "0",
+              "steals": "2",
+              "blocks": "0",
+              "fg": "2-5",
+              "three_pt": "1-4",
+              "ft": "0-0",
+              "turnovers": "0",
+              "plus_minus": "+7",
+              "final_scores": {
+                "SAC": "108",
+                "MIA": "114"
+              }
+            }
           }
         },
         {
@@ -28448,21 +28488,21 @@
         }
       ],
       "next_game": {
-        "id": "401909951",
-        "name": "Miami Heat at Sacramento Kings",
-        "short_name": "MIA @ SAC",
-        "utc_date": "2026-11-09T02:00Z",
-        "date_il": "2026-11-09",
-        "time_il": "04:00",
-        "display_datetime_il": "09/11/2026 04:00",
-        "day_name_en": "Monday",
-        "day_name_he": "יום שני",
+        "id": "401909964",
+        "name": "Orlando Magic at Sacramento Kings",
+        "short_name": "ORL @ SAC",
+        "utc_date": "2026-11-11T03:00Z",
+        "date_il": "2026-11-11",
+        "time_il": "05:00",
+        "display_datetime_il": "11/11/2026 05:00",
+        "day_name_en": "Wednesday",
+        "day_name_he": "יום רביעי",
         "is_home": true,
         "opponent": {
-          "id": "14",
-          "name": "Miami Heat",
-          "abbrev": "MIA",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+          "id": "19",
+          "name": "Orlando Magic",
+          "abbrev": "ORL",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
         },
         "home_team": {
           "id": "23",
@@ -28471,29 +28511,29 @@
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
         },
         "away_team": {
-          "id": "14",
-          "name": "Miami Heat",
-          "abbrev": "MIA",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+          "id": "19",
+          "name": "Orlando Magic",
+          "abbrev": "ORL",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
         },
         "status": "Scheduled",
-        "status_detail": "Sun, November 8th at 9:00 PM EST",
+        "status_detail": "Tue, November 10th at 10:00 PM EST",
         "is_completed": false,
         "season_type": "עונה סדירה (Regular Season)",
         "season_type_en": "Regular Season",
         "season_type_id": 2,
         "us_broadcast": "NBA League Pass",
         "tv_broadcast": {
-          "channel_name": "5LIVE (ערוץ 5 לייב)",
-          "channel_code": "5LIVE",
-          "channel_number": "אפיק 58",
+          "channel_name": "5MAX (ערוץ 5 מקס)",
+          "channel_code": "5MAX",
+          "channel_number": "אפיק 60",
           "is_free_tier": false,
-          "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-          "tier_badge": "🔒 ערוץ בתשלום (אפיק 58)",
+          "tier_name": "ערוץ בתשלום נוסף",
+          "tier_badge": "🔒 ערוץ בתשלום (אפיק 60)",
           "tier_type": "PAID",
           "is_live": true,
-          "broadcast_title": "NFL - ליגת הפוטבול האמריקאית: מינסוטה וייקינגס - באפלו בילס, מחזור 9",
-          "broadcast_time": "03:15",
+          "broadcast_title": "NHL ליגת ההוקי האמריקאית: לוס אנג׳לס קינגס - נאשוויל",
+          "broadcast_time": "05:00",
           "status": "CONFIRMED_BROADCAST",
           "badge": "שידור חי בערוץ הספורט"
         },
@@ -28628,7 +28668,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 813.4,
+          "hours_ago": 824.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28766,7 +28806,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 792.4,
+          "hours_ago": 803.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28790,7 +28830,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 792.4,
+          "hours_ago": 803.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28911,7 +28951,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 765.4,
+          "hours_ago": 776.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -28936,7 +28976,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 765.4,
+        "hours_ago": 776.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29073,7 +29113,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 743.9,
+          "hours_ago": 755.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29097,7 +29137,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 743.9,
+          "hours_ago": 755.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29218,7 +29258,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 740.7,
+          "hours_ago": 752.1,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29339,7 +29379,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 694.9,
+          "hours_ago": 706.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29460,7 +29500,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 651.4,
+          "hours_ago": 662.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29485,7 +29525,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 651.4,
+        "hours_ago": 662.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29622,7 +29662,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 648.4,
+          "hours_ago": 659.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29646,7 +29686,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 648.4,
+          "hours_ago": 659.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29784,7 +29824,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 621.4,
+          "hours_ago": 632.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29808,7 +29848,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 621.4,
+          "hours_ago": 632.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29833,7 +29873,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 621.4,
+        "hours_ago": 632.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29970,7 +30010,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 599.9,
+          "hours_ago": 611.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -29984,7 +30024,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 599.9,
+          "hours_ago": 611.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30105,7 +30145,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 551.4,
+          "hours_ago": 562.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30226,7 +30266,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 549.4,
+          "hours_ago": 560.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30251,7 +30291,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 549.4,
+        "hours_ago": 560.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30388,7 +30428,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 431.9,
+          "hours_ago": 443.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30402,7 +30442,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 431.9,
+          "hours_ago": 443.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30513,7 +30553,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 429.4,
+          "hours_ago": 440.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30538,7 +30578,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 429.4,
+        "hours_ago": 440.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30658,7 +30698,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 428.9,
+          "hours_ago": 440.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30796,7 +30836,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 381.4,
+          "hours_ago": 392.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30820,7 +30860,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 381.4,
+          "hours_ago": 392.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30845,7 +30885,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 381.4,
+        "hours_ago": 392.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30982,7 +31022,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 359.9,
+          "hours_ago": 371.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30996,7 +31036,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 359.9,
+          "hours_ago": 371.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -31124,7 +31164,7 @@
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 337.4,
+          "hours_ago": 348.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31148,7 +31188,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 337.4,
+          "hours_ago": 348.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31269,7 +31309,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 334.4,
+          "hours_ago": 345.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31411,7 +31451,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 287.9,
+          "hours_ago": 299.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -31522,7 +31562,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 287.4,
+          "hours_ago": 298.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31643,7 +31683,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 284.4,
+          "hours_ago": 295.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31668,7 +31708,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 284.4,
+        "hours_ago": 295.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -31788,7 +31828,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 239.4,
+          "hours_ago": 250.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31909,7 +31949,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 237.4,
+          "hours_ago": 248.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31934,7 +31974,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 237.4,
+        "hours_ago": 248.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -32075,7 +32115,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 215.9,
+          "hours_ago": 227.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32196,7 +32236,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 196.4,
+          "hours_ago": 207.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32221,7 +32261,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 196.4,
+        "hours_ago": 207.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -32341,7 +32381,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 191.4,
+          "hours_ago": 202.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32483,7 +32523,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 169.4,
+          "hours_ago": 180.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -32615,7 +32655,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 142.9,
+          "hours_ago": 154.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -32726,7 +32766,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 142.4,
+          "hours_ago": 153.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32847,7 +32887,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 141.4,
+          "hours_ago": 152.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32872,7 +32912,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 141.4,
+        "hours_ago": 152.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -33013,7 +33053,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 94.9,
+          "hours_ago": 106.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33134,7 +33174,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 93.4,
+          "hours_ago": 104.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33159,7 +33199,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 93.4,
+        "hours_ago": 104.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -33279,7 +33319,7 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 92.4,
+          "hours_ago": 103.8,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33400,8 +33440,8 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 44.4,
-          "is_spoiler_period": true,
+          "hours_ago": 55.8,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "39",
@@ -33425,8 +33465,8 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 44.4,
-        "is_spoiler_period": true,
+        "hours_ago": 55.8,
+        "is_spoiler_period": false,
         "stats": {
           "has_played": true,
           "minutes": "39",
@@ -33545,8 +33585,8 @@
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 44.4,
-          "is_spoiler_period": true,
+          "hours_ago": 55.8,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "31",
@@ -33605,18 +33645,18 @@
       "season_type_id": 2,
       "us_broadcast": "DAZN (YES)",
       "tv_broadcast": {
-        "channel_name": "5STARS (ערוץ 5 כוכבים)",
-        "channel_code": "5STARS",
-        "channel_number": "אפיק 59",
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
         "is_free_tier": false,
-        "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-        "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-        "tier_type": "PAID",
-        "is_live": true,
-        "broadcast_title": "NBA: דאלאס מאבריקס - ברוקלין נטס, עונה סדירה",
-        "broadcast_time": "02:30",
-        "status": "CONFIRMED_BROADCAST",
-        "badge": "שידור חי בערוץ הספורט"
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -33687,7 +33727,7 @@
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 22.9,
+          "hours_ago": 34.3,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -33808,7 +33848,7 @@
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 20.4,
+          "hours_ago": 31.8,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -33833,7 +33873,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 20.4,
+        "hours_ago": 31.8,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -33884,26 +33924,26 @@
         "abbrev": "BKN",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Sun, November 8th at 7:30 PM EST",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
       "us_broadcast": "DAZN (YES), KFAA-TV, MavsTV",
       "tv_broadcast": {
-        "channel_name": "5STARS (ערוץ 5 כוכבים)",
-        "channel_code": "5STARS",
-        "channel_number": "אפיק 59",
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
         "is_free_tier": false,
-        "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-        "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-        "tier_type": "PAID",
-        "is_live": true,
-        "broadcast_title": "NBA: דאלאס מאבריקס - ברוקלין נטס, עונה סדירה",
-        "broadcast_time": "02:30",
-        "status": "CONFIRMED_BROADCAST",
-        "badge": "שידור חי בערוץ הספורט"
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -33969,11 +34009,31 @@
       "player_boxscores": {
         "ben_saraf": {
           "available": false,
-          "is_completed": false
+          "is_completed": true
         },
         "danny_wolf": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 10.3,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "36",
+            "points": "10",
+            "rebounds": "3",
+            "assists": "2",
+            "steals": "1",
+            "blocks": "0",
+            "fg": "2-7",
+            "three_pt": "1-3",
+            "ft": "5-6",
+            "turnovers": "1",
+            "plus_minus": "-29",
+            "final_scores": {
+              "DAL": "130",
+              "BKN": "93"
+            }
+          }
         }
       }
     },
@@ -34006,9 +34066,9 @@
         "abbrev": "MIA",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Sun, November 8th at 9:00 PM EST",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
@@ -34073,8 +34133,28 @@
       },
       "player_boxscores": {
         "emanuel_sharp": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 8.8,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": true,
+            "minutes": "12",
+            "points": "5",
+            "rebounds": "1",
+            "assists": "0",
+            "steals": "2",
+            "blocks": "0",
+            "fg": "2-5",
+            "three_pt": "1-4",
+            "ft": "0-0",
+            "turnovers": "0",
+            "plus_minus": "+7",
+            "final_scores": {
+              "SAC": "108",
+              "MIA": "114"
+            }
+          }
         }
       }
     },
@@ -56669,7 +56749,7 @@
     "is_playing": "YES",
     "detail": "Healthy / No injuries reported",
     "source": "ESPN / NBA Official Roster",
-    "last_updated": "2026-11-08T23:24:27.913507+00:00"
+    "last_updated": "2026-11-09T10:50:40.324510+00:00"
   },
   "total_games": 84,
   "games": [
@@ -56751,7 +56831,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 765.4,
+        "hours_ago": 776.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56851,7 +56931,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 651.4,
+        "hours_ago": 662.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -56951,7 +57031,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 621.4,
+        "hours_ago": 632.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57051,7 +57131,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 549.4,
+        "hours_ago": 560.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57151,7 +57231,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 429.4,
+        "hours_ago": 440.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57251,7 +57331,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 381.4,
+        "hours_ago": 392.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57351,7 +57431,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 284.4,
+        "hours_ago": 295.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57451,7 +57531,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 237.4,
+        "hours_ago": 248.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57551,7 +57631,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 196.4,
+        "hours_ago": 207.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57651,7 +57731,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 141.4,
+        "hours_ago": 152.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57751,7 +57831,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 93.4,
+        "hours_ago": 104.8,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57851,8 +57931,8 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 44.4,
-        "is_spoiler_period": true,
+        "hours_ago": 55.8,
+        "is_spoiler_period": false,
         "stats": {
           "has_played": true,
           "minutes": "39",
@@ -57951,7 +58031,7 @@
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 20.4,
+        "hours_ago": 31.8,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
