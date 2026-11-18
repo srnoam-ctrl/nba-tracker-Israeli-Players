@@ -1,6 +1,6 @@
 window.GAMES_DATA = {
-  "last_updated": "2026-11-17T23:59:46.748011+02:00",
-  "last_updated_display": "17/11/2026 23:59:46",
+  "last_updated": "2026-11-18T13:01:40.575769+02:00",
+  "last_updated_display": "18/11/2026 13:01:40",
   "pini_channel": {
     "channel_name": "ספורט באיכות גבוהה (פיני בראל)",
     "series_name": "מעקבדיה",
@@ -13,7 +13,7 @@ window.GAMES_DATA = {
         "video_id": "XCMZXIM0P-4",
         "thumbnail": "https://img.youtube.com/vi/XCMZXIM0P-4/mqdefault.jpg",
         "published_date": "2026-11-17",
-        "published_full": "2026-11-17T14:58:27+00:00",
+        "published_full": "2026-11-17T22:33:56+00:00",
         "is_nba": true
       },
       {
@@ -360,11 +360,11 @@ window.GAMES_DATA = {
       "team_color": "#E03A3E",
       "bio": "פורוורד פורטלנד טרייל בלייזרס. נבחר במקום ה-9 בדראפט 2020. הישראלי הבכיר בליגה ואולסטאר NBA.",
       "status": {
-        "status": "Day-To-Day",
-        "is_playing": "GTD",
+        "status": "Out",
+        "is_playing": "NO",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "last_updated": "2026-11-17T21:59:56.271962+00:00"
+        "last_updated": "2026-11-18T11:01:51.156316+00:00"
       },
       "total_games": 84,
       "games": [
@@ -419,20 +419,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": true,
@@ -446,7 +446,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 980.0,
+            "hours_ago": 993.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -519,20 +519,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": true,
@@ -546,7 +546,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 866.0,
+            "hours_ago": 879.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -619,20 +619,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": true,
@@ -646,7 +646,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 836.0,
+            "hours_ago": 849.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -719,20 +719,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": true,
@@ -746,7 +746,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 764.0,
+            "hours_ago": 777.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -819,20 +819,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -846,7 +846,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 644.0,
+            "hours_ago": 657.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -919,20 +919,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -946,7 +946,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 596.0,
+            "hours_ago": 609.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1019,20 +1019,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -1046,7 +1046,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 499.0,
+            "hours_ago": 512.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1119,20 +1119,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -1146,7 +1146,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 452.0,
+            "hours_ago": 465.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1219,20 +1219,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -1246,7 +1246,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 411.0,
+            "hours_ago": 424.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1319,20 +1319,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -1346,7 +1346,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 356.0,
+            "hours_ago": 369.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1419,20 +1419,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -1446,7 +1446,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 308.0,
+            "hours_ago": 321.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1519,20 +1519,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -1546,7 +1546,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 259.0,
+            "hours_ago": 272.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1619,20 +1619,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -1646,7 +1646,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 235.0,
+            "hours_ago": 248.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1719,20 +1719,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -1746,7 +1746,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 162.0,
+            "hours_ago": 175.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1819,20 +1819,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -1846,7 +1846,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 139.0,
+            "hours_ago": 152.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -1919,20 +1919,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -1946,7 +1946,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 91.0,
+            "hours_ago": 104.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -2005,34 +2005,34 @@ window.GAMES_DATA = {
           "season_type_id": 2,
           "us_broadcast": "KUNP 16, DAZN MIN, BlazerVision",
           "tv_broadcast": {
-            "channel_name": "5STARS (ערוץ 5 כוכבים)",
-            "channel_code": "5STARS",
-            "channel_number": "אפיק 59",
-            "is_free_tier": false,
-            "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-            "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-            "tier_type": "PAID",
+            "channel_name": "5SPORT (ערוץ 5)",
+            "channel_code": "5SPORT",
+            "channel_number": "אפיק 55",
+            "is_free_tier": true,
+            "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+            "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+            "tier_type": "FREE",
             "is_live": true,
-            "broadcast_title": "NBA: מינסוטה - פורטלנד, עונה סדירה",
-            "broadcast_time": "03:00",
+            "broadcast_title": "מעקבדיה: מינסוטה - פורטלנד (מוקלט)",
+            "broadcast_time": "12:40",
             "status": "CONFIRMED_BROADCAST",
             "badge": "שידור חי בערוץ הספורט"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2046,7 +2046,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 21.0,
+            "hours_ago": 34.0,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -2097,42 +2097,42 @@ window.GAMES_DATA = {
             "abbrev": "POR",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
           },
-          "status": "Scheduled",
-          "status_detail": "Tue, November 17th at 8:00 PM EST",
-          "is_completed": false,
+          "status": "Final",
+          "status_detail": "Final",
+          "is_completed": true,
           "season_type": "עונה סדירה (Regular Season)",
           "season_type_en": "Regular Season",
           "season_type_id": 2,
           "us_broadcast": "BlazerVision, DAZN MIN",
           "tv_broadcast": {
-            "channel_name": "5STARS (ערוץ 5 כוכבים)",
-            "channel_code": "5STARS",
-            "channel_number": "אפיק 59",
-            "is_free_tier": false,
-            "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-            "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-            "tier_type": "PAID",
+            "channel_name": "5SPORT (ערוץ 5)",
+            "channel_code": "5SPORT",
+            "channel_number": "אפיק 55",
+            "is_free_tier": true,
+            "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+            "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+            "tier_type": "FREE",
             "is_live": true,
-            "broadcast_title": "NBA: מינסוטה - פורטלנד, עונה סדירה",
-            "broadcast_time": "03:00",
+            "broadcast_title": "מעקבדיה: מינסוטה - פורטלנד (מוקלט)",
+            "broadcast_time": "12:40",
             "status": "CONFIRMED_BROADCAST",
             "badge": "שידור חי בערוץ הספורט"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2144,8 +2144,18 @@ window.GAMES_DATA = {
             "channel_url": "https://www.youtube.com/@PiniBarel"
           },
           "player_boxscore": {
-            "available": false,
-            "is_completed": false
+            "available": true,
+            "is_completed": true,
+            "hours_ago": 10.0,
+            "is_spoiler_period": true,
+            "stats": {
+              "has_played": false,
+              "dnp_reason": "LEFT FOOT",
+              "final_scores": {
+                "MIN": "106",
+                "POR": "105"
+              }
+            }
           }
         },
         {
@@ -2199,20 +2209,20 @@ window.GAMES_DATA = {
             "badge": "שידור חי בערוץ הספורט"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2279,20 +2289,20 @@ window.GAMES_DATA = {
             "badge": "שידור חי בערוץ הספורט"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2359,20 +2369,20 @@ window.GAMES_DATA = {
             "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2439,20 +2449,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2519,20 +2529,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2599,20 +2609,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2679,20 +2689,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2759,20 +2769,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2839,20 +2849,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2919,20 +2929,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -2999,20 +3009,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3079,20 +3089,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3159,20 +3169,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3239,20 +3249,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3319,20 +3329,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3399,20 +3409,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3479,20 +3489,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3559,20 +3569,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3639,20 +3649,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3719,20 +3729,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3799,20 +3809,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3879,20 +3889,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -3959,20 +3969,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4039,20 +4049,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4119,20 +4129,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4199,20 +4209,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4279,20 +4289,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4359,20 +4369,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4439,20 +4449,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4519,20 +4529,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4599,20 +4609,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4679,20 +4689,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4759,20 +4769,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4839,20 +4849,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4919,20 +4929,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -4999,20 +5009,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5079,20 +5089,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5159,20 +5169,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5239,20 +5249,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5319,20 +5329,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5399,20 +5409,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5479,20 +5489,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5559,20 +5569,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5639,20 +5649,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5719,20 +5729,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5799,20 +5809,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5879,20 +5889,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -5959,20 +5969,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6039,20 +6049,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6119,20 +6129,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6199,20 +6209,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6279,20 +6289,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6359,20 +6369,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6439,20 +6449,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6519,20 +6529,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6599,20 +6609,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6679,20 +6689,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6759,20 +6769,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6839,20 +6849,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6919,20 +6929,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -6999,20 +7009,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -7079,20 +7089,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -7159,20 +7169,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -7239,20 +7249,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -7319,20 +7329,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -7399,20 +7409,20 @@ window.GAMES_DATA = {
             "badge": "עתידי"
           },
           "player_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "deni_status": {
-            "is_playing": "GTD",
-            "status": "Day-To-Day",
+            "is_playing": "NO",
+            "status": "Out",
             "detail": "Injured",
             "source": "ESPN / NBA Official Injury Feed",
-            "badge_icon": "🟡",
-            "badge_text": "בספק (Day-To-Day)"
+            "badge_icon": "🔴",
+            "badge_text": "בחוץ (Out)"
           },
           "pini_summary": {
             "has_summary": false,
@@ -7430,27 +7440,27 @@ window.GAMES_DATA = {
         }
       ],
       "next_game": {
-        "id": "401910003",
-        "name": "Portland Trail Blazers at Minnesota Timberwolves",
-        "short_name": "POR @ MIN",
-        "utc_date": "2026-11-18T01:00Z",
-        "date_il": "2026-11-18",
+        "id": "401910020",
+        "name": "Portland Trail Blazers at Milwaukee Bucks",
+        "short_name": "POR @ MIL",
+        "utc_date": "2026-11-20T01:00Z",
+        "date_il": "2026-11-20",
         "time_il": "03:00",
-        "display_datetime_il": "18/11/2026 03:00",
-        "day_name_en": "Wednesday",
-        "day_name_he": "יום רביעי",
+        "display_datetime_il": "20/11/2026 03:00",
+        "day_name_en": "Friday",
+        "day_name_he": "יום שישי",
         "is_home": false,
         "opponent": {
-          "id": "16",
-          "name": "Minnesota Timberwolves",
-          "abbrev": "MIN",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+          "id": "15",
+          "name": "Milwaukee Bucks",
+          "abbrev": "MIL",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
         },
         "home_team": {
-          "id": "16",
-          "name": "Minnesota Timberwolves",
-          "abbrev": "MIN",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+          "id": "15",
+          "name": "Milwaukee Bucks",
+          "abbrev": "MIL",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
         },
         "away_team": {
           "id": "22",
@@ -7459,41 +7469,41 @@ window.GAMES_DATA = {
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
         },
         "status": "Scheduled",
-        "status_detail": "Tue, November 17th at 8:00 PM EST",
+        "status_detail": "Thu, November 19th at 8:00 PM EST",
         "is_completed": false,
         "season_type": "עונה סדירה (Regular Season)",
         "season_type_en": "Regular Season",
         "season_type_id": 2,
-        "us_broadcast": "BlazerVision, DAZN MIN",
+        "us_broadcast": "KUNP 16, BlazerVision, MyMi, Bucks App",
         "tv_broadcast": {
-          "channel_name": "5STARS (ערוץ 5 כוכבים)",
-          "channel_code": "5STARS",
-          "channel_number": "אפיק 59",
-          "is_free_tier": false,
-          "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-          "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-          "tier_type": "PAID",
+          "channel_name": "5SPORT (ערוץ 5)",
+          "channel_code": "5SPORT",
+          "channel_number": "אפיק 55",
+          "is_free_tier": true,
+          "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+          "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+          "tier_type": "FREE",
           "is_live": true,
-          "broadcast_title": "NBA: מינסוטה - פורטלנד, עונה סדירה",
+          "broadcast_title": "NBA: מילווקי - פורטלנד, עונה סדירה",
           "broadcast_time": "03:00",
           "status": "CONFIRMED_BROADCAST",
           "badge": "שידור חי בערוץ הספורט"
         },
         "player_status": {
-          "is_playing": "GTD",
-          "status": "Day-To-Day",
+          "is_playing": "NO",
+          "status": "Out",
           "detail": "Injured",
           "source": "ESPN / NBA Official Injury Feed",
-          "badge_icon": "🟡",
-          "badge_text": "בספק (Day-To-Day)"
+          "badge_icon": "🔴",
+          "badge_text": "בחוץ (Out)"
         },
         "deni_status": {
-          "is_playing": "GTD",
-          "status": "Day-To-Day",
+          "is_playing": "NO",
+          "status": "Out",
           "detail": "Injured",
           "source": "ESPN / NBA Official Injury Feed",
-          "badge_icon": "🟡",
-          "badge_text": "בספק (Day-To-Day)"
+          "badge_icon": "🔴",
+          "badge_text": "בחוץ (Out)"
         },
         "pini_summary": {
           "has_summary": false,
@@ -7531,7 +7541,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-17T21:59:56.437009+00:00"
+        "last_updated": "2026-11-18T11:01:51.316859+00:00"
       },
       "total_games": 84,
       "games": [
@@ -7613,7 +7623,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 1007.0,
+            "hours_ago": 1020.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7713,7 +7723,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 958.5,
+            "hours_ago": 971.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7813,7 +7823,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 863.0,
+            "hours_ago": 876.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -7913,7 +7923,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 814.5,
+            "hours_ago": 827.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -8003,7 +8013,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 646.5,
+            "hours_ago": 659.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -8093,7 +8103,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 574.5,
+            "hours_ago": 587.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -8183,7 +8193,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 552.0,
+            "hours_ago": 565.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -8962,18 +8972,18 @@ window.GAMES_DATA = {
           "season_type_id": 2,
           "us_broadcast": "DAZN (YES)",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "channel_code": "5SPORT",
-            "channel_number": "אפיק 55",
-            "is_free_tier": true,
-            "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-            "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
-            "tier_type": "FREE",
-            "is_live": true,
-            "broadcast_title": "NBA: סן אנטוניו - דטרויט, עונה סדירה",
-            "broadcast_time": "03:00",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -9050,8 +9060,8 @@ window.GAMES_DATA = {
             "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
             "tier_type": "FREE",
             "is_live": true,
-            "broadcast_title": "NBA: סן אנטוניו - דטרויט, עונה סדירה",
-            "broadcast_time": "03:00",
+            "broadcast_title": "NBA: מילווקי - מיאמי, עונה סדירה",
+            "broadcast_time": "02:00",
             "status": "CONFIRMED_BROADCAST",
             "badge": "שידור חי בערוץ הספורט"
           },
@@ -14411,8 +14421,8 @@ window.GAMES_DATA = {
           "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
           "tier_type": "FREE",
           "is_live": true,
-          "broadcast_title": "NBA: סן אנטוניו - דטרויט, עונה סדירה",
-          "broadcast_time": "03:00",
+          "broadcast_title": "NBA: מילווקי - מיאמי, עונה סדירה",
+          "broadcast_time": "02:00",
           "status": "CONFIRMED_BROADCAST",
           "badge": "שידור חי בערוץ הספורט"
         },
@@ -14468,7 +14478,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-17T21:59:56.489904+00:00"
+        "last_updated": "2026-11-18T11:01:51.425823+00:00"
       },
       "total_games": 84,
       "games": [
@@ -14550,7 +14560,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 1007.0,
+            "hours_ago": 1020.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14650,7 +14660,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 958.5,
+            "hours_ago": 971.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14750,7 +14760,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 863.0,
+            "hours_ago": 876.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14850,7 +14860,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 814.5,
+            "hours_ago": 827.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -14950,7 +14960,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 646.5,
+            "hours_ago": 659.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15040,7 +15050,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 574.5,
+            "hours_ago": 587.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15130,7 +15140,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 552.0,
+            "hours_ago": 565.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -15230,7 +15240,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 502.5,
+            "hours_ago": 515.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15320,7 +15330,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 430.5,
+            "hours_ago": 443.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -15420,7 +15430,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 384.0,
+            "hours_ago": 397.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15510,7 +15520,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 357.5,
+            "hours_ago": 370.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": false,
@@ -15600,7 +15610,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 309.5,
+            "hours_ago": 322.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -15700,7 +15710,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 237.5,
+            "hours_ago": 250.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -15800,7 +15810,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 213.5,
+            "hours_ago": 226.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -15900,7 +15910,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 141.0,
+            "hours_ago": 154.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -16000,7 +16010,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 69.0,
+            "hours_ago": 82.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -16059,18 +16069,18 @@ window.GAMES_DATA = {
           "season_type_id": 2,
           "us_broadcast": "DAZN (YES)",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "channel_code": "5SPORT",
-            "channel_number": "אפיק 55",
-            "is_free_tier": true,
-            "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-            "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
-            "tier_type": "FREE",
-            "is_live": true,
-            "broadcast_title": "NBA: סן אנטוניו - דטרויט, עונה סדירה",
-            "broadcast_time": "03:00",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -16100,7 +16110,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 21.5,
+            "hours_ago": 34.5,
             "is_spoiler_period": true,
             "stats": {
               "has_played": true,
@@ -16167,8 +16177,8 @@ window.GAMES_DATA = {
             "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
             "tier_type": "FREE",
             "is_live": true,
-            "broadcast_title": "NBA: סן אנטוניו - דטרויט, עונה סדירה",
-            "broadcast_time": "03:00",
+            "broadcast_title": "NBA: מילווקי - מיאמי, עונה סדירה",
+            "broadcast_time": "02:00",
             "status": "CONFIRMED_BROADCAST",
             "badge": "שידור חי בערוץ הספורט"
           },
@@ -21528,8 +21538,8 @@ window.GAMES_DATA = {
           "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
           "tier_type": "FREE",
           "is_live": true,
-          "broadcast_title": "NBA: סן אנטוניו - דטרויט, עונה סדירה",
-          "broadcast_time": "03:00",
+          "broadcast_title": "NBA: מילווקי - מיאמי, עונה סדירה",
+          "broadcast_time": "02:00",
           "status": "CONFIRMED_BROADCAST",
           "badge": "שידור חי בערוץ הספורט"
         },
@@ -21585,7 +21595,7 @@ window.GAMES_DATA = {
         "is_playing": "YES",
         "detail": "Healthy / No injuries reported",
         "source": "ESPN / NBA Official Roster",
-        "last_updated": "2026-11-17T21:59:56.635095+00:00"
+        "last_updated": "2026-11-18T11:01:51.627169+00:00"
       },
       "total_games": 85,
       "games": [
@@ -21667,7 +21677,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 1028.0,
+            "hours_ago": 1041.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21767,7 +21777,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 955.3,
+            "hours_ago": 968.3,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21867,7 +21877,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 909.5,
+            "hours_ago": 922.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -21967,7 +21977,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 836.0,
+            "hours_ago": 849.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22067,7 +22077,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 766.0,
+            "hours_ago": 779.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22167,7 +22177,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 643.5,
+            "hours_ago": 656.5,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22267,7 +22277,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 596.0,
+            "hours_ago": 609.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22367,7 +22377,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 549.0,
+            "hours_ago": 562.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22467,7 +22477,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 502.0,
+            "hours_ago": 515.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22567,7 +22577,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 454.0,
+            "hours_ago": 467.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22667,7 +22677,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 406.0,
+            "hours_ago": 419.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22767,7 +22777,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 357.0,
+            "hours_ago": 370.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22867,7 +22877,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 307.0,
+            "hours_ago": 320.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -22967,7 +22977,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 259.0,
+            "hours_ago": 272.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -23067,7 +23077,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 212.0,
+            "hours_ago": 225.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -23167,7 +23177,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 163.0,
+            "hours_ago": 176.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -23267,7 +23277,7 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 91.0,
+            "hours_ago": 104.0,
             "is_spoiler_period": false,
             "stats": {
               "has_played": true,
@@ -23367,8 +23377,8 @@ window.GAMES_DATA = {
           "player_boxscore": {
             "available": true,
             "is_completed": true,
-            "hours_ago": 44.0,
-            "is_spoiler_period": true,
+            "hours_ago": 57.0,
+            "is_spoiler_period": false,
             "stats": {
               "has_played": true,
               "minutes": "21",
@@ -23426,18 +23436,18 @@ window.GAMES_DATA = {
           "season_type_id": 2,
           "us_broadcast": "Suns Live, Arizona's Family 3TV",
           "tv_broadcast": {
-            "channel_name": "5SPORT (ערוץ 5)",
-            "channel_code": "5SPORT",
-            "channel_number": "אפיק 55",
-            "is_free_tier": true,
-            "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-            "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
-            "tier_type": "FREE",
-            "is_live": true,
-            "broadcast_title": "NBA: ל.א. לייקרס - שארלוט, עונה סדירה",
-            "broadcast_time": "06:00",
-            "status": "CONFIRMED_BROADCAST",
-            "badge": "שידור חי בערוץ הספורט"
+            "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+            "channel_code": "LEAGUE_PASS",
+            "channel_number": "NBA App / League Pass",
+            "is_free_tier": false,
+            "tier_name": "NBA League Pass",
+            "tier_badge": "🌐 NBA League Pass",
+            "tier_type": "LEAGUE_PASS",
+            "is_live": false,
+            "broadcast_title": "",
+            "broadcast_time": "",
+            "status": "NOT_SCHEDULED_YET",
+            "badge": "League Pass / טרם פורסם"
           },
           "player_status": {
             "is_playing": "YES",
@@ -28787,18 +28797,18 @@ window.GAMES_DATA = {
         "season_type_id": 2,
         "us_broadcast": "Suns Live, Arizona's Family 3TV",
         "tv_broadcast": {
-          "channel_name": "5SPORT (ערוץ 5)",
-          "channel_code": "5SPORT",
-          "channel_number": "אפיק 55",
-          "is_free_tier": true,
-          "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-          "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
-          "tier_type": "FREE",
-          "is_live": true,
-          "broadcast_title": "NBA: ל.א. לייקרס - שארלוט, עונה סדירה",
-          "broadcast_time": "06:00",
-          "status": "CONFIRMED_BROADCAST",
-          "badge": "שידור חי בערוץ הספורט"
+          "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+          "channel_code": "LEAGUE_PASS",
+          "channel_number": "NBA App / League Pass",
+          "is_free_tier": false,
+          "tier_name": "NBA League Pass",
+          "tier_badge": "🌐 NBA League Pass",
+          "tier_type": "LEAGUE_PASS",
+          "is_live": false,
+          "broadcast_title": "",
+          "broadcast_time": "",
+          "status": "NOT_SCHEDULED_YET",
+          "badge": "League Pass / טרם פורסם"
         },
         "player_status": {
           "is_playing": "YES",
@@ -28931,7 +28941,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 1028.0,
+          "hours_ago": 1041.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29069,7 +29079,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 1007.0,
+          "hours_ago": 1020.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29093,7 +29103,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 1007.0,
+          "hours_ago": 1020.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29167,20 +29177,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -29214,7 +29224,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 980.0,
+          "hours_ago": 993.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29239,7 +29249,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 980.0,
+        "hours_ago": 993.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29376,7 +29386,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 958.5,
+          "hours_ago": 971.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29400,7 +29410,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 958.5,
+          "hours_ago": 971.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29521,7 +29531,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 955.2,
+          "hours_ago": 968.3,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29642,7 +29652,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 909.5,
+          "hours_ago": 922.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29716,20 +29726,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -29763,7 +29773,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 866.0,
+          "hours_ago": 879.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29788,7 +29798,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 866.0,
+        "hours_ago": 879.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -29925,7 +29935,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 863.0,
+          "hours_ago": 876.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -29949,7 +29959,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 863.0,
+          "hours_ago": 876.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30023,20 +30033,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -30087,7 +30097,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 836.0,
+          "hours_ago": 849.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30111,7 +30121,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 836.0,
+          "hours_ago": 849.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30136,7 +30146,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 836.0,
+        "hours_ago": 849.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30273,7 +30283,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 814.5,
+          "hours_ago": 827.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30287,7 +30297,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 814.5,
+          "hours_ago": 827.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30408,7 +30418,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 766.0,
+          "hours_ago": 779.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30482,20 +30492,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -30529,7 +30539,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 764.0,
+          "hours_ago": 777.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30554,7 +30564,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 764.0,
+        "hours_ago": 777.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30691,7 +30701,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 646.5,
+          "hours_ago": 659.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30705,7 +30715,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 646.5,
+          "hours_ago": 659.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -30769,20 +30779,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -30816,7 +30826,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 644.0,
+          "hours_ago": 657.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -30841,7 +30851,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 644.0,
+        "hours_ago": 657.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -30961,7 +30971,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 643.5,
+          "hours_ago": 656.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31035,20 +31045,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -31099,7 +31109,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 596.0,
+          "hours_ago": 609.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31123,7 +31133,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 596.0,
+          "hours_ago": 609.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31148,7 +31158,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 596.0,
+        "hours_ago": 609.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -31285,7 +31295,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 574.5,
+          "hours_ago": 587.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -31299,7 +31309,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 574.5,
+          "hours_ago": 587.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -31427,7 +31437,7 @@ window.GAMES_DATA = {
         "ben_saraf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 552.0,
+          "hours_ago": 565.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31451,7 +31461,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 552.0,
+          "hours_ago": 565.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31572,7 +31582,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 549.0,
+          "hours_ago": 562.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31714,7 +31724,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 502.5,
+          "hours_ago": 515.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -31825,7 +31835,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 502.0,
+          "hours_ago": 515.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31899,20 +31909,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -31946,7 +31956,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 499.0,
+          "hours_ago": 512.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -31971,7 +31981,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 499.0,
+        "hours_ago": 512.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -32091,7 +32101,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 454.0,
+          "hours_ago": 467.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32165,20 +32175,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -32212,7 +32222,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 452.0,
+          "hours_ago": 465.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32237,7 +32247,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 452.0,
+        "hours_ago": 465.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -32378,7 +32388,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 430.5,
+          "hours_ago": 443.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32452,20 +32462,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -32499,7 +32509,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 411.0,
+          "hours_ago": 424.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32524,7 +32534,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 411.0,
+        "hours_ago": 424.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -32644,7 +32654,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 406.0,
+          "hours_ago": 419.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -32786,7 +32796,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 384.0,
+          "hours_ago": 397.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -32918,7 +32928,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 357.5,
+          "hours_ago": 370.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": false,
@@ -33029,7 +33039,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 357.0,
+          "hours_ago": 370.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33103,20 +33113,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -33150,7 +33160,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 356.0,
+          "hours_ago": 369.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33175,7 +33185,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 356.0,
+        "hours_ago": 369.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -33316,7 +33326,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 309.5,
+          "hours_ago": 322.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33390,20 +33400,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -33437,7 +33447,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 308.0,
+          "hours_ago": 321.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33462,7 +33472,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 308.0,
+        "hours_ago": 321.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -33582,7 +33592,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 307.0,
+          "hours_ago": 320.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33656,20 +33666,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -33703,7 +33713,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 259.0,
+          "hours_ago": 272.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33728,7 +33738,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 259.0,
+        "hours_ago": 272.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -33848,7 +33858,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 259.0,
+          "hours_ago": 272.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -33990,7 +34000,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 237.5,
+          "hours_ago": 250.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -34064,20 +34074,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -34111,7 +34121,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 235.0,
+          "hours_ago": 248.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -34136,7 +34146,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 235.0,
+        "hours_ago": 248.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -34277,7 +34287,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 213.5,
+          "hours_ago": 226.5,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -34398,7 +34408,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 212.0,
+          "hours_ago": 225.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -34519,7 +34529,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 163.0,
+          "hours_ago": 176.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -34593,20 +34603,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -34640,7 +34650,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 162.0,
+          "hours_ago": 175.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -34665,7 +34675,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 162.0,
+        "hours_ago": 175.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -34806,7 +34816,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 141.0,
+          "hours_ago": 154.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -34880,20 +34890,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -34927,7 +34937,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 139.0,
+          "hours_ago": 152.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -34952,7 +34962,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 139.0,
+        "hours_ago": 152.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -35025,20 +35035,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -35089,7 +35099,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 91.0,
+          "hours_ago": 104.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -35113,7 +35123,7 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 91.0,
+          "hours_ago": 104.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -35138,7 +35148,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 91.0,
+        "hours_ago": 104.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -35279,7 +35289,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 69.0,
+          "hours_ago": 82.0,
           "is_spoiler_period": false,
           "stats": {
             "has_played": true,
@@ -35400,8 +35410,8 @@ window.GAMES_DATA = {
         "emanuel_sharp": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 44.0,
-          "is_spoiler_period": true,
+          "hours_ago": 57.0,
+          "is_spoiler_period": false,
           "stats": {
             "has_played": true,
             "minutes": "21",
@@ -35460,18 +35470,18 @@ window.GAMES_DATA = {
       "season_type_id": 2,
       "us_broadcast": "DAZN (YES)",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "channel_code": "5SPORT",
-        "channel_number": "אפיק 55",
-        "is_free_tier": true,
-        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
-        "tier_type": "FREE",
-        "is_live": true,
-        "broadcast_title": "NBA: סן אנטוניו - דטרויט, עונה סדירה",
-        "broadcast_time": "03:00",
-        "status": "CONFIRMED_BROADCAST",
-        "badge": "שידור חי בערוץ הספורט"
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -35542,7 +35552,7 @@ window.GAMES_DATA = {
         "danny_wolf": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 21.5,
+          "hours_ago": 34.5,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -35602,34 +35612,34 @@ window.GAMES_DATA = {
       "season_type_id": 2,
       "us_broadcast": "KUNP 16, DAZN MIN, BlazerVision",
       "tv_broadcast": {
-        "channel_name": "5STARS (ערוץ 5 כוכבים)",
-        "channel_code": "5STARS",
-        "channel_number": "אפיק 59",
-        "is_free_tier": false,
-        "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-        "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-        "tier_type": "PAID",
+        "channel_name": "5SPORT (ערוץ 5)",
+        "channel_code": "5SPORT",
+        "channel_number": "אפיק 55",
+        "is_free_tier": true,
+        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+        "tier_type": "FREE",
         "is_live": true,
-        "broadcast_title": "NBA: מינסוטה - פורטלנד, עונה סדירה",
-        "broadcast_time": "03:00",
+        "broadcast_title": "מעקבדיה: מינסוטה - פורטלנד (מוקלט)",
+        "broadcast_time": "12:40",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -35663,7 +35673,7 @@ window.GAMES_DATA = {
         "deni_avdija": {
           "available": true,
           "is_completed": true,
-          "hours_ago": 21.0,
+          "hours_ago": 34.0,
           "is_spoiler_period": true,
           "stats": {
             "has_played": true,
@@ -35688,7 +35698,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 21.0,
+        "hours_ago": 34.0,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -35739,42 +35749,42 @@ window.GAMES_DATA = {
         "abbrev": "POR",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Tue, November 17th at 8:00 PM EST",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
       "us_broadcast": "BlazerVision, DAZN MIN",
       "tv_broadcast": {
-        "channel_name": "5STARS (ערוץ 5 כוכבים)",
-        "channel_code": "5STARS",
-        "channel_number": "אפיק 59",
-        "is_free_tier": false,
-        "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-        "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-        "tier_type": "PAID",
+        "channel_name": "5SPORT (ערוץ 5)",
+        "channel_code": "5SPORT",
+        "channel_number": "אפיק 55",
+        "is_free_tier": true,
+        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+        "tier_type": "FREE",
         "is_live": true,
-        "broadcast_title": "NBA: מינסוטה - פורטלנד, עונה סדירה",
-        "broadcast_time": "03:00",
+        "broadcast_title": "מעקבדיה: מינסוטה - פורטלנד (מוקלט)",
+        "broadcast_time": "12:40",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -35806,13 +35816,33 @@ window.GAMES_DATA = {
       },
       "player_boxscores": {
         "deni_avdija": {
-          "available": false,
-          "is_completed": false
+          "available": true,
+          "is_completed": true,
+          "hours_ago": 10.0,
+          "is_spoiler_period": true,
+          "stats": {
+            "has_played": false,
+            "dnp_reason": "LEFT FOOT",
+            "final_scores": {
+              "MIN": "106",
+              "POR": "105"
+            }
+          }
         }
       },
       "player_boxscore": {
-        "available": false,
-        "is_completed": false
+        "available": true,
+        "is_completed": true,
+        "hours_ago": 10.0,
+        "is_spoiler_period": true,
+        "stats": {
+          "has_played": false,
+          "dnp_reason": "LEFT FOOT",
+          "final_scores": {
+            "MIN": "106",
+            "POR": "105"
+          }
+        }
       }
     },
     {
@@ -35860,8 +35890,8 @@ window.GAMES_DATA = {
         "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
         "tier_type": "FREE",
         "is_live": true,
-        "broadcast_title": "NBA: סן אנטוניו - דטרויט, עונה סדירה",
-        "broadcast_time": "03:00",
+        "broadcast_title": "NBA: מילווקי - מיאמי, עונה סדירה",
+        "broadcast_time": "02:00",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
@@ -35974,18 +36004,18 @@ window.GAMES_DATA = {
       "season_type_id": 2,
       "us_broadcast": "Suns Live, Arizona's Family 3TV",
       "tv_broadcast": {
-        "channel_name": "5SPORT (ערוץ 5)",
-        "channel_code": "5SPORT",
-        "channel_number": "אפיק 55",
-        "is_free_tier": true,
-        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
-        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
-        "tier_type": "FREE",
-        "is_live": true,
-        "broadcast_title": "NBA: ל.א. לייקרס - שארלוט, עונה סדירה",
-        "broadcast_time": "06:00",
-        "status": "CONFIRMED_BROADCAST",
-        "badge": "שידור חי בערוץ הספורט"
+        "channel_name": "טרם עודכן שידור ישראלי (זמין ב-NBA League Pass)",
+        "channel_code": "LEAGUE_PASS",
+        "channel_number": "NBA App / League Pass",
+        "is_free_tier": false,
+        "tier_name": "NBA League Pass",
+        "tier_badge": "🌐 NBA League Pass",
+        "tier_type": "LEAGUE_PASS",
+        "is_live": false,
+        "broadcast_title": "",
+        "broadcast_time": "",
+        "status": "NOT_SCHEDULED_YET",
+        "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
         "is_playing": "YES",
@@ -36089,20 +36119,20 @@ window.GAMES_DATA = {
         "badge": "שידור חי בערוץ הספורט"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -36417,20 +36447,20 @@ window.GAMES_DATA = {
         "badge": "שידור חי בערוץ הספורט"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -36623,20 +36653,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -37073,20 +37103,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -37401,20 +37431,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -37628,20 +37658,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -38057,20 +38087,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -38385,20 +38415,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -38490,20 +38520,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -38940,20 +38970,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -39268,20 +39298,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -39596,20 +39626,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -40025,20 +40055,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -40172,20 +40202,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -40500,20 +40530,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -40950,20 +40980,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -41055,20 +41085,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -41669,20 +41699,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -41997,20 +42027,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -42325,20 +42355,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -42552,20 +42582,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -42981,20 +43011,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -43431,20 +43461,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -43637,20 +43667,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -43965,20 +43995,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -44213,20 +44243,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -44419,20 +44449,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -44625,20 +44655,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -45075,20 +45105,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -45403,20 +45433,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -45731,20 +45761,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -46059,20 +46089,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -46610,20 +46640,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -46837,20 +46867,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -47064,20 +47094,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -47270,20 +47300,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -47821,20 +47851,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -48048,20 +48078,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -48254,20 +48284,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -48683,20 +48713,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -49011,20 +49041,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -49116,20 +49146,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -49444,20 +49474,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -49772,20 +49802,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -50201,20 +50231,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -50529,20 +50559,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -50756,20 +50786,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -51084,20 +51114,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -51290,20 +51320,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -51740,20 +51770,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -51845,20 +51875,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -52396,20 +52426,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -52825,20 +52855,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -53153,20 +53183,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -53481,20 +53511,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -53729,20 +53759,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -54057,20 +54087,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -54385,20 +54415,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -54490,20 +54520,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -55041,20 +55071,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -55369,20 +55399,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -55697,20 +55727,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -55924,20 +55954,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -56576,20 +56606,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -56803,20 +56833,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -57131,20 +57161,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "players": [
         {
@@ -57288,11 +57318,11 @@ window.GAMES_DATA = {
     }
   ],
   "deni_status": {
-    "status": "Day-To-Day",
-    "is_playing": "GTD",
+    "status": "Out",
+    "is_playing": "NO",
     "detail": "Injured",
     "source": "ESPN / NBA Official Injury Feed",
-    "last_updated": "2026-11-17T21:59:56.271962+00:00"
+    "last_updated": "2026-11-18T11:01:51.156316+00:00"
   },
   "total_games": 84,
   "games": [
@@ -57347,20 +57377,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": true,
@@ -57374,7 +57404,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 980.0,
+        "hours_ago": 993.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57447,20 +57477,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": true,
@@ -57474,7 +57504,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 866.0,
+        "hours_ago": 879.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57547,20 +57577,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": true,
@@ -57574,7 +57604,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 836.0,
+        "hours_ago": 849.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57647,20 +57677,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": true,
@@ -57674,7 +57704,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 764.0,
+        "hours_ago": 777.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57747,20 +57777,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -57774,7 +57804,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 644.0,
+        "hours_ago": 657.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57847,20 +57877,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -57874,7 +57904,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 596.0,
+        "hours_ago": 609.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -57947,20 +57977,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -57974,7 +58004,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 499.0,
+        "hours_ago": 512.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -58047,20 +58077,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -58074,7 +58104,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 452.0,
+        "hours_ago": 465.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -58147,20 +58177,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -58174,7 +58204,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 411.0,
+        "hours_ago": 424.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -58247,20 +58277,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -58274,7 +58304,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 356.0,
+        "hours_ago": 369.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -58347,20 +58377,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -58374,7 +58404,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 308.0,
+        "hours_ago": 321.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -58447,20 +58477,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -58474,7 +58504,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 259.0,
+        "hours_ago": 272.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -58547,20 +58577,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -58574,7 +58604,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 235.0,
+        "hours_ago": 248.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -58647,20 +58677,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -58674,7 +58704,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 162.0,
+        "hours_ago": 175.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -58747,20 +58777,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -58774,7 +58804,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 139.0,
+        "hours_ago": 152.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -58847,20 +58877,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -58874,7 +58904,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 91.0,
+        "hours_ago": 104.0,
         "is_spoiler_period": false,
         "stats": {
           "has_played": true,
@@ -58933,34 +58963,34 @@ window.GAMES_DATA = {
       "season_type_id": 2,
       "us_broadcast": "KUNP 16, DAZN MIN, BlazerVision",
       "tv_broadcast": {
-        "channel_name": "5STARS (ערוץ 5 כוכבים)",
-        "channel_code": "5STARS",
-        "channel_number": "אפיק 59",
-        "is_free_tier": false,
-        "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-        "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-        "tier_type": "PAID",
+        "channel_name": "5SPORT (ערוץ 5)",
+        "channel_code": "5SPORT",
+        "channel_number": "אפיק 55",
+        "is_free_tier": true,
+        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+        "tier_type": "FREE",
         "is_live": true,
-        "broadcast_title": "NBA: מינסוטה - פורטלנד, עונה סדירה",
-        "broadcast_time": "03:00",
+        "broadcast_title": "מעקבדיה: מינסוטה - פורטלנד (מוקלט)",
+        "broadcast_time": "12:40",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -58974,7 +59004,7 @@ window.GAMES_DATA = {
       "player_boxscore": {
         "available": true,
         "is_completed": true,
-        "hours_ago": 21.0,
+        "hours_ago": 34.0,
         "is_spoiler_period": true,
         "stats": {
           "has_played": true,
@@ -59025,42 +59055,42 @@ window.GAMES_DATA = {
         "abbrev": "POR",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
       },
-      "status": "Scheduled",
-      "status_detail": "Tue, November 17th at 8:00 PM EST",
-      "is_completed": false,
+      "status": "Final",
+      "status_detail": "Final",
+      "is_completed": true,
       "season_type": "עונה סדירה (Regular Season)",
       "season_type_en": "Regular Season",
       "season_type_id": 2,
       "us_broadcast": "BlazerVision, DAZN MIN",
       "tv_broadcast": {
-        "channel_name": "5STARS (ערוץ 5 כוכבים)",
-        "channel_code": "5STARS",
-        "channel_number": "אפיק 59",
-        "is_free_tier": false,
-        "tier_name": "ערוץ בתשלום נוסף (חבילת פרימיום)",
-        "tier_badge": "🔒 ערוץ בתשלום (אפיק 59)",
-        "tier_type": "PAID",
+        "channel_name": "5SPORT (ערוץ 5)",
+        "channel_code": "5SPORT",
+        "channel_number": "אפיק 55",
+        "is_free_tier": true,
+        "tier_name": "ערוץ פתוח בסיסי (בחינם בכל החבילות)",
+        "tier_badge": "🟢 ערוץ פתוח לכולם (אפיק 55)",
+        "tier_type": "FREE",
         "is_live": true,
-        "broadcast_title": "NBA: מינסוטה - פורטלנד, עונה סדירה",
-        "broadcast_time": "03:00",
+        "broadcast_title": "מעקבדיה: מינסוטה - פורטלנד (מוקלט)",
+        "broadcast_time": "12:40",
         "status": "CONFIRMED_BROADCAST",
         "badge": "שידור חי בערוץ הספורט"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59072,8 +59102,18 @@ window.GAMES_DATA = {
         "channel_url": "https://www.youtube.com/@PiniBarel"
       },
       "player_boxscore": {
-        "available": false,
-        "is_completed": false
+        "available": true,
+        "is_completed": true,
+        "hours_ago": 10.0,
+        "is_spoiler_period": true,
+        "stats": {
+          "has_played": false,
+          "dnp_reason": "LEFT FOOT",
+          "final_scores": {
+            "MIN": "106",
+            "POR": "105"
+          }
+        }
       }
     },
     {
@@ -59127,20 +59167,20 @@ window.GAMES_DATA = {
         "badge": "שידור חי בערוץ הספורט"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59207,20 +59247,20 @@ window.GAMES_DATA = {
         "badge": "שידור חי בערוץ הספורט"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59287,20 +59327,20 @@ window.GAMES_DATA = {
         "badge": "League Pass / טרם פורסם"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59367,20 +59407,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59447,20 +59487,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59527,20 +59567,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59607,20 +59647,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59687,20 +59727,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59767,20 +59807,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59847,20 +59887,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -59927,20 +59967,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60007,20 +60047,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60087,20 +60127,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60167,20 +60207,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60247,20 +60287,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60327,20 +60367,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60407,20 +60447,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60487,20 +60527,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60567,20 +60607,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60647,20 +60687,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60727,20 +60767,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60807,20 +60847,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60887,20 +60927,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -60967,20 +61007,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61047,20 +61087,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61127,20 +61167,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61207,20 +61247,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61287,20 +61327,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61367,20 +61407,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61447,20 +61487,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61527,20 +61567,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61607,20 +61647,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61687,20 +61727,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61767,20 +61807,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61847,20 +61887,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -61927,20 +61967,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62007,20 +62047,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62087,20 +62127,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62167,20 +62207,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62247,20 +62287,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62327,20 +62367,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62407,20 +62447,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62487,20 +62527,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62567,20 +62607,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62647,20 +62687,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62727,20 +62767,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62807,20 +62847,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62887,20 +62927,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -62967,20 +63007,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63047,20 +63087,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63127,20 +63167,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63207,20 +63247,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63287,20 +63327,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63367,20 +63407,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63447,20 +63487,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63527,20 +63567,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63607,20 +63647,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63687,20 +63727,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63767,20 +63807,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63847,20 +63887,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -63927,20 +63967,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -64007,20 +64047,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -64087,20 +64127,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -64167,20 +64207,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -64247,20 +64287,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
@@ -64327,20 +64367,20 @@ window.GAMES_DATA = {
         "badge": "עתידי"
       },
       "player_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "deni_status": {
-        "is_playing": "GTD",
-        "status": "Day-To-Day",
+        "is_playing": "NO",
+        "status": "Out",
         "detail": "Injured",
         "source": "ESPN / NBA Official Injury Feed",
-        "badge_icon": "🟡",
-        "badge_text": "בספק (Day-To-Day)"
+        "badge_icon": "🔴",
+        "badge_text": "בחוץ (Out)"
       },
       "pini_summary": {
         "has_summary": false,
